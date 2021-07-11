@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : UDFN50P300X200X65-9N.dra                      )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Sat Nov 07 00:11:12 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/OpenSource/Hardware/Quanta_Project_Olympus_US1-EPYC/Project_Olympus_US1_EPYC_Collateral
+    Name      = udfn50p300x200x65-9n.psm
+    User      = drunk_solder
+    Machine   = LAPTOP-LHSD8MAL
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

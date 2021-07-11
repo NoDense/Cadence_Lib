@@ -1,0 +1,20 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Sat Jan 25 11:26:28 2020
+\t (00:00:00)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=27060 CPUs=8
+\t (00:00:00) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:01) setwindow form.padedit
+\i (00:00:01) FORM padedit layers  
+\i (00:00:02) FORM padedit grid row begin_layer 
+\i (00:12:03) FORM padedit width 1.2 
+\i (00:12:08) FORM padedit height 2.5 
+\i (00:12:11) FORM padedit grid rpopup begin_layer Copy 
+\i (00:12:12) FORM padedit grid row soldermask_top 
+\i (00:12:13) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:12:14) FORM padedit grid row pastemask_top 
+\i (00:12:15) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:12:19) pse_save_as 
+\i (00:13:15) fillin "D:\ProgramData\CDS_LIB\Footprint\padpath\s_r250_120_m250_120_p250_120.pad"
+\i (00:13:27) pse_new 
+\i (00:14:42) fillin "s_r250_200_m250_200_p250_200.pad"
+\t (00:14:42)     Journal end - Sat Jan 25 11:41:10 2020

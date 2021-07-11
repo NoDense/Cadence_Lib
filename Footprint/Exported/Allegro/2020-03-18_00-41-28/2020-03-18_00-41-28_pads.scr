@@ -1,0 +1,50 @@
+# Allegro Script file created by :
+# Ultra Librarian Lite 8.1.204 Copyright ? 1999-2016 Accelerated Designs
+# http://www.Accelerated-Designs.com
+ 
+# Registered to :
+# Ultra Librarian Free Reader
+# 
+ 
+# Original file name : 
+ 
+Version 13.6
+
+setwindow Form.padedit
+
+######################## New PadStack #########################
+pse_new
+fillin "EX22Y22D0T.pad"
+
+FORM padedit units Mils
+FORM padedit decimal_places 4
+
+FORM padedit layers
+FORM padedit grid row 1
+FORM padedit geometry Circle
+FORM padedit width 22
+FORM padedit height 22
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit geometry_th Null
+FORM padedit grid row 4
+FORM padedit geometry Circle
+FORM padedit width 22
+FORM padedit height 22
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit grid row 6
+FORM padedit geometry Circle
+FORM padedit width 22
+FORM padedit height 22
+FORM padedit x_offset 0
+FORM padedit y_offset 0
+FORM padedit parameters
+FORM padedit single YES
+FORM padedit plating Non-Plated
+pse_save_as
+fillin "EX22Y22D0T.pad"
+pse_exit
+FORM padedit done
+ 
+# end of padstack script

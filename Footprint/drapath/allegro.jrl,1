@@ -1,0 +1,168 @@
+\t (00:00:05) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:05)     Journal start - Sun Jun 27 00:10:34 2021
+\t (00:00:05)         Host=DESKTOP-2H3QU4Q User=ming1 Pid=8264 CPUs=8
+\t (00:00:05) CmdLine= D:\Program\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe D:\ProgramData\CDS_LIB\Footprint\drapath\LED0805.dra
+\t (00:00:05) 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Design opened: D:/ProgramData/CDS_LIB/Footprint/drapath/LED0805.dra
+\i (00:00:08) trapsize 748
+\i (00:00:08) trapsize 735
+\i (00:00:08) trapsize 750
+\i (00:00:08) trapsize 765
+\i (00:00:08) trapsize 767
+\i (00:00:09) generaledit 
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -56.331 14.326
+\i (00:00:09) trapsize 1535
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -56.331 11.257
+\i (00:00:09) trapsize 3069
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in 15.711 15.554
+\i (00:00:10) trapsize 1535
+\i (00:00:11) prepopup 86.917 77.246
+\i (00:00:11) pick grid 47.938 84.613
+\t (00:00:11) last pick:  50.000 80.000
+\i (00:00:12) color192 
+\i (00:00:12) setwindow cvf.dialog
+\i (00:00:12) cvf layer_mode
+\i (00:00:12) setwindow pcb
+\i (00:00:12) generaledit 
+\i (00:00:15) setwindow cvf.dialog
+\i (00:00:15) cvf global_visible
+\i (00:00:16) cvf okay
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out -66.545 22.614
+\i (00:00:17) trapsize 3069
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 14.484 8.495
+\i (00:00:17) trapsize 1535
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 44.256 20.159
+\i (00:00:18) trapsize 767
+\i (00:00:19) prepopup 96.893 38.728
+\i (00:00:20) pick grid 95.666 40.723
+\t (00:00:20) last pick:  100.000 40.000
+\i (00:00:20) prepopup 95.666 40.723
+\i (00:00:20) prepopup 90.448 43.946
+\i (00:00:21) pick grid 86.458 47.169
+\t (00:00:21) last pick:  90.000 50.000
+\i (00:00:23) setwindow form.find
+\i (00:00:23) FORM find all_off  
+\i (00:00:24) FORM find lines YES 
+\i (00:00:24) FORM find lines NO 
+\i (00:00:33) FORM find cline_segs YES 
+\i (00:00:33) FORM find cline_segs NO 
+\i (00:00:34) FORM find other_segs YES 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) prepopup 33.514 53.307
+\i (00:00:56) pick grid 27.222 50.391
+\t (00:00:56) last pick:  30.000 50.000
+\i (00:00:57) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 29.524 42.718
+\i (00:00:57) trapsize 1535
+\i (00:00:57) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 30.751 30.135
+\i (00:00:57) trapsize 3069
+\i (00:00:58) zoom in 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in 32.592 55.916
+\i (00:00:58) trapsize 1535
+\i (00:00:58) zoom in 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in 32.593 56.530
+\i (00:00:58) trapsize 767
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 33.667 52.694
+\i (00:00:58) trapsize 1535
+\i (00:00:59) save 
+\i (00:01:00) fillin yes 
+\t (00:01:00) Symbol 'led0805.psm' created.
+\i (00:01:00) generaledit 
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in -90.023 13.101
+\i (00:01:00) trapsize 767
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in -90.023 13.102
+\i (00:01:00) trapsize 384
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out -90.022 12.949
+\i (00:01:01) trapsize 767
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out -89.409 11.107
+\i (00:01:01) trapsize 1535
+\i (00:01:01) roam start
+\i (00:01:01) roam x 64
+\i (00:01:01) roam y -96
+\i (00:01:01) roam x 128
+\i (00:01:01) roam y -128
+\i (00:01:02) roam y -16
+\i (00:01:02) roam x 48
+\i (00:01:02) roam y 16
+\i (00:01:02) roam y 48
+\i (00:01:02) roam x -16
+\i (00:01:02) roam y 80
+\i (00:01:02) roam x -80
+\i (00:01:02) roam y 16
+\i (00:01:02) roam x -192
+\i (00:01:02) roam x -160
+\i (00:01:02) roam y -16
+\i (00:01:02) roam x -48
+\i (00:01:02) roam y -16
+\i (00:01:02) roam end
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in -33.395 25.223
+\i (00:01:02) trapsize 767
+\i (00:01:03) zoom out 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out -24.801 17.089
+\i (00:01:03) trapsize 1535
+\i (00:01:03) zoom out 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out -27.256 14.327
+\i (00:01:03) trapsize 3069
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in -25.415 41.337
+\i (00:01:04) trapsize 1535
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in -25.415 41.337
+\i (00:01:04) trapsize 767
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out -23.266 40.110
+\i (00:01:04) trapsize 1535
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out -18.662 14.021
+\i (00:01:08) trapsize 3069
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in -63.473 4.813
+\i (00:01:09) trapsize 1535
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in -65.315 5.734
+\i (00:01:09) trapsize 767
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out -72.374 -5.469
+\i (00:01:11) trapsize 1535
+\i (00:01:13) exit 
+\t (00:01:13)     Journal end - Sun Jun 27 00:11:42 2021

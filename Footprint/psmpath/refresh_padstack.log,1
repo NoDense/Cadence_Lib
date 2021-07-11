@@ -1,0 +1,68 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : QFN40P400X400-33N.dra                         )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Sat Mar 21 12:06:50 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Mar 21 12:06:50 2020				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'D:/ProgramData/CDS_LIB/Footprint/psmpath/QFN40P400X400-33N.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/local/pcb/symbols 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/pcb/pcb_lib/symbols 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/ProgramData/CDS_LIB/Footprint/psmpath/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/local/pcb/padstacks 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/pcb/pcb_lib/symbols 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/ProgramData/CDS_LIB/Footprint/padpath/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SHA_R82_25_RU_NEW'  pad stack refresh starting.
+
+     'SHA_R82_25_RU_NEW'  pad stack refreshed successfully.
+     
+'SHA_R82_25_LU_NEW'  pad stack refresh starting.
+
+     'SHA_R82_25_LU_NEW'  pad stack refreshed successfully.
+     
+'S_S270_270_M270_270_P270_270'  pad stack refresh starting.
+
+     'S_S270_270_M270_270_P270_270'  pad stack refreshed successfully.
+     
+'SHA_R82_25_LU'  pad stack refresh starting.
+
+     'SHA_R82_25_LU'  pad stack refreshed successfully.
+     
+'SHA_R82_25_RU'  pad stack refresh starting.
+
+     'SHA_R82_25_RU'  pad stack refreshed successfully.
+     
+'S_R82_25_M82_25_P82_25'  pad stack refresh starting.
+
+     'S_R82_25_M82_25_P82_25'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

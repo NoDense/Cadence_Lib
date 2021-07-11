@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOT23L.dra                                    )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Fri Jan 24 22:06:13 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/ProgramData/CDS_LIB/Footprint/psmpath
+    Name      = sot23l.psm
+    User      = drunk_solder
+    Machine   = LAPTOP-LHSD8MAL
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

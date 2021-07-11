@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : hole_c300p400.dra                             )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Sat Dec 14 02:45:00 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = D:/ProgramData/CDS_LIB/Footprint/psmpath
+    Name      = hole_c300p400.bsm
+    User      = drunk_solder
+    Machine   = LAPTOP-LHSD8MAL
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

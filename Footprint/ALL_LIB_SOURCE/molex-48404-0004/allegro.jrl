@@ -1,0 +1,18 @@
+\t (00:00:03) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:03)     Journal start - Mon Dec 09 23:06:05 2019
+\t (00:00:03)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=10112 CPUs=8
+\t (00:00:03) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: D:/ProgramData/CDS_LIB/Footprint/ALL_LIB_SOURCE/molex-48404-0004/MOLEX_48404-0004.dra
+\i (00:00:06) trapsize 8972
+\i (00:00:06) trapsize 9028
+\i (00:00:06) trapsize 9824
+\i (00:00:06) trapsize 9049
+\i (00:00:06) trapsize 7681
+\i (00:00:06) trapsize 7681
+\i (00:00:07) generaledit 
+\i (00:00:16) opencd D:/ProgramData/CDS_LIB/Footprint/drapath/MicroUSB_P4S5.dra 
+\t (00:00:16) Opening existing design...
+\i (00:00:16) trapsize 287
+\t (00:00:16)     Journal end - Mon Dec 09 23:06:18 2019

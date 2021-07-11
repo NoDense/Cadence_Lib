@@ -1,0 +1,278 @@
+
+(EDIF
+  (rename NX3225SA_45_16000M_45_STD_45_CRS_45_2 "NX3225SA-16000M-STD-CRS-2")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2019 12 10 12 23 29)
+      (dataOrigin "SnapEDA snapeda.comCopyright - This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+      (program "SnapEDA Converter")
+    )
+  )
+  (library
+    (rename NX3225SA_45_16000M_45_STD_45_CRS_45_2 "NX3225SA-16000M-STD-CRS-2")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition
+        (scale 1 (e 254 -9) (unit DISTANCE))
+        (gridMap 1 1)
+      )
+      (figureGroup PINNAME
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (pathWidth 0)
+        (textHeight 4811)
+      )
+      (figureGroup PINNUMBER
+        (cornerType TRUNCATE)
+        (endType TRUNCATE)
+        (textHeight 9000)
+        (pathWidth 0)
+      )
+      (figureGroup PORT
+        (pathWidth 1000)
+        (textHeight 9000)
+      )
+      (figureGroup PARTBODY
+        (pathWidth 1000)
+        (borderWidth 1000)
+        (textHeight 6000)
+      )
+    )
+    (cell
+      (rename NX3225SA_45_16000M_45_STD_45_CRS_45_2 "NX3225SA-16000M-STD-CRS-2")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "Y")
+          (property (rename VALUE "Value") (string "NX3225SA-16000M-STD-CRS-2"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 0)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename GND "GND")
+            (designator "2")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 1)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename &3 "3")
+            (designator "3")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 2)
+              (owner "OrCAD")
+            )
+          )
+          (port
+            (rename GND__1 "GND__1")
+            (designator "4")
+            (property
+              (rename TYPE "Type")
+              (string "PAS")
+            )
+            (property
+              (rename ORDER "Order")
+              (integer 3)
+              (owner "OrCAD")
+            )
+          )
+          (symbol
+            (boundingBox (rectangle (pt -20000 -40000) (pt 20000 10000)))
+            (portImplementation
+              (name &3)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 20000 0)
+                    (pt 10000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name &1)
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt -20000 0)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt -20000 0)
+                    (pt -10000 0)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name GND)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify UPPERCENTER)
+                  (orientation R0)
+                  (origin (pt 0 -26062))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 -40000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 -40000)
+                    (pt 0 -20000)
+                  )
+                )
+              )
+            )
+            (portImplementation
+              (name GND__1)
+              (keywordDisplay DESIGNATOR
+                (display PINNUMBER
+                  (justify UPPERCENTER)
+                  (orientation R0)
+                  (origin (pt 0 -36062))
+                )
+              )
+              (connectLocation
+                (figure PORT
+                  (dot
+                    (pt 0 -40000)
+                  )
+                )
+              )
+              (figure PARTBODY
+                (path
+                  (pointList
+                    (pt 0 -40000)
+                    (pt 0 -30000)
+                  )
+                )
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5500 10000) (pt 5500 10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 5500 10000) (pt 5500 -10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 5500 -10000) (pt -5500 -10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -5500 10000) (pt -5500 -10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 9200 10000) (pt 9200 -10000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -9200 10000) (pt -9200 -10000)))
+            )
+            (keywordDisplay DESIGNATOR
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt 39968 -14976))
+              )
+            )
+            (propertyDisplay VALUE
+              (display PARTBODY
+                (justify LOWERLEFT)
+                (orientation R0)
+                (origin (pt 39944 -30055))
+              )
+            )
+            (figure PARTBODY
+              (path (pointList (pt -15000 -6000) (pt -15000 -16000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt -15000 -16000) (pt 0 -16000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -16000) (pt 15000 -16000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 15000 -16000) (pt 15000 -6000)))
+            )
+            (figure PARTBODY
+              (path (pointList (pt 0 -16000) (pt 0 -20000)))
+            )
+            (property (rename PCB_Footprint "PCB Footprint") (string "OSCCC320X250X60N"))
+            (property
+              (rename MF "MF")
+              (string
+              (stringDisplay "NDK America,"))
+            )
+            (property
+              (rename Digi_Key_Part_Number "Digi_Key_Part_Number")
+              (string
+              (stringDisplay "644-1129-1-ND"))
+            )
+            (property
+              (rename Package "Package")
+              (string
+              (stringDisplay "SMD-4 NDK"))
+            )
+            (property
+              (rename MP "MP")
+              (string
+              (stringDisplay "NX3225SA-16.000M-STD-CRS-2"))
+            )
+            (property
+              (rename Digi_Key_Purchase_URL "Digi_Key_Purchase_URL")
+              (string
+              (stringDisplay "https://www.digikey.com/product-detail/en/ndk-america-inc/NX3225SA-16.000M-STD-CRS-2/644-1129-1-ND/1788484?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"))
+            )
+            (property
+              (rename Description "Description")
+              (string
+              (stringDisplay "
+Crystal 16.0000mhz 8pf Smd
+"))
+            )
+          )
+        )
+      )
+    )
+  )
+)

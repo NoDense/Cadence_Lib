@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SMD376X295.dra                                )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Sat Jan 25 15:02:26 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/ProgramData/CDS_LIB/Footprint/psmpath
+    Name      = smd376x295.psm
+    User      = drunk_solder
+    Machine   = LAPTOP-LHSD8MAL
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

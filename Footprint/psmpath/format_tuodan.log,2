@@ -1,0 +1,43 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : format_tuodan.dra                             )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Sat Dec 14 03:43:20 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: FORMAT
+    Directory = D:/ProgramData/CDS_LIB/Footprint/psmpath
+    Name      = format_tuodan.osm
+    User      = drunk_solder
+    Machine   = LAPTOP-LHSD8MAL
+
+
+Create symbol started.
+ 
+ ERROR(SPMHA1-98): Illegal element class. 95961992 
+SHAPE        @95961992
+1)  mask              = 40
+2)  class             = 9 = PACKAGE GEOMETRY
+3)  subclass          = 247 = SILKSCREEN_TOP
+4)  branch_link       = 95960640
+5)  branch_ptr        = 93138924
+6)  symbol_ins_link   = 0
+7)  first_connection       = 0
+8)  first_void        = 0
+9)  first_outline_seg = 95962064
+10) first_patch_set   = 0
+11) shape_fill        = 1
+12) first_text        = 0
+13) first_relation    = 0
+14) extents.min       = (601311, 253845)
+15) extents.max       = (608076, 300864)
+16) prev_branch_item  = 0
+
+ ERROR(SPMHA1-98): Illegal element class. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

@@ -1,0 +1,40 @@
+\t (00:00:02) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:02)     Journal start - Sat Jan 18 17:36:33 2020
+\t (00:00:02)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=24952 CPUs=8
+\t (00:00:02) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe D:\Development\Ultra Librarian\Library\Exported\Allegro\2020-01-07_01-54-38\LQFP100_14X14-M.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-01-07_01-54-38/LQFP100_14X14-M.dra
+\i (00:00:02) trapsize 50
+\i (00:00:02) trapsize 49
+\i (00:00:02) trapsize 50
+\i (00:00:03) trapsize 43
+\i (00:00:03) trapsize 43
+\i (00:00:04) generaledit 
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -21.63 -1.49
+\i (00:00:04) trapsize 85
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -21.63 -1.49
+\i (00:00:04) trapsize 170
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -21.63 -1.49
+\i (00:00:04) trapsize 341
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -21.62 -1.49
+\i (00:00:04) trapsize 681
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 133.74 351.48
+\i (00:00:05) trapsize 341
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 128.97 352.17
+\i (00:00:05) trapsize 170
+\i (00:00:09) exit 
+\t (00:00:09)     Journal end - Sat Jan 18 17:36:41 2020

@@ -1,0 +1,79 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Mon Dec 09 22:04:44 2019
+\t (00:00:00)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=17880 CPUs=8
+\t (00:00:00) CmdLine= pad_designer -s t_l80_120_240_m240_120_pad.scr
+\t (00:00:00) 
+\i (00:00:00) setwindow form.padedit
+\i (00:00:00) replay t_l80_120_240_m240_120_pad.scr 
+\i (00:00:00) version 16.3 
+\t (00:00:00) Script version: 16.3
+\i (00:00:00) setwindow form.padedit 
+\i (00:00:00) pse_new 
+\i (00:00:00) fillin t_l80_120_240_m240_120 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) fillin yes 
+\w (00:00:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:00) FORM padedit decimal_places 4 
+\i (00:00:00) FORM padedit inner_layer_opt YES 
+\e (00:00:00) Form field label not found
+\i (00:00:00) FORM padedit single YES 
+\e (00:00:00) Field is currently invisible or disabled.
+\i (00:00:00) FORM padedit hole_type Circle 
+\e (00:00:00) Value for field is not legal
+\i (00:00:00) FORM padedit hole_size_x 0.8 
+\i (00:00:00) FORM padedit hole_size_x 0.8 
+\i (00:00:00) FORM padedit plating Plated 
+\i (00:00:00) setwindow Form.padedit 
+\i (00:00:00) FORM padedit layers 
+\i (00:00:01) FORM padedit layers  
+\i (00:00:01) FORM padedit grid row begin_layer 
+\i (00:00:01) FORM padedit grid row begin_layer 
+\i (00:00:01) FORM padedit geometry Oblong 
+\i (00:00:01) FORM padedit geometry Oblong 
+\i (00:00:01) FORM padedit width 2.4 
+\i (00:00:01) FORM padedit width 2.4 
+\i (00:00:01) FORM padedit height 1.2 
+\i (00:00:01) FORM padedit height 1.2 
+\i (00:00:01) FORM padedit grid row default_internal 
+\i (00:00:01) FORM padedit grid row default_internal 
+\i (00:00:01) FORM padedit geometry Oblong 
+\i (00:00:01) FORM padedit geometry Oblong 
+\i (00:00:01) FORM padedit width 2.4 
+\i (00:00:01) FORM padedit width 2.4 
+\i (00:00:01) FORM padedit height 1.2 
+\i (00:00:01) FORM padedit height 1.2 
+\i (00:00:01) FORM padedit grid row SOLDERMASK_TOP 
+\i (00:00:01) FORM padedit grid row soldermask_top 
+\i (00:00:01) FORM padedit geometry Oblong 
+\i (00:00:01) FORM padedit geometry Oblong 
+\i (00:00:01) FORM padedit width 2.4 
+\i (00:00:01) FORM padedit width 2.4 
+\i (00:00:01) FORM padedit height 1.2 
+\i (00:00:01) FORM padedit height 1.2 
+\i (00:00:01) FORM padedit grid row SOLDERMASK_BOTTOM 
+\i (00:00:01) FORM padedit grid row soldermask_bottom 
+\i (00:00:01) FORM padedit geometry Oblong 
+\i (00:00:01) FORM padedit geometry Oblong 
+\i (00:00:01) FORM padedit width 2.4 
+\i (00:00:01) FORM padedit width 2.4 
+\i (00:00:01) FORM padedit height 1.2 
+\i (00:00:01) FORM padedit height 1.2 
+\i (00:00:01) FORM padedit grid row end_layer 
+\i (00:00:01) FORM padedit grid row end_layer 
+\i (00:00:01) FORM padedit geometry Oblong 
+\i (00:00:01) FORM padedit geometry Oblong 
+\i (00:00:01) FORM padedit width 2.4 
+\i (00:00:01) FORM padedit width 2.4 
+\i (00:00:01) FORM padedit height 1.2 
+\i (00:00:01) FORM padedit height 1.2 
+\i (00:00:01) FORM padedit drill_fig Cross 
+\i (00:00:01) FORM padedit drill_fig Cross 
+\i (00:00:01) FORM padedit drill_width 1 
+\i (00:00:01) FORM padedit drill_width 1 
+\i (00:00:01) FORM padedit drill_height 1 
+\i (00:00:01) FORM padedit drill_height 1 
+\i (00:00:01) pse_check 
+\i (00:00:01) pse_save 
+\i (00:00:01) pse_exit 
+\t (00:00:01)     Journal end - Mon Dec 09 22:04:45 2019

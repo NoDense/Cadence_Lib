@@ -1,0 +1,39 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Fri Mar 20 03:34:02 2020
+\t (00:00:00)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=26148 CPUs=8
+\t (00:00:00) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) FORM padedit units Millimeter 
+\i (00:00:05) fillin yes 
+\w (00:00:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:07) FORM padedit layers  
+\i (00:00:08) FORM padedit single YES 
+\i (00:00:10) FORM padedit grid row begin_layer 
+\i (00:00:14) FORM padedit geometry Rectangle 
+\i (00:01:35) FORM padedit width 0.8 
+\i (00:01:39) FORM padedit height 0.26 
+\i (00:01:41) FORM padedit crossbox YES 
+\i (00:01:44) FORM padedit stackbox YES 
+\i (00:01:50) FORM padedit height 0.24 
+\i (00:02:57) FORM padedit height 0.25 
+\i (00:03:02) FORM padedit width 0.82 
+\i (00:03:10) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:03:12) setwindow form.padcopy
+\i (00:03:12) FORM padcopy pse_copy_done  
+\i (00:03:15) setwindow form.padedit
+\i (00:03:15) FORM padedit grid row soldermask_top 
+\i (00:03:16) FORM padedit grid row soldermask_bottom 
+\i (00:03:18) FORM padedit grid row begin_layer 
+\i (00:03:22) FORM padedit grid rpopup begin_layer Copy 
+\i (00:03:22) FORM padedit grid row soldermask_top 
+\i (00:03:23) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:03:28) FORM padedit grid row pastemask_top 
+\i (00:03:29) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:03:33) FORM padedit crossbox YES 
+\i (00:03:34) FORM padedit stackbox YES 
+\i (00:03:37) pse_save_as 
+\i (00:03:42) fillin yes 
+\i (00:04:39) fillin "D:\ProgramData\CDS_LIB\Footprint\padpath\s_r82_25_m82_25_p82_25.pad"
+\i (00:04:43) pse_exit
+\t (00:04:43)     Journal end - Fri Mar 20 03:38:45 2020

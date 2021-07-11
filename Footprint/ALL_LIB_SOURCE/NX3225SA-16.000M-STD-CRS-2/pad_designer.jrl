@@ -1,0 +1,22 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Sat Dec 14 02:45:45 2019
+\t (00:00:00)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=1912 CPUs=8
+\t (00:00:00) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:06) setwindow form.padedit
+\i (00:00:06) pse_open D:/ProgramData/CDS_LIB/Footprint/padpath/t_c300p400.pad 
+\i (00:00:07) FORM padedit layers  
+\i (00:00:08) FORM padedit grid row soldermask_top 
+\i (00:00:10) FORM padedit geometry Circle 
+\i (00:00:11) FORM padedit grid row soldermask_bottom 
+\i (00:00:14) FORM padedit geometry Circle 
+\i (00:00:14) FORM padedit grid row end_layer 
+\i (00:00:17) FORM padedit grid rpopup end_layer Copy 
+\i (00:00:18) FORM padedit grid row soldermask_top 
+\i (00:00:19) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:00:19) FORM padedit grid row soldermask_bottom 
+\i (00:00:20) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:00:26) pse_save 
+\i (00:00:28) fillin yes 
+\i (00:00:30) pse_exit
+\t (00:00:30)     Journal end - Sat Dec 14 02:46:16 2019

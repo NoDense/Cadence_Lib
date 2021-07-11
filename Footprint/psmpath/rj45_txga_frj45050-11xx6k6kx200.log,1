@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : RJ45_TXGA_FRJ45050-11XX6K6KX200.dra           )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Wed Apr 15 15:39:23 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/ProgramData/CDS_LIB/Footprint/psmpath
+    Name      = rj45_txga_frj45050-11xx6k6kx200.psm
+    User      = drunk_solder
+    Machine   = LAPTOP-LHSD8MAL
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

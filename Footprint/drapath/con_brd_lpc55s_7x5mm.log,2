@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CON_BRD_LPC55S_7X5MM.dra                      )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Wed Jun 10 18:51:19 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/ProgramData/CDS_LIB/Footprint/drapath
+    Name      = con_brd_lpc55s_7x5mm.psm
+    User      = drunk_solder
+    Machine   = LAPTOP-LHSD8MAL
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

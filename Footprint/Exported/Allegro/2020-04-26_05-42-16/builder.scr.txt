@@ -1,0 +1,6 @@
+skill load "D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-04-26_05-42-16/builder.il" 
+skill changeWorkingDir "D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-04-26_05-42-16" 
+skill LB_createFootprint "D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-04-26_05-42-16/LQFP144_20X20-L.xml" 
+skill LB_createFootprint "D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-04-26_05-42-16/LQFP144_20X20-M.xml" 
+skill LB_createFootprint "D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-04-26_05-42-16/LQFP144_20X20.xml" 
+exit 

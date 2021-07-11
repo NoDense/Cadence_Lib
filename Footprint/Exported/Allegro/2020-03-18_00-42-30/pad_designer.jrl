@@ -1,0 +1,36 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Fri Mar 20 04:17:22 2020
+\t (00:00:00)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=29324 CPUs=8
+\t (00:00:00) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:03) setwindow form.padedit
+\i (00:00:03) FORM padedit layers  
+\i (00:00:04) FORM padedit single YES 
+\i (00:00:06) FORM padedit shapebutton  
+\i (00:00:31) fillin "menu_cancel"
+\i (00:22:52) FORM padedit shapebutton  
+\i (00:23:02) fillin "Sha_R82_25_Lu"
+\i (00:23:05) FORM padedit crossbox YES 
+\i (00:23:06) FORM padedit stackbox YES 
+\i (00:23:07) FORM padedit crossbox YES 
+\i (00:23:12) FORM padedit parameters  
+\i (00:23:14) FORM padedit units Millimeter 
+\i (00:23:15) fillin yes 
+\w (00:23:15) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:23:17) FORM padedit layers  
+\i (00:23:20) FORM padedit shapebutton  
+\i (00:23:22) fillin "Sha_R82_25_Lu"
+\i (00:23:29) pse_save_as 
+\i (00:23:33) fillin "menu_cancel"
+\i (00:23:37) pse_save_as 
+\i (00:23:58) fillin "D:\ProgramData\CDS_LIB\Footprint\padpath\SHA_R82_25_LU.pad"
+\i (00:23:58) cd "D:\ProgramData\CDS_LIB\Footprint\padpath"
+\i (00:24:04) FORM padedit shapebutton  
+\i (00:24:06) fillin "Sha_R82_25_Ru"
+\i (00:24:06) FORM padedit grid row filmmask_bottom 
+\i (00:24:09) FORM padedit shapebutton  
+\i (00:24:10) fillin "Sha_R82_25_Ru"
+\i (00:24:14) pse_save_as 
+\i (00:24:16) fillin "SHA_R82_25_RU.pad"
+\i (00:24:19) pse_exit
+\t (00:24:19)     Journal end - Fri Mar 20 04:41:41 2020

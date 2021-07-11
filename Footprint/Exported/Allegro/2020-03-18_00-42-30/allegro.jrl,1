@@ -1,0 +1,3476 @@
+\t (00:00:05) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:05)     Journal start - Wed Mar 18 00:44:37 2020
+\t (00:00:05)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=32972 CPUs=8
+\t (00:00:05) CmdLine= allegro -s 2020-03-18_00-42-30_brd.scr
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 837
+\i (00:00:07) trapsize 817
+\i (00:00:07) trapsize 840
+\i (00:00:08) trapsize 716
+\i (00:00:08) trapsize 1448
+\i (00:00:08) replay 2020-03-18_00-42-30_brd.scr 
+\i (00:00:09) version 14.0 
+\t (00:00:09) Script version: 14.0
+\i (00:00:09) version 14.0 
+\t (00:00:09) Script version: 14.0
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) open 
+\i (00:00:09) fillin blank_drawing.dra 
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 19
+\i (00:00:10) trapsize 23
+\i (00:00:10) trapsize 43
+\d (00:00:10) Design opened: D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-03-18_00-42-30/blank_drawing.dra
+\i (00:00:10) prmed 
+\i (00:00:10) setwindow Form.prmedit 
+\i (00:00:10) FORM prmedit design 
+\i (00:00:10) FORM prmedit type Package 
+\i (00:00:10) FORM prmedit units Mils 
+\i (00:00:10) FORM prmedit size Other 
+\i (00:00:10) FORM prmedit accuracy 2 
+\i (00:00:10) FORM prmedit width 2196 
+\i (00:00:10) FORM prmedit height 1952 
+\i (00:00:10) FORM prmedit apply 
+\i (00:00:10) trapsize 43
+\i (00:00:10) FORM prmedit x -860 
+\i (00:00:10) FORM prmedit y -966 
+\i (00:00:10) FORM prmedit apply 
+\i (00:00:10) trapsize 43
+\i (00:00:10) FORM prmedit lock_mode Line 
+\i (00:00:10) FORM prmedit lock_direction Off 
+\i (00:00:10) FORM prmedit apply 
+\i (00:00:10) FORM prmedit done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) status 
+\i (00:00:11) setwindow form.status 
+\i (00:00:11) FORM status lock_direction Off 
+\e (00:00:11) Form field label not found
+\i (00:00:11) FORM status lock_mode line 
+\e (00:00:11) Form field label not found
+\i (00:00:11) FORM status symbol_mirror NO 
+\e (00:00:11) Form field label not found
+\i (00:00:11) FORM status drawing_size 
+\e (00:00:11) Form field label not found
+\i (00:00:11) FORM status done 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) zoom center 
+\t (00:00:11) Pick center for the new display.
+\i (00:00:11) pick 0.0 0.0 
+\t (00:00:11) last pick:  0.00 0.00
+\i (00:00:11) define subclass 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name ASSEMBLY_TOP 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name SILKSCREEN_TOP 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PIN pick 
+\e (00:00:11) Form field label not found
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name PASTEMASK_TOP 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETR pick 
+\e (00:00:11) Form field label not found
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name SOLDERMASK_TOP 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name PLACE_BOUND_TOP 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name SOLDERMASK_BOTTOM 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PIN pick 
+\e (00:00:11) Form field label not found
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name PASTEMASK_BOTTOM 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name SILKSCREEN_BOTTOM 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name ASSEMBLY_BOTTOM 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name OUTLINE 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name ASSEMBLY_TOP 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name PLACE_BOUND_TOP 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name PLACE_BOUND_BOTTOM 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass MANUFACTURING pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name NO_PROBE_TOP 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass MANUFACTURING pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name NO_PROBE_BOTTOM 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name CUTOUTSLOTS 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name DIEBONDPADS 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name WIREBONDS 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name PIN 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name ASSEMBLY_DETAIL 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name OUTLINE 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass PACKAGE_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name COPY RIGHT 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name OUTLINE 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:11) setwindow form.subclass 
+\i (00:00:11) FORM subclass BOARD_GEOMETRY pick 
+\i (00:00:11) setwindow form.subclass_nonetch 
+\i (00:00:11) FORM subclass_nonetch name ASSEMBLY_NOTES 
+\i (00:00:11) FORM subclass done 
+\i (00:00:11) add pin 
+\i (00:00:11) setwindow form.mini 
+\i (00:00:11) FORM mini offsetx 0.00 
+\i (00:00:11) FORM mini offsety 0.00 
+\i (00:00:11) FORM mini rotate_pin 0 
+\i (00:00:11) add pin 
+\t (00:00:11) Exiting from Add Pin.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini pad_name EX22Y22D0T 
+\w (00:00:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:12) Using 'EX22Y22D0T.pad'.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini next_pin_number A1 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick -216.54 216.54 
+\t (00:00:12) last pick:  -216.54 216.54
+\t (00:00:12) Using 'EX22Y22D0T.pad'.
+\i (00:00:12) done 
+\t (00:00:12) Exiting from Add Pin.
+\i (00:00:12) add pin 
+\t (00:00:12) Using 'EX22Y22D0T.pad'.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini offsetx 0.00 
+\i (00:00:12) FORM mini offsety 0.00 
+\i (00:00:12) FORM mini rotate_pin 0 
+\i (00:00:12) add pin 
+\t (00:00:12) Exiting from Add Pin.
+\t (00:00:12) Using 'EX22Y22D0T.pad'.
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini pad_name EX22Y22D0T 
+\i (00:00:12) setwindow form.mini 
+\i (00:00:12) FORM mini next_pin_number A2 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick -177.17 216.54 
+\t (00:00:12) last pick:  -177.17 216.54
+\t (00:00:12) Using 'EX22Y22D0T.pad'.
+\i (00:00:12) done 
+\t (00:00:12) Exiting from Add Pin.
+\i (00:00:12) add pin 
+\t (00:00:13) Using 'EX22Y22D0T.pad'.
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini offsetx 0.00 
+\i (00:00:13) FORM mini offsety 0.00 
+\i (00:00:13) FORM mini rotate_pin 0 
+\i (00:00:13) add pin 
+\t (00:00:13) Exiting from Add Pin.
+\t (00:00:13) Using 'EX22Y22D0T.pad'.
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini pad_name EX22Y22D0T 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini next_pin_number A3 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick -137.8 216.54 
+\t (00:00:13) last pick:  -137.80 216.54
+\t (00:00:13) Using 'EX22Y22D0T.pad'.
+\i (00:00:13) done 
+\t (00:00:13) Exiting from Add Pin.
+\i (00:00:13) add pin 
+\t (00:00:13) Using 'EX22Y22D0T.pad'.
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini offsetx 0.00 
+\i (00:00:13) FORM mini offsety 0.00 
+\i (00:00:13) FORM mini rotate_pin 0 
+\i (00:00:13) add pin 
+\t (00:00:13) Exiting from Add Pin.
+\t (00:00:13) Using 'EX22Y22D0T.pad'.
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini pad_name EX22Y22D0T 
+\i (00:00:13) setwindow form.mini 
+\i (00:00:13) FORM mini next_pin_number A4 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) pick -98.43 216.54 
+\t (00:00:13) last pick:  -98.43 216.54
+\t (00:00:13) Using 'EX22Y22D0T.pad'.
+\i (00:00:13) done 
+\t (00:00:13) Exiting from Add Pin.
+\i (00:00:14) add pin 
+\t (00:00:14) Using 'EX22Y22D0T.pad'.
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini offsetx 0.00 
+\i (00:00:14) FORM mini offsety 0.00 
+\i (00:00:14) FORM mini rotate_pin 0 
+\i (00:00:14) add pin 
+\t (00:00:14) Exiting from Add Pin.
+\t (00:00:14) Using 'EX22Y22D0T.pad'.
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini pad_name EX22Y22D0T 
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini next_pin_number A5 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick -59.06 216.54 
+\t (00:00:14) last pick:  -59.06 216.54
+\t (00:00:14) Using 'EX22Y22D0T.pad'.
+\i (00:00:14) done 
+\t (00:00:14) Exiting from Add Pin.
+\i (00:00:14) add pin 
+\t (00:00:14) Using 'EX22Y22D0T.pad'.
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini offsetx 0.00 
+\i (00:00:14) FORM mini offsety 0.00 
+\i (00:00:14) FORM mini rotate_pin 0 
+\i (00:00:14) add pin 
+\t (00:00:14) Exiting from Add Pin.
+\t (00:00:14) Using 'EX22Y22D0T.pad'.
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini pad_name EX22Y22D0T 
+\i (00:00:14) setwindow form.mini 
+\i (00:00:14) FORM mini next_pin_number A6 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) pick -19.69 216.54 
+\t (00:00:14) last pick:  -19.69 216.54
+\t (00:00:14) Using 'EX22Y22D0T.pad'.
+\i (00:00:14) done 
+\t (00:00:14) Exiting from Add Pin.
+\i (00:00:14) add pin 
+\t (00:00:15) Using 'EX22Y22D0T.pad'.
+\i (00:00:15) setwindow form.mini 
+\i (00:00:15) FORM mini offsetx 0.00 
+\i (00:00:15) FORM mini offsety 0.00 
+\i (00:00:15) FORM mini rotate_pin 0 
+\i (00:00:15) add pin 
+\t (00:00:15) Exiting from Add Pin.
+\t (00:00:15) Using 'EX22Y22D0T.pad'.
+\i (00:00:15) setwindow form.mini 
+\i (00:00:15) FORM mini pad_name EX22Y22D0T 
+\i (00:00:15) setwindow form.mini 
+\i (00:00:15) FORM mini next_pin_number A7 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick 19.69 216.54 
+\t (00:00:15) last pick:  19.69 216.54
+\t (00:00:15) Using 'EX22Y22D0T.pad'.
+\i (00:00:15) done 
+\t (00:00:15) Exiting from Add Pin.
+\i (00:00:15) add pin 
+\t (00:00:15) Using 'EX22Y22D0T.pad'.
+\i (00:00:15) setwindow form.mini 
+\i (00:00:15) FORM mini offsetx 0.00 
+\i (00:00:15) FORM mini offsety 0.00 
+\i (00:00:15) FORM mini rotate_pin 0 
+\i (00:00:15) add pin 
+\t (00:00:15) Exiting from Add Pin.
+\t (00:00:15) Using 'EX22Y22D0T.pad'.
+\i (00:00:15) setwindow form.mini 
+\i (00:00:15) FORM mini pad_name EX22Y22D0T 
+\i (00:00:15) setwindow form.mini 
+\i (00:00:15) FORM mini next_pin_number A8 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick 59.06 216.54 
+\t (00:00:15) last pick:  59.06 216.54
+\t (00:00:15) Using 'EX22Y22D0T.pad'.
+\i (00:00:15) done 
+\t (00:00:15) Exiting from Add Pin.
+\i (00:00:15) add pin 
+\t (00:00:16) Using 'EX22Y22D0T.pad'.
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini offsetx 0.00 
+\i (00:00:16) FORM mini offsety 0.00 
+\i (00:00:16) FORM mini rotate_pin 0 
+\i (00:00:16) add pin 
+\t (00:00:16) Exiting from Add Pin.
+\t (00:00:16) Using 'EX22Y22D0T.pad'.
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini pad_name EX22Y22D0T 
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini next_pin_number A9 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 98.43 216.54 
+\t (00:00:16) last pick:  98.43 216.54
+\t (00:00:16) Using 'EX22Y22D0T.pad'.
+\i (00:00:16) done 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) add pin 
+\t (00:00:16) Using 'EX22Y22D0T.pad'.
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini offsetx 0.00 
+\i (00:00:16) FORM mini offsety 0.00 
+\i (00:00:16) FORM mini rotate_pin 0 
+\i (00:00:16) add pin 
+\t (00:00:16) Exiting from Add Pin.
+\t (00:00:16) Using 'EX22Y22D0T.pad'.
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini pad_name EX22Y22D0T 
+\i (00:00:16) setwindow form.mini 
+\i (00:00:16) FORM mini next_pin_number A10 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 137.8 216.54 
+\t (00:00:16) last pick:  137.80 216.54
+\t (00:00:16) Using 'EX22Y22D0T.pad'.
+\i (00:00:16) done 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) add pin 
+\t (00:00:17) Using 'EX22Y22D0T.pad'.
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini offsetx 0.00 
+\i (00:00:17) FORM mini offsety 0.00 
+\i (00:00:17) FORM mini rotate_pin 0 
+\i (00:00:17) add pin 
+\t (00:00:17) Exiting from Add Pin.
+\t (00:00:17) Using 'EX22Y22D0T.pad'.
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini pad_name EX22Y22D0T 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini next_pin_number A11 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 177.17 216.54 
+\t (00:00:17) last pick:  177.17 216.54
+\t (00:00:17) Using 'EX22Y22D0T.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) add pin 
+\t (00:00:17) Using 'EX22Y22D0T.pad'.
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini offsetx 0.00 
+\i (00:00:17) FORM mini offsety 0.00 
+\i (00:00:17) FORM mini rotate_pin 0 
+\i (00:00:17) add pin 
+\t (00:00:17) Exiting from Add Pin.
+\t (00:00:17) Using 'EX22Y22D0T.pad'.
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini pad_name EX22Y22D0T 
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini next_pin_number A12 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 216.54 216.54 
+\t (00:00:17) last pick:  216.54 216.54
+\t (00:00:17) Using 'EX22Y22D0T.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) add pin 
+\t (00:00:17) Using 'EX22Y22D0T.pad'.
+\i (00:00:17) setwindow form.mini 
+\i (00:00:17) FORM mini offsetx 0.00 
+\i (00:00:17) FORM mini offsety 0.00 
+\i (00:00:17) FORM mini rotate_pin 0 
+\i (00:00:17) add pin 
+\t (00:00:17) Exiting from Add Pin.
+\t (00:00:18) Using 'EX22Y22D0T.pad'.
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini pad_name EX22Y22D0T 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini next_pin_number B1 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -216.54 177.17 
+\t (00:00:18) last pick:  -216.54 177.17
+\t (00:00:18) Using 'EX22Y22D0T.pad'.
+\i (00:00:18) done 
+\t (00:00:18) Exiting from Add Pin.
+\i (00:00:18) add pin 
+\t (00:00:18) Using 'EX22Y22D0T.pad'.
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini offsetx 0.00 
+\i (00:00:18) FORM mini offsety 0.00 
+\i (00:00:18) FORM mini rotate_pin 0 
+\i (00:00:18) add pin 
+\t (00:00:18) Exiting from Add Pin.
+\t (00:00:18) Using 'EX22Y22D0T.pad'.
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini pad_name EX22Y22D0T 
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini next_pin_number B2 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -177.17 177.17 
+\t (00:00:18) last pick:  -177.17 177.17
+\t (00:00:18) Using 'EX22Y22D0T.pad'.
+\i (00:00:18) done 
+\t (00:00:18) Exiting from Add Pin.
+\i (00:00:18) add pin 
+\t (00:00:18) Using 'EX22Y22D0T.pad'.
+\i (00:00:18) setwindow form.mini 
+\i (00:00:18) FORM mini offsetx 0.00 
+\i (00:00:18) FORM mini offsety 0.00 
+\i (00:00:18) FORM mini rotate_pin 0 
+\i (00:00:18) add pin 
+\t (00:00:18) Exiting from Add Pin.
+\t (00:00:19) Using 'EX22Y22D0T.pad'.
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini pad_name EX22Y22D0T 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini next_pin_number B3 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -137.8 177.17 
+\t (00:00:19) last pick:  -137.80 177.17
+\t (00:00:19) Using 'EX22Y22D0T.pad'.
+\i (00:00:19) done 
+\t (00:00:19) Exiting from Add Pin.
+\i (00:00:19) add pin 
+\t (00:00:19) Using 'EX22Y22D0T.pad'.
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini offsetx 0.00 
+\i (00:00:19) FORM mini offsety 0.00 
+\i (00:00:19) FORM mini rotate_pin 0 
+\i (00:00:19) add pin 
+\t (00:00:19) Exiting from Add Pin.
+\t (00:00:19) Using 'EX22Y22D0T.pad'.
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini pad_name EX22Y22D0T 
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini next_pin_number B4 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -98.43 177.17 
+\t (00:00:19) last pick:  -98.43 177.17
+\t (00:00:19) Using 'EX22Y22D0T.pad'.
+\i (00:00:19) done 
+\t (00:00:19) Exiting from Add Pin.
+\i (00:00:19) add pin 
+\t (00:00:19) Using 'EX22Y22D0T.pad'.
+\i (00:00:19) setwindow form.mini 
+\i (00:00:19) FORM mini offsetx 0.00 
+\i (00:00:19) FORM mini offsety 0.00 
+\i (00:00:19) FORM mini rotate_pin 0 
+\i (00:00:19) add pin 
+\t (00:00:19) Exiting from Add Pin.
+\t (00:00:20) Using 'EX22Y22D0T.pad'.
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini pad_name EX22Y22D0T 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini next_pin_number B5 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -59.06 177.17 
+\t (00:00:20) last pick:  -59.06 177.17
+\t (00:00:20) Using 'EX22Y22D0T.pad'.
+\i (00:00:20) done 
+\t (00:00:20) Exiting from Add Pin.
+\i (00:00:20) add pin 
+\t (00:00:20) Using 'EX22Y22D0T.pad'.
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini offsetx 0.00 
+\i (00:00:20) FORM mini offsety 0.00 
+\i (00:00:20) FORM mini rotate_pin 0 
+\i (00:00:20) add pin 
+\t (00:00:20) Exiting from Add Pin.
+\t (00:00:20) Using 'EX22Y22D0T.pad'.
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini pad_name EX22Y22D0T 
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini next_pin_number B6 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -19.69 177.17 
+\t (00:00:20) last pick:  -19.69 177.17
+\t (00:00:20) Using 'EX22Y22D0T.pad'.
+\i (00:00:20) done 
+\t (00:00:20) Exiting from Add Pin.
+\i (00:00:20) add pin 
+\t (00:00:20) Using 'EX22Y22D0T.pad'.
+\i (00:00:20) setwindow form.mini 
+\i (00:00:20) FORM mini offsetx 0.00 
+\i (00:00:20) FORM mini offsety 0.00 
+\i (00:00:20) FORM mini rotate_pin 0 
+\i (00:00:20) add pin 
+\t (00:00:20) Exiting from Add Pin.
+\t (00:00:21) Using 'EX22Y22D0T.pad'.
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini pad_name EX22Y22D0T 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini next_pin_number B7 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick 19.69 177.17 
+\t (00:00:21) last pick:  19.69 177.17
+\t (00:00:21) Using 'EX22Y22D0T.pad'.
+\i (00:00:21) done 
+\t (00:00:21) Exiting from Add Pin.
+\i (00:00:21) add pin 
+\t (00:00:21) Using 'EX22Y22D0T.pad'.
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini offsetx 0.00 
+\i (00:00:21) FORM mini offsety 0.00 
+\i (00:00:21) FORM mini rotate_pin 0 
+\i (00:00:21) add pin 
+\t (00:00:21) Exiting from Add Pin.
+\t (00:00:21) Using 'EX22Y22D0T.pad'.
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini pad_name EX22Y22D0T 
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini next_pin_number B8 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick 59.06 177.17 
+\t (00:00:21) last pick:  59.06 177.17
+\t (00:00:21) Using 'EX22Y22D0T.pad'.
+\i (00:00:21) done 
+\t (00:00:21) Exiting from Add Pin.
+\i (00:00:21) add pin 
+\t (00:00:21) Using 'EX22Y22D0T.pad'.
+\i (00:00:21) setwindow form.mini 
+\i (00:00:21) FORM mini offsetx 0.00 
+\i (00:00:21) FORM mini offsety 0.00 
+\i (00:00:21) FORM mini rotate_pin 0 
+\i (00:00:21) add pin 
+\t (00:00:21) Exiting from Add Pin.
+\t (00:00:22) Using 'EX22Y22D0T.pad'.
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini pad_name EX22Y22D0T 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini next_pin_number B9 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick 98.43 177.17 
+\t (00:00:22) last pick:  98.43 177.17
+\t (00:00:22) Using 'EX22Y22D0T.pad'.
+\i (00:00:22) done 
+\t (00:00:22) Exiting from Add Pin.
+\i (00:00:22) add pin 
+\t (00:00:22) Using 'EX22Y22D0T.pad'.
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini offsetx 0.00 
+\i (00:00:22) FORM mini offsety 0.00 
+\i (00:00:22) FORM mini rotate_pin 0 
+\i (00:00:22) add pin 
+\t (00:00:22) Exiting from Add Pin.
+\t (00:00:22) Using 'EX22Y22D0T.pad'.
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini pad_name EX22Y22D0T 
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini next_pin_number B10 
+\i (00:00:22) setwindow pcb 
+\i (00:00:22) pick 137.8 177.17 
+\t (00:00:22) last pick:  137.80 177.17
+\t (00:00:22) Using 'EX22Y22D0T.pad'.
+\i (00:00:22) done 
+\t (00:00:22) Exiting from Add Pin.
+\i (00:00:22) add pin 
+\t (00:00:22) Using 'EX22Y22D0T.pad'.
+\i (00:00:22) setwindow form.mini 
+\i (00:00:22) FORM mini offsetx 0.00 
+\i (00:00:22) FORM mini offsety 0.00 
+\i (00:00:22) FORM mini rotate_pin 0 
+\i (00:00:22) add pin 
+\t (00:00:22) Exiting from Add Pin.
+\t (00:00:23) Using 'EX22Y22D0T.pad'.
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini pad_name EX22Y22D0T 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini next_pin_number B11 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick 177.17 177.17 
+\t (00:00:23) last pick:  177.17 177.17
+\t (00:00:23) Using 'EX22Y22D0T.pad'.
+\i (00:00:23) done 
+\t (00:00:23) Exiting from Add Pin.
+\i (00:00:23) add pin 
+\t (00:00:23) Using 'EX22Y22D0T.pad'.
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini offsetx 0.00 
+\i (00:00:23) FORM mini offsety 0.00 
+\i (00:00:23) FORM mini rotate_pin 0 
+\i (00:00:23) add pin 
+\t (00:00:23) Exiting from Add Pin.
+\t (00:00:23) Using 'EX22Y22D0T.pad'.
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini pad_name EX22Y22D0T 
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini next_pin_number B12 
+\i (00:00:23) setwindow pcb 
+\i (00:00:23) pick 216.54 177.17 
+\t (00:00:23) last pick:  216.54 177.17
+\t (00:00:23) Using 'EX22Y22D0T.pad'.
+\i (00:00:23) done 
+\t (00:00:23) Exiting from Add Pin.
+\i (00:00:23) add pin 
+\t (00:00:23) Using 'EX22Y22D0T.pad'.
+\i (00:00:23) setwindow form.mini 
+\i (00:00:23) FORM mini offsetx 0.00 
+\i (00:00:23) FORM mini offsety 0.00 
+\i (00:00:23) FORM mini rotate_pin 0 
+\i (00:00:23) add pin 
+\t (00:00:23) Exiting from Add Pin.
+\t (00:00:24) Using 'EX22Y22D0T.pad'.
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini pad_name EX22Y22D0T 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini next_pin_number C1 
+\i (00:00:24) setwindow pcb 
+\i (00:00:24) pick -216.54 137.8 
+\t (00:00:24) last pick:  -216.54 137.80
+\t (00:00:24) Using 'EX22Y22D0T.pad'.
+\i (00:00:24) done 
+\t (00:00:24) Exiting from Add Pin.
+\i (00:00:24) add pin 
+\t (00:00:24) Using 'EX22Y22D0T.pad'.
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini offsetx 0.00 
+\i (00:00:24) FORM mini offsety 0.00 
+\i (00:00:24) FORM mini rotate_pin 0 
+\i (00:00:24) add pin 
+\t (00:00:24) Exiting from Add Pin.
+\t (00:00:24) Using 'EX22Y22D0T.pad'.
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini pad_name EX22Y22D0T 
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini next_pin_number C2 
+\i (00:00:24) setwindow pcb 
+\i (00:00:24) pick -177.17 137.8 
+\t (00:00:24) last pick:  -177.17 137.80
+\t (00:00:24) Using 'EX22Y22D0T.pad'.
+\i (00:00:24) done 
+\t (00:00:24) Exiting from Add Pin.
+\i (00:00:24) add pin 
+\t (00:00:24) Using 'EX22Y22D0T.pad'.
+\i (00:00:24) setwindow form.mini 
+\i (00:00:24) FORM mini offsetx 0.00 
+\i (00:00:24) FORM mini offsety 0.00 
+\i (00:00:24) FORM mini rotate_pin 0 
+\i (00:00:24) add pin 
+\t (00:00:24) Exiting from Add Pin.
+\t (00:00:25) Using 'EX22Y22D0T.pad'.
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini pad_name EX22Y22D0T 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini next_pin_number C3 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -137.8 137.8 
+\t (00:00:25) last pick:  -137.80 137.80
+\t (00:00:25) Using 'EX22Y22D0T.pad'.
+\i (00:00:25) done 
+\t (00:00:25) Exiting from Add Pin.
+\i (00:00:25) add pin 
+\t (00:00:25) Using 'EX22Y22D0T.pad'.
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini offsetx 0.00 
+\i (00:00:25) FORM mini offsety 0.00 
+\i (00:00:25) FORM mini rotate_pin 0 
+\i (00:00:25) add pin 
+\t (00:00:25) Exiting from Add Pin.
+\t (00:00:25) Using 'EX22Y22D0T.pad'.
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini pad_name EX22Y22D0T 
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini next_pin_number C4 
+\i (00:00:25) setwindow pcb 
+\i (00:00:25) pick -98.43 137.8 
+\t (00:00:25) last pick:  -98.43 137.80
+\t (00:00:25) Using 'EX22Y22D0T.pad'.
+\i (00:00:25) done 
+\t (00:00:25) Exiting from Add Pin.
+\i (00:00:25) add pin 
+\t (00:00:25) Using 'EX22Y22D0T.pad'.
+\i (00:00:25) setwindow form.mini 
+\i (00:00:25) FORM mini offsetx 0.00 
+\i (00:00:25) FORM mini offsety 0.00 
+\i (00:00:25) FORM mini rotate_pin 0 
+\i (00:00:25) add pin 
+\t (00:00:25) Exiting from Add Pin.
+\t (00:00:26) Using 'EX22Y22D0T.pad'.
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini pad_name EX22Y22D0T 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini next_pin_number C5 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -59.06 137.8 
+\t (00:00:26) last pick:  -59.06 137.80
+\t (00:00:26) Using 'EX22Y22D0T.pad'.
+\i (00:00:26) done 
+\t (00:00:26) Exiting from Add Pin.
+\i (00:00:26) add pin 
+\t (00:00:26) Using 'EX22Y22D0T.pad'.
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini offsetx 0.00 
+\i (00:00:26) FORM mini offsety 0.00 
+\i (00:00:26) FORM mini rotate_pin 0 
+\i (00:00:26) add pin 
+\t (00:00:26) Exiting from Add Pin.
+\t (00:00:26) Using 'EX22Y22D0T.pad'.
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini pad_name EX22Y22D0T 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini next_pin_number C6 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick -19.69 137.8 
+\t (00:00:26) last pick:  -19.69 137.80
+\t (00:00:26) Using 'EX22Y22D0T.pad'.
+\i (00:00:26) done 
+\t (00:00:26) Exiting from Add Pin.
+\i (00:00:26) add pin 
+\t (00:00:26) Using 'EX22Y22D0T.pad'.
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini offsetx 0.00 
+\i (00:00:26) FORM mini offsety 0.00 
+\i (00:00:26) FORM mini rotate_pin 0 
+\i (00:00:26) add pin 
+\t (00:00:26) Exiting from Add Pin.
+\t (00:00:26) Using 'EX22Y22D0T.pad'.
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini pad_name EX22Y22D0T 
+\i (00:00:26) setwindow form.mini 
+\i (00:00:26) FORM mini next_pin_number C7 
+\i (00:00:26) setwindow pcb 
+\i (00:00:26) pick 19.69 137.8 
+\t (00:00:26) last pick:  19.69 137.80
+\t (00:00:26) Using 'EX22Y22D0T.pad'.
+\i (00:00:26) done 
+\t (00:00:26) Exiting from Add Pin.
+\i (00:00:27) add pin 
+\t (00:00:27) Using 'EX22Y22D0T.pad'.
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini offsetx 0.00 
+\i (00:00:27) FORM mini offsety 0.00 
+\i (00:00:27) FORM mini rotate_pin 0 
+\i (00:00:27) add pin 
+\t (00:00:27) Exiting from Add Pin.
+\t (00:00:27) Using 'EX22Y22D0T.pad'.
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini pad_name EX22Y22D0T 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini next_pin_number C8 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick 59.06 137.8 
+\t (00:00:27) last pick:  59.06 137.80
+\t (00:00:27) Using 'EX22Y22D0T.pad'.
+\i (00:00:27) done 
+\t (00:00:27) Exiting from Add Pin.
+\i (00:00:27) add pin 
+\t (00:00:27) Using 'EX22Y22D0T.pad'.
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini offsetx 0.00 
+\i (00:00:27) FORM mini offsety 0.00 
+\i (00:00:27) FORM mini rotate_pin 0 
+\i (00:00:27) add pin 
+\t (00:00:27) Exiting from Add Pin.
+\t (00:00:27) Using 'EX22Y22D0T.pad'.
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini pad_name EX22Y22D0T 
+\i (00:00:27) setwindow form.mini 
+\i (00:00:27) FORM mini next_pin_number C9 
+\i (00:00:27) setwindow pcb 
+\i (00:00:27) pick 98.43 137.8 
+\t (00:00:27) last pick:  98.43 137.80
+\t (00:00:27) Using 'EX22Y22D0T.pad'.
+\i (00:00:27) done 
+\t (00:00:27) Exiting from Add Pin.
+\i (00:00:28) add pin 
+\t (00:00:28) Using 'EX22Y22D0T.pad'.
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini offsetx 0.00 
+\i (00:00:28) FORM mini offsety 0.00 
+\i (00:00:28) FORM mini rotate_pin 0 
+\i (00:00:28) add pin 
+\t (00:00:28) Exiting from Add Pin.
+\t (00:00:28) Using 'EX22Y22D0T.pad'.
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini pad_name EX22Y22D0T 
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini next_pin_number C10 
+\i (00:00:28) setwindow pcb 
+\i (00:00:28) pick 137.8 137.8 
+\t (00:00:28) last pick:  137.80 137.80
+\t (00:00:28) Using 'EX22Y22D0T.pad'.
+\i (00:00:28) done 
+\t (00:00:28) Exiting from Add Pin.
+\i (00:00:28) add pin 
+\t (00:00:28) Using 'EX22Y22D0T.pad'.
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini offsetx 0.00 
+\i (00:00:28) FORM mini offsety 0.00 
+\i (00:00:28) FORM mini rotate_pin 0 
+\i (00:00:28) add pin 
+\t (00:00:28) Exiting from Add Pin.
+\t (00:00:28) Using 'EX22Y22D0T.pad'.
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini pad_name EX22Y22D0T 
+\i (00:00:28) setwindow form.mini 
+\i (00:00:28) FORM mini next_pin_number C11 
+\i (00:00:28) setwindow pcb 
+\i (00:00:28) pick 177.17 137.8 
+\t (00:00:28) last pick:  177.17 137.80
+\t (00:00:28) Using 'EX22Y22D0T.pad'.
+\i (00:00:28) done 
+\t (00:00:28) Exiting from Add Pin.
+\i (00:00:29) add pin 
+\t (00:00:29) Using 'EX22Y22D0T.pad'.
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini offsetx 0.00 
+\i (00:00:29) FORM mini offsety 0.00 
+\i (00:00:29) FORM mini rotate_pin 0 
+\i (00:00:29) add pin 
+\t (00:00:29) Exiting from Add Pin.
+\t (00:00:29) Using 'EX22Y22D0T.pad'.
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini pad_name EX22Y22D0T 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini next_pin_number C12 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick 216.54 137.8 
+\t (00:00:29) last pick:  216.54 137.80
+\t (00:00:29) Using 'EX22Y22D0T.pad'.
+\i (00:00:29) done 
+\t (00:00:29) Exiting from Add Pin.
+\i (00:00:29) add pin 
+\t (00:00:29) Using 'EX22Y22D0T.pad'.
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini offsetx 0.00 
+\i (00:00:29) FORM mini offsety 0.00 
+\i (00:00:29) FORM mini rotate_pin 0 
+\i (00:00:29) add pin 
+\t (00:00:29) Exiting from Add Pin.
+\t (00:00:29) Using 'EX22Y22D0T.pad'.
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini pad_name EX22Y22D0T 
+\i (00:00:29) setwindow form.mini 
+\i (00:00:29) FORM mini next_pin_number D1 
+\i (00:00:29) setwindow pcb 
+\i (00:00:29) pick -216.54 98.43 
+\t (00:00:29) last pick:  -216.54 98.43
+\t (00:00:29) Using 'EX22Y22D0T.pad'.
+\i (00:00:29) done 
+\t (00:00:29) Exiting from Add Pin.
+\i (00:00:30) add pin 
+\t (00:00:30) Using 'EX22Y22D0T.pad'.
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini offsetx 0.00 
+\i (00:00:30) FORM mini offsety 0.00 
+\i (00:00:30) FORM mini rotate_pin 0 
+\i (00:00:30) add pin 
+\t (00:00:30) Exiting from Add Pin.
+\t (00:00:30) Using 'EX22Y22D0T.pad'.
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini pad_name EX22Y22D0T 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini next_pin_number D2 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick -177.17 98.43 
+\t (00:00:30) last pick:  -177.17 98.43
+\t (00:00:30) Using 'EX22Y22D0T.pad'.
+\i (00:00:30) done 
+\t (00:00:30) Exiting from Add Pin.
+\i (00:00:30) add pin 
+\t (00:00:30) Using 'EX22Y22D0T.pad'.
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini offsetx 0.00 
+\i (00:00:30) FORM mini offsety 0.00 
+\i (00:00:30) FORM mini rotate_pin 0 
+\i (00:00:30) add pin 
+\t (00:00:30) Exiting from Add Pin.
+\t (00:00:30) Using 'EX22Y22D0T.pad'.
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini pad_name EX22Y22D0T 
+\i (00:00:30) setwindow form.mini 
+\i (00:00:30) FORM mini next_pin_number D3 
+\i (00:00:30) setwindow pcb 
+\i (00:00:30) pick -137.8 98.43 
+\t (00:00:30) last pick:  -137.80 98.43
+\t (00:00:30) Using 'EX22Y22D0T.pad'.
+\i (00:00:30) done 
+\t (00:00:30) Exiting from Add Pin.
+\i (00:00:31) add pin 
+\t (00:00:31) Using 'EX22Y22D0T.pad'.
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini offsetx 0.00 
+\i (00:00:31) FORM mini offsety 0.00 
+\i (00:00:31) FORM mini rotate_pin 0 
+\i (00:00:31) add pin 
+\t (00:00:31) Exiting from Add Pin.
+\t (00:00:31) Using 'EX22Y22D0T.pad'.
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini pad_name EX22Y22D0T 
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini next_pin_number D4 
+\i (00:00:31) setwindow pcb 
+\i (00:00:31) pick -98.43 98.43 
+\t (00:00:31) last pick:  -98.43 98.43
+\t (00:00:31) Using 'EX22Y22D0T.pad'.
+\i (00:00:31) done 
+\t (00:00:31) Exiting from Add Pin.
+\i (00:00:31) add pin 
+\t (00:00:31) Using 'EX22Y22D0T.pad'.
+\i (00:00:31) setwindow form.mini 
+\i (00:00:31) FORM mini offsetx 0.00 
+\i (00:00:31) FORM mini offsety 0.00 
+\i (00:00:31) FORM mini rotate_pin 0 
+\i (00:00:31) add pin 
+\t (00:00:31) Exiting from Add Pin.
+\t (00:00:32) Using 'EX22Y22D0T.pad'.
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini pad_name EX22Y22D0T 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini next_pin_number D5 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick -59.06 98.43 
+\t (00:00:32) last pick:  -59.06 98.43
+\t (00:00:32) Using 'EX22Y22D0T.pad'.
+\i (00:00:32) done 
+\t (00:00:32) Exiting from Add Pin.
+\i (00:00:32) add pin 
+\t (00:00:32) Using 'EX22Y22D0T.pad'.
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini offsetx 0.00 
+\i (00:00:32) FORM mini offsety 0.00 
+\i (00:00:32) FORM mini rotate_pin 0 
+\i (00:00:32) add pin 
+\t (00:00:32) Exiting from Add Pin.
+\t (00:00:32) Using 'EX22Y22D0T.pad'.
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini pad_name EX22Y22D0T 
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini next_pin_number D6 
+\i (00:00:32) setwindow pcb 
+\i (00:00:32) pick -19.69 98.43 
+\t (00:00:32) last pick:  -19.69 98.43
+\t (00:00:32) Using 'EX22Y22D0T.pad'.
+\i (00:00:32) done 
+\t (00:00:32) Exiting from Add Pin.
+\i (00:00:32) add pin 
+\t (00:00:32) Using 'EX22Y22D0T.pad'.
+\i (00:00:32) setwindow form.mini 
+\i (00:00:32) FORM mini offsetx 0.00 
+\i (00:00:32) FORM mini offsety 0.00 
+\i (00:00:32) FORM mini rotate_pin 0 
+\i (00:00:32) add pin 
+\t (00:00:32) Exiting from Add Pin.
+\t (00:00:33) Using 'EX22Y22D0T.pad'.
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini pad_name EX22Y22D0T 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini next_pin_number D7 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 19.69 98.43 
+\t (00:00:33) last pick:  19.69 98.43
+\t (00:00:33) Using 'EX22Y22D0T.pad'.
+\i (00:00:33) done 
+\t (00:00:33) Exiting from Add Pin.
+\i (00:00:33) add pin 
+\t (00:00:33) Using 'EX22Y22D0T.pad'.
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini offsetx 0.00 
+\i (00:00:33) FORM mini offsety 0.00 
+\i (00:00:33) FORM mini rotate_pin 0 
+\i (00:00:33) add pin 
+\t (00:00:33) Exiting from Add Pin.
+\t (00:00:33) Using 'EX22Y22D0T.pad'.
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini pad_name EX22Y22D0T 
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini next_pin_number D8 
+\i (00:00:33) setwindow pcb 
+\i (00:00:33) pick 59.06 98.43 
+\t (00:00:33) last pick:  59.06 98.43
+\t (00:00:33) Using 'EX22Y22D0T.pad'.
+\i (00:00:33) done 
+\t (00:00:33) Exiting from Add Pin.
+\i (00:00:33) add pin 
+\t (00:00:33) Using 'EX22Y22D0T.pad'.
+\i (00:00:33) setwindow form.mini 
+\i (00:00:33) FORM mini offsetx 0.00 
+\i (00:00:33) FORM mini offsety 0.00 
+\i (00:00:33) FORM mini rotate_pin 0 
+\i (00:00:33) add pin 
+\t (00:00:33) Exiting from Add Pin.
+\t (00:00:34) Using 'EX22Y22D0T.pad'.
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini pad_name EX22Y22D0T 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini next_pin_number D9 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 98.43 98.43 
+\t (00:00:34) last pick:  98.43 98.43
+\t (00:00:34) Using 'EX22Y22D0T.pad'.
+\i (00:00:34) done 
+\t (00:00:34) Exiting from Add Pin.
+\i (00:00:34) add pin 
+\t (00:00:34) Using 'EX22Y22D0T.pad'.
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini offsetx 0.00 
+\i (00:00:34) FORM mini offsety 0.00 
+\i (00:00:34) FORM mini rotate_pin 0 
+\i (00:00:34) add pin 
+\t (00:00:34) Exiting from Add Pin.
+\t (00:00:34) Using 'EX22Y22D0T.pad'.
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini pad_name EX22Y22D0T 
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini next_pin_number D10 
+\i (00:00:34) setwindow pcb 
+\i (00:00:34) pick 137.8 98.43 
+\t (00:00:34) last pick:  137.80 98.43
+\t (00:00:34) Using 'EX22Y22D0T.pad'.
+\i (00:00:34) done 
+\t (00:00:34) Exiting from Add Pin.
+\i (00:00:34) add pin 
+\t (00:00:34) Using 'EX22Y22D0T.pad'.
+\i (00:00:34) setwindow form.mini 
+\i (00:00:34) FORM mini offsetx 0.00 
+\i (00:00:34) FORM mini offsety 0.00 
+\i (00:00:34) FORM mini rotate_pin 0 
+\i (00:00:34) add pin 
+\t (00:00:34) Exiting from Add Pin.
+\t (00:00:35) Using 'EX22Y22D0T.pad'.
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini pad_name EX22Y22D0T 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini next_pin_number D11 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick 177.17 98.43 
+\t (00:00:35) last pick:  177.17 98.43
+\t (00:00:35) Using 'EX22Y22D0T.pad'.
+\i (00:00:35) done 
+\t (00:00:35) Exiting from Add Pin.
+\i (00:00:35) add pin 
+\t (00:00:35) Using 'EX22Y22D0T.pad'.
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini offsetx 0.00 
+\i (00:00:35) FORM mini offsety 0.00 
+\i (00:00:35) FORM mini rotate_pin 0 
+\i (00:00:35) add pin 
+\t (00:00:35) Exiting from Add Pin.
+\t (00:00:35) Using 'EX22Y22D0T.pad'.
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini pad_name EX22Y22D0T 
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini next_pin_number D12 
+\i (00:00:35) setwindow pcb 
+\i (00:00:35) pick 216.54 98.43 
+\t (00:00:35) last pick:  216.54 98.43
+\t (00:00:35) Using 'EX22Y22D0T.pad'.
+\i (00:00:35) done 
+\t (00:00:35) Exiting from Add Pin.
+\i (00:00:35) add pin 
+\t (00:00:35) Using 'EX22Y22D0T.pad'.
+\i (00:00:35) setwindow form.mini 
+\i (00:00:35) FORM mini offsetx 0.00 
+\i (00:00:35) FORM mini offsety 0.00 
+\i (00:00:35) FORM mini rotate_pin 0 
+\i (00:00:35) add pin 
+\t (00:00:35) Exiting from Add Pin.
+\t (00:00:36) Using 'EX22Y22D0T.pad'.
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini pad_name EX22Y22D0T 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini next_pin_number E1 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) pick -216.54 59.06 
+\t (00:00:36) last pick:  -216.54 59.06
+\t (00:00:36) Using 'EX22Y22D0T.pad'.
+\i (00:00:36) done 
+\t (00:00:36) Exiting from Add Pin.
+\i (00:00:36) add pin 
+\t (00:00:36) Using 'EX22Y22D0T.pad'.
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini offsetx 0.00 
+\i (00:00:36) FORM mini offsety 0.00 
+\i (00:00:36) FORM mini rotate_pin 0 
+\i (00:00:36) add pin 
+\t (00:00:36) Exiting from Add Pin.
+\t (00:00:36) Using 'EX22Y22D0T.pad'.
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini pad_name EX22Y22D0T 
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini next_pin_number E2 
+\i (00:00:36) setwindow pcb 
+\i (00:00:36) pick -177.17 59.06 
+\t (00:00:36) last pick:  -177.17 59.06
+\t (00:00:36) Using 'EX22Y22D0T.pad'.
+\i (00:00:36) done 
+\t (00:00:36) Exiting from Add Pin.
+\i (00:00:36) add pin 
+\t (00:00:36) Using 'EX22Y22D0T.pad'.
+\i (00:00:36) setwindow form.mini 
+\i (00:00:36) FORM mini offsetx 0.00 
+\i (00:00:36) FORM mini offsety 0.00 
+\i (00:00:36) FORM mini rotate_pin 0 
+\i (00:00:36) add pin 
+\t (00:00:36) Exiting from Add Pin.
+\t (00:00:37) Using 'EX22Y22D0T.pad'.
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini pad_name EX22Y22D0T 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini next_pin_number E3 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) pick -137.8 59.06 
+\t (00:00:37) last pick:  -137.80 59.06
+\t (00:00:37) Using 'EX22Y22D0T.pad'.
+\i (00:00:37) done 
+\t (00:00:37) Exiting from Add Pin.
+\i (00:00:37) add pin 
+\t (00:00:37) Using 'EX22Y22D0T.pad'.
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini offsetx 0.00 
+\i (00:00:37) FORM mini offsety 0.00 
+\i (00:00:37) FORM mini rotate_pin 0 
+\i (00:00:37) add pin 
+\t (00:00:37) Exiting from Add Pin.
+\t (00:00:37) Using 'EX22Y22D0T.pad'.
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini pad_name EX22Y22D0T 
+\i (00:00:37) setwindow form.mini 
+\i (00:00:37) FORM mini next_pin_number E4 
+\i (00:00:37) setwindow pcb 
+\i (00:00:37) pick -98.43 59.06 
+\t (00:00:37) last pick:  -98.43 59.06
+\t (00:00:37) Using 'EX22Y22D0T.pad'.
+\i (00:00:37) done 
+\t (00:00:37) Exiting from Add Pin.
+\i (00:00:38) add pin 
+\t (00:00:38) Using 'EX22Y22D0T.pad'.
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini offsetx 0.00 
+\i (00:00:38) FORM mini offsety 0.00 
+\i (00:00:38) FORM mini rotate_pin 0 
+\i (00:00:38) add pin 
+\t (00:00:38) Exiting from Add Pin.
+\t (00:00:38) Using 'EX22Y22D0T.pad'.
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini pad_name EX22Y22D0T 
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini next_pin_number E5 
+\i (00:00:38) setwindow pcb 
+\i (00:00:38) pick -59.06 59.06 
+\t (00:00:38) last pick:  -59.06 59.06
+\t (00:00:38) Using 'EX22Y22D0T.pad'.
+\i (00:00:38) done 
+\t (00:00:38) Exiting from Add Pin.
+\i (00:00:38) add pin 
+\t (00:00:38) Using 'EX22Y22D0T.pad'.
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini offsetx 0.00 
+\i (00:00:38) FORM mini offsety 0.00 
+\i (00:00:38) FORM mini rotate_pin 0 
+\i (00:00:38) add pin 
+\t (00:00:38) Exiting from Add Pin.
+\t (00:00:38) Using 'EX22Y22D0T.pad'.
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini pad_name EX22Y22D0T 
+\i (00:00:38) setwindow form.mini 
+\i (00:00:38) FORM mini next_pin_number E6 
+\i (00:00:38) setwindow pcb 
+\i (00:00:38) pick -19.69 59.06 
+\t (00:00:38) last pick:  -19.69 59.06
+\t (00:00:38) Using 'EX22Y22D0T.pad'.
+\i (00:00:38) done 
+\t (00:00:38) Exiting from Add Pin.
+\i (00:00:39) add pin 
+\t (00:00:39) Using 'EX22Y22D0T.pad'.
+\i (00:00:39) setwindow form.mini 
+\i (00:00:39) FORM mini offsetx 0.00 
+\i (00:00:39) FORM mini offsety 0.00 
+\i (00:00:39) FORM mini rotate_pin 0 
+\i (00:00:39) add pin 
+\t (00:00:39) Exiting from Add Pin.
+\t (00:00:39) Using 'EX22Y22D0T.pad'.
+\i (00:00:39) setwindow form.mini 
+\i (00:00:39) FORM mini pad_name EX22Y22D0T 
+\i (00:00:39) setwindow form.mini 
+\i (00:00:39) FORM mini next_pin_number E7 
+\i (00:00:39) setwindow pcb 
+\i (00:00:39) pick 19.69 59.06 
+\t (00:00:39) last pick:  19.69 59.06
+\t (00:00:39) Using 'EX22Y22D0T.pad'.
+\i (00:00:39) done 
+\t (00:00:39) Exiting from Add Pin.
+\i (00:00:39) add pin 
+\t (00:00:39) Using 'EX22Y22D0T.pad'.
+\i (00:00:39) setwindow form.mini 
+\i (00:00:39) FORM mini offsetx 0.00 
+\i (00:00:39) FORM mini offsety 0.00 
+\i (00:00:39) FORM mini rotate_pin 0 
+\i (00:00:39) add pin 
+\t (00:00:39) Exiting from Add Pin.
+\t (00:00:39) Using 'EX22Y22D0T.pad'.
+\i (00:00:39) setwindow form.mini 
+\i (00:00:39) FORM mini pad_name EX22Y22D0T 
+\i (00:00:39) setwindow form.mini 
+\i (00:00:39) FORM mini next_pin_number E8 
+\i (00:00:39) setwindow pcb 
+\i (00:00:39) pick 59.06 59.06 
+\t (00:00:39) last pick:  59.06 59.06
+\t (00:00:39) Using 'EX22Y22D0T.pad'.
+\i (00:00:39) done 
+\t (00:00:39) Exiting from Add Pin.
+\i (00:00:40) add pin 
+\t (00:00:40) Using 'EX22Y22D0T.pad'.
+\i (00:00:40) setwindow form.mini 
+\i (00:00:40) FORM mini offsetx 0.00 
+\i (00:00:40) FORM mini offsety 0.00 
+\i (00:00:40) FORM mini rotate_pin 0 
+\i (00:00:40) add pin 
+\t (00:00:40) Exiting from Add Pin.
+\t (00:00:40) Using 'EX22Y22D0T.pad'.
+\i (00:00:40) setwindow form.mini 
+\i (00:00:40) FORM mini pad_name EX22Y22D0T 
+\i (00:00:40) setwindow form.mini 
+\i (00:00:40) FORM mini next_pin_number E9 
+\i (00:00:40) setwindow pcb 
+\i (00:00:40) pick 98.43 59.06 
+\t (00:00:40) last pick:  98.43 59.06
+\t (00:00:40) Using 'EX22Y22D0T.pad'.
+\i (00:00:40) done 
+\t (00:00:40) Exiting from Add Pin.
+\i (00:00:40) add pin 
+\t (00:00:40) Using 'EX22Y22D0T.pad'.
+\i (00:00:40) setwindow form.mini 
+\i (00:00:40) FORM mini offsetx 0.00 
+\i (00:00:40) FORM mini offsety 0.00 
+\i (00:00:40) FORM mini rotate_pin 0 
+\i (00:00:40) add pin 
+\t (00:00:40) Exiting from Add Pin.
+\t (00:00:40) Using 'EX22Y22D0T.pad'.
+\i (00:00:40) setwindow form.mini 
+\i (00:00:40) FORM mini pad_name EX22Y22D0T 
+\i (00:00:40) setwindow form.mini 
+\i (00:00:40) FORM mini next_pin_number E10 
+\i (00:00:40) setwindow pcb 
+\i (00:00:40) pick 137.8 59.06 
+\t (00:00:40) last pick:  137.80 59.06
+\t (00:00:40) Using 'EX22Y22D0T.pad'.
+\i (00:00:40) done 
+\t (00:00:40) Exiting from Add Pin.
+\i (00:00:41) add pin 
+\t (00:00:41) Using 'EX22Y22D0T.pad'.
+\i (00:00:41) setwindow form.mini 
+\i (00:00:41) FORM mini offsetx 0.00 
+\i (00:00:41) FORM mini offsety 0.00 
+\i (00:00:41) FORM mini rotate_pin 0 
+\i (00:00:41) add pin 
+\t (00:00:41) Exiting from Add Pin.
+\t (00:00:41) Using 'EX22Y22D0T.pad'.
+\i (00:00:41) setwindow form.mini 
+\i (00:00:41) FORM mini pad_name EX22Y22D0T 
+\i (00:00:41) setwindow form.mini 
+\i (00:00:41) FORM mini next_pin_number E11 
+\i (00:00:41) setwindow pcb 
+\i (00:00:41) pick 177.17 59.06 
+\t (00:00:41) last pick:  177.17 59.06
+\t (00:00:41) Using 'EX22Y22D0T.pad'.
+\i (00:00:41) done 
+\t (00:00:41) Exiting from Add Pin.
+\i (00:00:41) add pin 
+\t (00:00:41) Using 'EX22Y22D0T.pad'.
+\i (00:00:41) setwindow form.mini 
+\i (00:00:41) FORM mini offsetx 0.00 
+\i (00:00:41) FORM mini offsety 0.00 
+\i (00:00:41) FORM mini rotate_pin 0 
+\i (00:00:41) add pin 
+\t (00:00:41) Exiting from Add Pin.
+\t (00:00:41) Using 'EX22Y22D0T.pad'.
+\i (00:00:41) setwindow form.mini 
+\i (00:00:41) FORM mini pad_name EX22Y22D0T 
+\i (00:00:41) setwindow form.mini 
+\i (00:00:41) FORM mini next_pin_number E12 
+\i (00:00:41) setwindow pcb 
+\i (00:00:41) pick 216.54 59.06 
+\t (00:00:41) last pick:  216.54 59.06
+\t (00:00:41) Using 'EX22Y22D0T.pad'.
+\i (00:00:41) done 
+\t (00:00:41) Exiting from Add Pin.
+\i (00:00:42) add pin 
+\t (00:00:42) Using 'EX22Y22D0T.pad'.
+\i (00:00:42) setwindow form.mini 
+\i (00:00:42) FORM mini offsetx 0.00 
+\i (00:00:42) FORM mini offsety 0.00 
+\i (00:00:42) FORM mini rotate_pin 0 
+\i (00:00:42) add pin 
+\t (00:00:42) Exiting from Add Pin.
+\t (00:00:42) Using 'EX22Y22D0T.pad'.
+\i (00:00:42) setwindow form.mini 
+\i (00:00:42) FORM mini pad_name EX22Y22D0T 
+\i (00:00:42) setwindow form.mini 
+\i (00:00:42) FORM mini next_pin_number F1 
+\i (00:00:42) setwindow pcb 
+\i (00:00:42) pick -216.54 19.69 
+\t (00:00:42) last pick:  -216.54 19.69
+\t (00:00:42) Using 'EX22Y22D0T.pad'.
+\i (00:00:42) done 
+\t (00:00:42) Exiting from Add Pin.
+\i (00:00:42) add pin 
+\t (00:00:42) Using 'EX22Y22D0T.pad'.
+\i (00:00:42) setwindow form.mini 
+\i (00:00:42) FORM mini offsetx 0.00 
+\i (00:00:42) FORM mini offsety 0.00 
+\i (00:00:42) FORM mini rotate_pin 0 
+\i (00:00:42) add pin 
+\t (00:00:42) Exiting from Add Pin.
+\t (00:00:42) Using 'EX22Y22D0T.pad'.
+\i (00:00:42) setwindow form.mini 
+\i (00:00:42) FORM mini pad_name EX22Y22D0T 
+\i (00:00:42) setwindow form.mini 
+\i (00:00:42) FORM mini next_pin_number F2 
+\i (00:00:42) setwindow pcb 
+\i (00:00:42) pick -177.17 19.69 
+\t (00:00:42) last pick:  -177.17 19.69
+\t (00:00:42) Using 'EX22Y22D0T.pad'.
+\i (00:00:42) done 
+\t (00:00:42) Exiting from Add Pin.
+\i (00:00:43) add pin 
+\t (00:00:43) Using 'EX22Y22D0T.pad'.
+\i (00:00:43) setwindow form.mini 
+\i (00:00:43) FORM mini offsetx 0.00 
+\i (00:00:43) FORM mini offsety 0.00 
+\i (00:00:43) FORM mini rotate_pin 0 
+\i (00:00:43) add pin 
+\t (00:00:43) Exiting from Add Pin.
+\t (00:00:43) Using 'EX22Y22D0T.pad'.
+\i (00:00:43) setwindow form.mini 
+\i (00:00:43) FORM mini pad_name EX22Y22D0T 
+\i (00:00:43) setwindow form.mini 
+\i (00:00:43) FORM mini next_pin_number F3 
+\i (00:00:43) setwindow pcb 
+\i (00:00:43) pick -137.8 19.69 
+\t (00:00:43) last pick:  -137.80 19.69
+\t (00:00:43) Using 'EX22Y22D0T.pad'.
+\i (00:00:43) done 
+\t (00:00:43) Exiting from Add Pin.
+\i (00:00:43) add pin 
+\t (00:00:43) Using 'EX22Y22D0T.pad'.
+\i (00:00:43) setwindow form.mini 
+\i (00:00:43) FORM mini offsetx 0.00 
+\i (00:00:43) FORM mini offsety 0.00 
+\i (00:00:43) FORM mini rotate_pin 0 
+\i (00:00:43) add pin 
+\t (00:00:43) Exiting from Add Pin.
+\t (00:00:43) Using 'EX22Y22D0T.pad'.
+\i (00:00:43) setwindow form.mini 
+\i (00:00:43) FORM mini pad_name EX22Y22D0T 
+\i (00:00:43) setwindow form.mini 
+\i (00:00:43) FORM mini next_pin_number F4 
+\i (00:00:43) setwindow pcb 
+\i (00:00:43) pick -98.43 19.69 
+\t (00:00:43) last pick:  -98.43 19.69
+\t (00:00:43) Using 'EX22Y22D0T.pad'.
+\i (00:00:43) done 
+\t (00:00:43) Exiting from Add Pin.
+\i (00:00:44) add pin 
+\t (00:00:44) Using 'EX22Y22D0T.pad'.
+\i (00:00:44) setwindow form.mini 
+\i (00:00:44) FORM mini offsetx 0.00 
+\i (00:00:44) FORM mini offsety 0.00 
+\i (00:00:44) FORM mini rotate_pin 0 
+\i (00:00:44) add pin 
+\t (00:00:44) Exiting from Add Pin.
+\t (00:00:44) Using 'EX22Y22D0T.pad'.
+\i (00:00:44) setwindow form.mini 
+\i (00:00:44) FORM mini pad_name EX22Y22D0T 
+\i (00:00:44) setwindow form.mini 
+\i (00:00:44) FORM mini next_pin_number F5 
+\i (00:00:44) setwindow pcb 
+\i (00:00:44) pick -59.06 19.69 
+\t (00:00:44) last pick:  -59.06 19.69
+\t (00:00:44) Using 'EX22Y22D0T.pad'.
+\i (00:00:44) done 
+\t (00:00:44) Exiting from Add Pin.
+\i (00:00:44) add pin 
+\t (00:00:44) Using 'EX22Y22D0T.pad'.
+\i (00:00:44) setwindow form.mini 
+\i (00:00:44) FORM mini offsetx 0.00 
+\i (00:00:44) FORM mini offsety 0.00 
+\i (00:00:44) FORM mini rotate_pin 0 
+\i (00:00:44) add pin 
+\t (00:00:44) Exiting from Add Pin.
+\t (00:00:44) Using 'EX22Y22D0T.pad'.
+\i (00:00:44) setwindow form.mini 
+\i (00:00:44) FORM mini pad_name EX22Y22D0T 
+\i (00:00:44) setwindow form.mini 
+\i (00:00:44) FORM mini next_pin_number F6 
+\i (00:00:44) setwindow pcb 
+\i (00:00:44) pick -19.69 19.69 
+\t (00:00:44) last pick:  -19.69 19.69
+\t (00:00:44) Using 'EX22Y22D0T.pad'.
+\i (00:00:44) done 
+\t (00:00:44) Exiting from Add Pin.
+\i (00:00:45) add pin 
+\t (00:00:45) Using 'EX22Y22D0T.pad'.
+\i (00:00:45) setwindow form.mini 
+\i (00:00:45) FORM mini offsetx 0.00 
+\i (00:00:45) FORM mini offsety 0.00 
+\i (00:00:45) FORM mini rotate_pin 0 
+\i (00:00:45) add pin 
+\t (00:00:45) Exiting from Add Pin.
+\t (00:00:45) Using 'EX22Y22D0T.pad'.
+\i (00:00:45) setwindow form.mini 
+\i (00:00:45) FORM mini pad_name EX22Y22D0T 
+\i (00:00:45) setwindow form.mini 
+\i (00:00:45) FORM mini next_pin_number F7 
+\i (00:00:45) setwindow pcb 
+\i (00:00:45) pick 19.69 19.69 
+\t (00:00:45) last pick:  19.69 19.69
+\t (00:00:45) Using 'EX22Y22D0T.pad'.
+\i (00:00:45) done 
+\t (00:00:45) Exiting from Add Pin.
+\i (00:00:45) add pin 
+\t (00:00:45) Using 'EX22Y22D0T.pad'.
+\i (00:00:45) setwindow form.mini 
+\i (00:00:45) FORM mini offsetx 0.00 
+\i (00:00:45) FORM mini offsety 0.00 
+\i (00:00:45) FORM mini rotate_pin 0 
+\i (00:00:45) add pin 
+\t (00:00:45) Exiting from Add Pin.
+\t (00:00:45) Using 'EX22Y22D0T.pad'.
+\i (00:00:45) setwindow form.mini 
+\i (00:00:45) FORM mini pad_name EX22Y22D0T 
+\i (00:00:45) setwindow form.mini 
+\i (00:00:45) FORM mini next_pin_number F8 
+\i (00:00:45) setwindow pcb 
+\i (00:00:45) pick 59.06 19.69 
+\t (00:00:45) last pick:  59.06 19.69
+\t (00:00:45) Using 'EX22Y22D0T.pad'.
+\i (00:00:45) done 
+\t (00:00:45) Exiting from Add Pin.
+\i (00:00:46) add pin 
+\t (00:00:46) Using 'EX22Y22D0T.pad'.
+\i (00:00:46) setwindow form.mini 
+\i (00:00:46) FORM mini offsetx 0.00 
+\i (00:00:46) FORM mini offsety 0.00 
+\i (00:00:46) FORM mini rotate_pin 0 
+\i (00:00:46) add pin 
+\t (00:00:46) Exiting from Add Pin.
+\t (00:00:46) Using 'EX22Y22D0T.pad'.
+\i (00:00:46) setwindow form.mini 
+\i (00:00:46) FORM mini pad_name EX22Y22D0T 
+\i (00:00:46) setwindow form.mini 
+\i (00:00:46) FORM mini next_pin_number F9 
+\i (00:00:46) setwindow pcb 
+\i (00:00:46) pick 98.43 19.69 
+\t (00:00:46) last pick:  98.43 19.69
+\t (00:00:46) Using 'EX22Y22D0T.pad'.
+\i (00:00:46) done 
+\t (00:00:46) Exiting from Add Pin.
+\i (00:00:46) add pin 
+\t (00:00:46) Using 'EX22Y22D0T.pad'.
+\i (00:00:46) setwindow form.mini 
+\i (00:00:46) FORM mini offsetx 0.00 
+\i (00:00:46) FORM mini offsety 0.00 
+\i (00:00:46) FORM mini rotate_pin 0 
+\i (00:00:46) add pin 
+\t (00:00:46) Exiting from Add Pin.
+\t (00:00:46) Using 'EX22Y22D0T.pad'.
+\i (00:00:46) setwindow form.mini 
+\i (00:00:46) FORM mini pad_name EX22Y22D0T 
+\i (00:00:46) setwindow form.mini 
+\i (00:00:46) FORM mini next_pin_number F10 
+\i (00:00:46) setwindow pcb 
+\i (00:00:46) pick 137.8 19.69 
+\t (00:00:46) last pick:  137.80 19.69
+\t (00:00:46) Using 'EX22Y22D0T.pad'.
+\i (00:00:46) done 
+\t (00:00:46) Exiting from Add Pin.
+\i (00:00:47) add pin 
+\t (00:00:47) Using 'EX22Y22D0T.pad'.
+\i (00:00:47) setwindow form.mini 
+\i (00:00:47) FORM mini offsetx 0.00 
+\i (00:00:47) FORM mini offsety 0.00 
+\i (00:00:47) FORM mini rotate_pin 0 
+\i (00:00:47) add pin 
+\t (00:00:47) Exiting from Add Pin.
+\t (00:00:47) Using 'EX22Y22D0T.pad'.
+\i (00:00:47) setwindow form.mini 
+\i (00:00:47) FORM mini pad_name EX22Y22D0T 
+\i (00:00:47) setwindow form.mini 
+\i (00:00:47) FORM mini next_pin_number F11 
+\i (00:00:47) setwindow pcb 
+\i (00:00:47) pick 177.17 19.69 
+\t (00:00:47) last pick:  177.17 19.69
+\t (00:00:47) Using 'EX22Y22D0T.pad'.
+\i (00:00:47) done 
+\t (00:00:47) Exiting from Add Pin.
+\i (00:00:47) add pin 
+\t (00:00:47) Using 'EX22Y22D0T.pad'.
+\i (00:00:47) setwindow form.mini 
+\i (00:00:47) FORM mini offsetx 0.00 
+\i (00:00:47) FORM mini offsety 0.00 
+\i (00:00:47) FORM mini rotate_pin 0 
+\i (00:00:47) add pin 
+\t (00:00:47) Exiting from Add Pin.
+\t (00:00:47) Using 'EX22Y22D0T.pad'.
+\i (00:00:47) setwindow form.mini 
+\i (00:00:47) FORM mini pad_name EX22Y22D0T 
+\i (00:00:47) setwindow form.mini 
+\i (00:00:47) FORM mini next_pin_number F12 
+\i (00:00:47) setwindow pcb 
+\i (00:00:47) pick 216.54 19.69 
+\t (00:00:47) last pick:  216.54 19.69
+\t (00:00:47) Using 'EX22Y22D0T.pad'.
+\i (00:00:47) done 
+\t (00:00:47) Exiting from Add Pin.
+\i (00:00:48) add pin 
+\t (00:00:48) Using 'EX22Y22D0T.pad'.
+\i (00:00:48) setwindow form.mini 
+\i (00:00:48) FORM mini offsetx 0.00 
+\i (00:00:48) FORM mini offsety 0.00 
+\i (00:00:48) FORM mini rotate_pin 0 
+\i (00:00:48) add pin 
+\t (00:00:48) Exiting from Add Pin.
+\t (00:00:48) Using 'EX22Y22D0T.pad'.
+\i (00:00:48) setwindow form.mini 
+\i (00:00:48) FORM mini pad_name EX22Y22D0T 
+\i (00:00:48) setwindow form.mini 
+\i (00:00:48) FORM mini next_pin_number G1 
+\i (00:00:48) setwindow pcb 
+\i (00:00:48) pick -216.54 -19.69 
+\t (00:00:48) last pick:  -216.54 -19.69
+\t (00:00:48) Using 'EX22Y22D0T.pad'.
+\i (00:00:48) done 
+\t (00:00:48) Exiting from Add Pin.
+\i (00:00:48) add pin 
+\t (00:00:48) Using 'EX22Y22D0T.pad'.
+\i (00:00:48) setwindow form.mini 
+\i (00:00:48) FORM mini offsetx 0.00 
+\i (00:00:48) FORM mini offsety 0.00 
+\i (00:00:48) FORM mini rotate_pin 0 
+\i (00:00:48) add pin 
+\t (00:00:48) Exiting from Add Pin.
+\t (00:00:48) Using 'EX22Y22D0T.pad'.
+\i (00:00:48) setwindow form.mini 
+\i (00:00:48) FORM mini pad_name EX22Y22D0T 
+\i (00:00:48) setwindow form.mini 
+\i (00:00:48) FORM mini next_pin_number G2 
+\i (00:00:48) setwindow pcb 
+\i (00:00:48) pick -177.17 -19.69 
+\t (00:00:48) last pick:  -177.17 -19.69
+\t (00:00:48) Using 'EX22Y22D0T.pad'.
+\i (00:00:48) done 
+\t (00:00:48) Exiting from Add Pin.
+\i (00:00:49) add pin 
+\t (00:00:49) Using 'EX22Y22D0T.pad'.
+\i (00:00:49) setwindow form.mini 
+\i (00:00:49) FORM mini offsetx 0.00 
+\i (00:00:49) FORM mini offsety 0.00 
+\i (00:00:49) FORM mini rotate_pin 0 
+\i (00:00:49) add pin 
+\t (00:00:49) Exiting from Add Pin.
+\t (00:00:49) Using 'EX22Y22D0T.pad'.
+\i (00:00:49) setwindow form.mini 
+\i (00:00:49) FORM mini pad_name EX22Y22D0T 
+\i (00:00:49) setwindow form.mini 
+\i (00:00:49) FORM mini next_pin_number G3 
+\i (00:00:49) setwindow pcb 
+\i (00:00:49) pick -137.8 -19.69 
+\t (00:00:49) last pick:  -137.80 -19.69
+\t (00:00:49) Using 'EX22Y22D0T.pad'.
+\i (00:00:49) done 
+\t (00:00:49) Exiting from Add Pin.
+\i (00:00:49) add pin 
+\t (00:00:49) Using 'EX22Y22D0T.pad'.
+\i (00:00:49) setwindow form.mini 
+\i (00:00:49) FORM mini offsetx 0.00 
+\i (00:00:49) FORM mini offsety 0.00 
+\i (00:00:49) FORM mini rotate_pin 0 
+\i (00:00:49) add pin 
+\t (00:00:49) Exiting from Add Pin.
+\t (00:00:49) Using 'EX22Y22D0T.pad'.
+\i (00:00:49) setwindow form.mini 
+\i (00:00:49) FORM mini pad_name EX22Y22D0T 
+\i (00:00:49) setwindow form.mini 
+\i (00:00:49) FORM mini next_pin_number G4 
+\i (00:00:49) setwindow pcb 
+\i (00:00:49) pick -98.43 -19.69 
+\t (00:00:49) last pick:  -98.43 -19.69
+\t (00:00:49) Using 'EX22Y22D0T.pad'.
+\i (00:00:49) done 
+\t (00:00:49) Exiting from Add Pin.
+\i (00:00:50) add pin 
+\t (00:00:50) Using 'EX22Y22D0T.pad'.
+\i (00:00:50) setwindow form.mini 
+\i (00:00:50) FORM mini offsetx 0.00 
+\i (00:00:50) FORM mini offsety 0.00 
+\i (00:00:50) FORM mini rotate_pin 0 
+\i (00:00:50) add pin 
+\t (00:00:50) Exiting from Add Pin.
+\t (00:00:50) Using 'EX22Y22D0T.pad'.
+\i (00:00:50) setwindow form.mini 
+\i (00:00:50) FORM mini pad_name EX22Y22D0T 
+\i (00:00:50) setwindow form.mini 
+\i (00:00:50) FORM mini next_pin_number G5 
+\i (00:00:50) setwindow pcb 
+\i (00:00:50) pick -59.06 -19.69 
+\t (00:00:50) last pick:  -59.06 -19.69
+\t (00:00:50) Using 'EX22Y22D0T.pad'.
+\i (00:00:50) done 
+\t (00:00:50) Exiting from Add Pin.
+\i (00:00:50) add pin 
+\t (00:00:50) Using 'EX22Y22D0T.pad'.
+\i (00:00:50) setwindow form.mini 
+\i (00:00:50) FORM mini offsetx 0.00 
+\i (00:00:50) FORM mini offsety 0.00 
+\i (00:00:50) FORM mini rotate_pin 0 
+\i (00:00:50) add pin 
+\t (00:00:50) Exiting from Add Pin.
+\t (00:00:50) Using 'EX22Y22D0T.pad'.
+\i (00:00:50) setwindow form.mini 
+\i (00:00:50) FORM mini pad_name EX22Y22D0T 
+\i (00:00:50) setwindow form.mini 
+\i (00:00:50) FORM mini next_pin_number G6 
+\i (00:00:50) setwindow pcb 
+\i (00:00:50) pick -19.69 -19.69 
+\t (00:00:50) last pick:  -19.69 -19.69
+\t (00:00:50) Using 'EX22Y22D0T.pad'.
+\i (00:00:50) done 
+\t (00:00:50) Exiting from Add Pin.
+\i (00:00:51) add pin 
+\t (00:00:51) Using 'EX22Y22D0T.pad'.
+\i (00:00:51) setwindow form.mini 
+\i (00:00:51) FORM mini offsetx 0.00 
+\i (00:00:51) FORM mini offsety 0.00 
+\i (00:00:51) FORM mini rotate_pin 0 
+\i (00:00:51) add pin 
+\t (00:00:51) Exiting from Add Pin.
+\t (00:00:51) Using 'EX22Y22D0T.pad'.
+\i (00:00:51) setwindow form.mini 
+\i (00:00:51) FORM mini pad_name EX22Y22D0T 
+\i (00:00:51) setwindow form.mini 
+\i (00:00:51) FORM mini next_pin_number G7 
+\i (00:00:51) setwindow pcb 
+\i (00:00:51) pick 19.69 -19.69 
+\t (00:00:51) last pick:  19.69 -19.69
+\t (00:00:51) Using 'EX22Y22D0T.pad'.
+\i (00:00:51) done 
+\t (00:00:51) Exiting from Add Pin.
+\i (00:00:51) add pin 
+\t (00:00:51) Using 'EX22Y22D0T.pad'.
+\i (00:00:51) setwindow form.mini 
+\i (00:00:51) FORM mini offsetx 0.00 
+\i (00:00:51) FORM mini offsety 0.00 
+\i (00:00:51) FORM mini rotate_pin 0 
+\i (00:00:51) add pin 
+\t (00:00:51) Exiting from Add Pin.
+\t (00:00:52) Using 'EX22Y22D0T.pad'.
+\i (00:00:52) setwindow form.mini 
+\i (00:00:52) FORM mini pad_name EX22Y22D0T 
+\i (00:00:52) setwindow form.mini 
+\i (00:00:52) FORM mini next_pin_number G8 
+\i (00:00:52) setwindow pcb 
+\i (00:00:52) pick 59.06 -19.69 
+\t (00:00:52) last pick:  59.06 -19.69
+\t (00:00:52) Using 'EX22Y22D0T.pad'.
+\i (00:00:52) done 
+\t (00:00:52) Exiting from Add Pin.
+\i (00:00:52) add pin 
+\t (00:00:52) Using 'EX22Y22D0T.pad'.
+\i (00:00:52) setwindow form.mini 
+\i (00:00:52) FORM mini offsetx 0.00 
+\i (00:00:52) FORM mini offsety 0.00 
+\i (00:00:52) FORM mini rotate_pin 0 
+\i (00:00:52) add pin 
+\t (00:00:52) Exiting from Add Pin.
+\t (00:00:52) Using 'EX22Y22D0T.pad'.
+\i (00:00:52) setwindow form.mini 
+\i (00:00:52) FORM mini pad_name EX22Y22D0T 
+\i (00:00:52) setwindow form.mini 
+\i (00:00:52) FORM mini next_pin_number G9 
+\i (00:00:52) setwindow pcb 
+\i (00:00:52) pick 98.43 -19.69 
+\t (00:00:52) last pick:  98.43 -19.69
+\t (00:00:52) Using 'EX22Y22D0T.pad'.
+\i (00:00:52) done 
+\t (00:00:52) Exiting from Add Pin.
+\i (00:00:52) add pin 
+\t (00:00:52) Using 'EX22Y22D0T.pad'.
+\i (00:00:52) setwindow form.mini 
+\i (00:00:52) FORM mini offsetx 0.00 
+\i (00:00:52) FORM mini offsety 0.00 
+\i (00:00:52) FORM mini rotate_pin 0 
+\i (00:00:52) add pin 
+\t (00:00:52) Exiting from Add Pin.
+\t (00:00:53) Using 'EX22Y22D0T.pad'.
+\i (00:00:53) setwindow form.mini 
+\i (00:00:53) FORM mini pad_name EX22Y22D0T 
+\i (00:00:53) setwindow form.mini 
+\i (00:00:53) FORM mini next_pin_number G10 
+\i (00:00:53) setwindow pcb 
+\i (00:00:53) pick 137.8 -19.69 
+\t (00:00:53) last pick:  137.80 -19.69
+\t (00:00:53) Using 'EX22Y22D0T.pad'.
+\i (00:00:53) done 
+\t (00:00:53) Exiting from Add Pin.
+\i (00:00:53) add pin 
+\t (00:00:53) Using 'EX22Y22D0T.pad'.
+\i (00:00:53) setwindow form.mini 
+\i (00:00:53) FORM mini offsetx 0.00 
+\i (00:00:53) FORM mini offsety 0.00 
+\i (00:00:53) FORM mini rotate_pin 0 
+\i (00:00:53) add pin 
+\t (00:00:53) Exiting from Add Pin.
+\t (00:00:53) Using 'EX22Y22D0T.pad'.
+\i (00:00:53) setwindow form.mini 
+\i (00:00:53) FORM mini pad_name EX22Y22D0T 
+\i (00:00:53) setwindow form.mini 
+\i (00:00:53) FORM mini next_pin_number G11 
+\i (00:00:53) setwindow pcb 
+\i (00:00:53) pick 177.17 -19.69 
+\t (00:00:53) last pick:  177.17 -19.69
+\t (00:00:53) Using 'EX22Y22D0T.pad'.
+\i (00:00:53) done 
+\t (00:00:53) Exiting from Add Pin.
+\i (00:00:53) add pin 
+\t (00:00:53) Using 'EX22Y22D0T.pad'.
+\i (00:00:53) setwindow form.mini 
+\i (00:00:53) FORM mini offsetx 0.00 
+\i (00:00:53) FORM mini offsety 0.00 
+\i (00:00:53) FORM mini rotate_pin 0 
+\i (00:00:53) add pin 
+\t (00:00:53) Exiting from Add Pin.
+\t (00:00:54) Using 'EX22Y22D0T.pad'.
+\i (00:00:54) setwindow form.mini 
+\i (00:00:54) FORM mini pad_name EX22Y22D0T 
+\i (00:00:54) setwindow form.mini 
+\i (00:00:54) FORM mini next_pin_number G12 
+\i (00:00:54) setwindow pcb 
+\i (00:00:54) pick 216.54 -19.69 
+\t (00:00:54) last pick:  216.54 -19.69
+\t (00:00:54) Using 'EX22Y22D0T.pad'.
+\i (00:00:54) done 
+\t (00:00:54) Exiting from Add Pin.
+\i (00:00:54) add pin 
+\t (00:00:54) Using 'EX22Y22D0T.pad'.
+\i (00:00:54) setwindow form.mini 
+\i (00:00:54) FORM mini offsetx 0.00 
+\i (00:00:54) FORM mini offsety 0.00 
+\i (00:00:54) FORM mini rotate_pin 0 
+\i (00:00:54) add pin 
+\t (00:00:54) Exiting from Add Pin.
+\t (00:00:54) Using 'EX22Y22D0T.pad'.
+\i (00:00:54) setwindow form.mini 
+\i (00:00:54) FORM mini pad_name EX22Y22D0T 
+\i (00:00:54) setwindow form.mini 
+\i (00:00:54) FORM mini next_pin_number H1 
+\i (00:00:54) setwindow pcb 
+\i (00:00:54) pick -216.54 -59.06 
+\t (00:00:54) last pick:  -216.54 -59.06
+\t (00:00:54) Using 'EX22Y22D0T.pad'.
+\i (00:00:54) done 
+\t (00:00:54) Exiting from Add Pin.
+\i (00:00:54) add pin 
+\t (00:00:54) Using 'EX22Y22D0T.pad'.
+\i (00:00:54) setwindow form.mini 
+\i (00:00:54) FORM mini offsetx 0.00 
+\i (00:00:54) FORM mini offsety 0.00 
+\i (00:00:54) FORM mini rotate_pin 0 
+\i (00:00:54) add pin 
+\t (00:00:54) Exiting from Add Pin.
+\t (00:00:55) Using 'EX22Y22D0T.pad'.
+\i (00:00:55) setwindow form.mini 
+\i (00:00:55) FORM mini pad_name EX22Y22D0T 
+\i (00:00:55) setwindow form.mini 
+\i (00:00:55) FORM mini next_pin_number H2 
+\i (00:00:55) setwindow pcb 
+\i (00:00:55) pick -177.17 -59.06 
+\t (00:00:55) last pick:  -177.17 -59.06
+\t (00:00:55) Using 'EX22Y22D0T.pad'.
+\i (00:00:55) done 
+\t (00:00:55) Exiting from Add Pin.
+\i (00:00:55) add pin 
+\t (00:00:55) Using 'EX22Y22D0T.pad'.
+\i (00:00:55) setwindow form.mini 
+\i (00:00:55) FORM mini offsetx 0.00 
+\i (00:00:55) FORM mini offsety 0.00 
+\i (00:00:55) FORM mini rotate_pin 0 
+\i (00:00:55) add pin 
+\t (00:00:55) Exiting from Add Pin.
+\t (00:00:55) Using 'EX22Y22D0T.pad'.
+\i (00:00:55) setwindow form.mini 
+\i (00:00:55) FORM mini pad_name EX22Y22D0T 
+\i (00:00:55) setwindow form.mini 
+\i (00:00:55) FORM mini next_pin_number H3 
+\i (00:00:55) setwindow pcb 
+\i (00:00:55) pick -137.8 -59.06 
+\t (00:00:55) last pick:  -137.80 -59.06
+\t (00:00:55) Using 'EX22Y22D0T.pad'.
+\i (00:00:55) done 
+\t (00:00:55) Exiting from Add Pin.
+\i (00:00:55) add pin 
+\t (00:00:55) Using 'EX22Y22D0T.pad'.
+\i (00:00:55) setwindow form.mini 
+\i (00:00:55) FORM mini offsetx 0.00 
+\i (00:00:55) FORM mini offsety 0.00 
+\i (00:00:55) FORM mini rotate_pin 0 
+\i (00:00:55) add pin 
+\t (00:00:55) Exiting from Add Pin.
+\t (00:00:56) Using 'EX22Y22D0T.pad'.
+\i (00:00:56) setwindow form.mini 
+\i (00:00:56) FORM mini pad_name EX22Y22D0T 
+\i (00:00:56) setwindow form.mini 
+\i (00:00:56) FORM mini next_pin_number H4 
+\i (00:00:56) setwindow pcb 
+\i (00:00:56) pick -98.43 -59.06 
+\t (00:00:56) last pick:  -98.43 -59.06
+\t (00:00:56) Using 'EX22Y22D0T.pad'.
+\i (00:00:56) done 
+\t (00:00:56) Exiting from Add Pin.
+\i (00:00:56) add pin 
+\t (00:00:56) Using 'EX22Y22D0T.pad'.
+\i (00:00:56) setwindow form.mini 
+\i (00:00:56) FORM mini offsetx 0.00 
+\i (00:00:56) FORM mini offsety 0.00 
+\i (00:00:56) FORM mini rotate_pin 0 
+\i (00:00:56) add pin 
+\t (00:00:56) Exiting from Add Pin.
+\t (00:00:56) Using 'EX22Y22D0T.pad'.
+\i (00:00:56) setwindow form.mini 
+\i (00:00:56) FORM mini pad_name EX22Y22D0T 
+\i (00:00:56) setwindow form.mini 
+\i (00:00:56) FORM mini next_pin_number H5 
+\i (00:00:56) setwindow pcb 
+\i (00:00:56) pick -59.06 -59.06 
+\t (00:00:56) last pick:  -59.06 -59.06
+\t (00:00:56) Using 'EX22Y22D0T.pad'.
+\i (00:00:56) done 
+\t (00:00:56) Exiting from Add Pin.
+\i (00:00:56) add pin 
+\t (00:00:56) Using 'EX22Y22D0T.pad'.
+\i (00:00:56) setwindow form.mini 
+\i (00:00:56) FORM mini offsetx 0.00 
+\i (00:00:56) FORM mini offsety 0.00 
+\i (00:00:56) FORM mini rotate_pin 0 
+\i (00:00:56) add pin 
+\t (00:00:56) Exiting from Add Pin.
+\t (00:00:57) Using 'EX22Y22D0T.pad'.
+\i (00:00:57) setwindow form.mini 
+\i (00:00:57) FORM mini pad_name EX22Y22D0T 
+\i (00:00:57) setwindow form.mini 
+\i (00:00:57) FORM mini next_pin_number H6 
+\i (00:00:57) setwindow pcb 
+\i (00:00:57) pick -19.69 -59.06 
+\t (00:00:57) last pick:  -19.69 -59.06
+\t (00:00:57) Using 'EX22Y22D0T.pad'.
+\i (00:00:57) done 
+\t (00:00:57) Exiting from Add Pin.
+\i (00:00:57) add pin 
+\t (00:00:57) Using 'EX22Y22D0T.pad'.
+\i (00:00:57) setwindow form.mini 
+\i (00:00:57) FORM mini offsetx 0.00 
+\i (00:00:57) FORM mini offsety 0.00 
+\i (00:00:57) FORM mini rotate_pin 0 
+\i (00:00:57) add pin 
+\t (00:00:57) Exiting from Add Pin.
+\t (00:00:57) Using 'EX22Y22D0T.pad'.
+\i (00:00:57) setwindow form.mini 
+\i (00:00:57) FORM mini pad_name EX22Y22D0T 
+\i (00:00:57) setwindow form.mini 
+\i (00:00:57) FORM mini next_pin_number H7 
+\i (00:00:57) setwindow pcb 
+\i (00:00:57) pick 19.69 -59.06 
+\t (00:00:57) last pick:  19.69 -59.06
+\t (00:00:57) Using 'EX22Y22D0T.pad'.
+\i (00:00:57) done 
+\t (00:00:57) Exiting from Add Pin.
+\i (00:00:57) add pin 
+\t (00:00:57) Using 'EX22Y22D0T.pad'.
+\i (00:00:57) setwindow form.mini 
+\i (00:00:57) FORM mini offsetx 0.00 
+\i (00:00:57) FORM mini offsety 0.00 
+\i (00:00:57) FORM mini rotate_pin 0 
+\i (00:00:57) add pin 
+\t (00:00:57) Exiting from Add Pin.
+\t (00:00:57) Using 'EX22Y22D0T.pad'.
+\i (00:00:57) setwindow form.mini 
+\i (00:00:57) FORM mini pad_name EX22Y22D0T 
+\i (00:00:57) setwindow form.mini 
+\i (00:00:57) FORM mini next_pin_number H8 
+\i (00:00:57) setwindow pcb 
+\i (00:00:57) pick 59.06 -59.06 
+\t (00:00:57) last pick:  59.06 -59.06
+\t (00:00:57) Using 'EX22Y22D0T.pad'.
+\i (00:00:57) done 
+\t (00:00:57) Exiting from Add Pin.
+\i (00:00:58) add pin 
+\t (00:00:58) Using 'EX22Y22D0T.pad'.
+\i (00:00:58) setwindow form.mini 
+\i (00:00:58) FORM mini offsetx 0.00 
+\i (00:00:58) FORM mini offsety 0.00 
+\i (00:00:58) FORM mini rotate_pin 0 
+\i (00:00:58) add pin 
+\t (00:00:58) Exiting from Add Pin.
+\t (00:00:58) Using 'EX22Y22D0T.pad'.
+\i (00:00:58) setwindow form.mini 
+\i (00:00:58) FORM mini pad_name EX22Y22D0T 
+\i (00:00:58) setwindow form.mini 
+\i (00:00:58) FORM mini next_pin_number H9 
+\i (00:00:58) setwindow pcb 
+\i (00:00:58) pick 98.43 -59.06 
+\t (00:00:58) last pick:  98.43 -59.06
+\t (00:00:58) Using 'EX22Y22D0T.pad'.
+\i (00:00:58) done 
+\t (00:00:58) Exiting from Add Pin.
+\i (00:00:58) add pin 
+\t (00:00:58) Using 'EX22Y22D0T.pad'.
+\i (00:00:58) setwindow form.mini 
+\i (00:00:58) FORM mini offsetx 0.00 
+\i (00:00:58) FORM mini offsety 0.00 
+\i (00:00:58) FORM mini rotate_pin 0 
+\i (00:00:58) add pin 
+\t (00:00:58) Exiting from Add Pin.
+\t (00:00:58) Using 'EX22Y22D0T.pad'.
+\i (00:00:58) setwindow form.mini 
+\i (00:00:58) FORM mini pad_name EX22Y22D0T 
+\i (00:00:58) setwindow form.mini 
+\i (00:00:58) FORM mini next_pin_number H10 
+\i (00:00:58) setwindow pcb 
+\i (00:00:58) pick 137.8 -59.06 
+\t (00:00:58) last pick:  137.80 -59.06
+\t (00:00:58) Using 'EX22Y22D0T.pad'.
+\i (00:00:58) done 
+\t (00:00:58) Exiting from Add Pin.
+\i (00:00:59) add pin 
+\t (00:00:59) Using 'EX22Y22D0T.pad'.
+\i (00:00:59) setwindow form.mini 
+\i (00:00:59) FORM mini offsetx 0.00 
+\i (00:00:59) FORM mini offsety 0.00 
+\i (00:00:59) FORM mini rotate_pin 0 
+\i (00:00:59) add pin 
+\t (00:00:59) Exiting from Add Pin.
+\t (00:00:59) Using 'EX22Y22D0T.pad'.
+\i (00:00:59) setwindow form.mini 
+\i (00:00:59) FORM mini pad_name EX22Y22D0T 
+\i (00:00:59) setwindow form.mini 
+\i (00:00:59) FORM mini next_pin_number H11 
+\i (00:00:59) setwindow pcb 
+\i (00:00:59) pick 177.17 -59.06 
+\t (00:00:59) last pick:  177.17 -59.06
+\t (00:00:59) Using 'EX22Y22D0T.pad'.
+\i (00:00:59) done 
+\t (00:00:59) Exiting from Add Pin.
+\i (00:00:59) add pin 
+\t (00:00:59) Using 'EX22Y22D0T.pad'.
+\i (00:00:59) setwindow form.mini 
+\i (00:00:59) FORM mini offsetx 0.00 
+\i (00:00:59) FORM mini offsety 0.00 
+\i (00:00:59) FORM mini rotate_pin 0 
+\i (00:00:59) add pin 
+\t (00:00:59) Exiting from Add Pin.
+\t (00:00:59) Using 'EX22Y22D0T.pad'.
+\i (00:00:59) setwindow form.mini 
+\i (00:00:59) FORM mini pad_name EX22Y22D0T 
+\i (00:00:59) setwindow form.mini 
+\i (00:00:59) FORM mini next_pin_number H12 
+\i (00:00:59) setwindow pcb 
+\i (00:00:59) pick 216.54 -59.06 
+\t (00:00:59) last pick:  216.54 -59.06
+\t (00:00:59) Using 'EX22Y22D0T.pad'.
+\i (00:00:59) done 
+\t (00:00:59) Exiting from Add Pin.
+\i (00:01:00) add pin 
+\t (00:01:00) Using 'EX22Y22D0T.pad'.
+\i (00:01:00) setwindow form.mini 
+\i (00:01:00) FORM mini offsetx 0.00 
+\i (00:01:00) FORM mini offsety 0.00 
+\i (00:01:00) FORM mini rotate_pin 0 
+\i (00:01:00) add pin 
+\t (00:01:00) Exiting from Add Pin.
+\t (00:01:00) Using 'EX22Y22D0T.pad'.
+\i (00:01:00) setwindow form.mini 
+\i (00:01:00) FORM mini pad_name EX22Y22D0T 
+\i (00:01:00) setwindow form.mini 
+\i (00:01:00) FORM mini next_pin_number J1 
+\i (00:01:00) setwindow pcb 
+\i (00:01:00) pick -216.54 -98.43 
+\t (00:01:00) last pick:  -216.54 -98.43
+\t (00:01:00) Using 'EX22Y22D0T.pad'.
+\i (00:01:00) done 
+\t (00:01:00) Exiting from Add Pin.
+\i (00:01:00) add pin 
+\t (00:01:00) Using 'EX22Y22D0T.pad'.
+\i (00:01:00) setwindow form.mini 
+\i (00:01:00) FORM mini offsetx 0.00 
+\i (00:01:00) FORM mini offsety 0.00 
+\i (00:01:00) FORM mini rotate_pin 0 
+\i (00:01:00) add pin 
+\t (00:01:00) Exiting from Add Pin.
+\t (00:01:00) Using 'EX22Y22D0T.pad'.
+\i (00:01:00) setwindow form.mini 
+\i (00:01:00) FORM mini pad_name EX22Y22D0T 
+\i (00:01:00) setwindow form.mini 
+\i (00:01:00) FORM mini next_pin_number J2 
+\i (00:01:00) setwindow pcb 
+\i (00:01:00) pick -177.17 -98.43 
+\t (00:01:00) last pick:  -177.17 -98.43
+\t (00:01:00) Using 'EX22Y22D0T.pad'.
+\i (00:01:00) done 
+\t (00:01:00) Exiting from Add Pin.
+\i (00:01:00) add pin 
+\t (00:01:01) Using 'EX22Y22D0T.pad'.
+\i (00:01:01) setwindow form.mini 
+\i (00:01:01) FORM mini offsetx 0.00 
+\i (00:01:01) FORM mini offsety 0.00 
+\i (00:01:01) FORM mini rotate_pin 0 
+\i (00:01:01) add pin 
+\t (00:01:01) Exiting from Add Pin.
+\t (00:01:01) Using 'EX22Y22D0T.pad'.
+\i (00:01:01) setwindow form.mini 
+\i (00:01:01) FORM mini pad_name EX22Y22D0T 
+\i (00:01:01) setwindow form.mini 
+\i (00:01:01) FORM mini next_pin_number J3 
+\i (00:01:01) setwindow pcb 
+\i (00:01:01) pick -137.8 -98.43 
+\t (00:01:01) last pick:  -137.80 -98.43
+\t (00:01:01) Using 'EX22Y22D0T.pad'.
+\i (00:01:01) done 
+\t (00:01:01) Exiting from Add Pin.
+\i (00:01:01) add pin 
+\t (00:01:01) Using 'EX22Y22D0T.pad'.
+\i (00:01:01) setwindow form.mini 
+\i (00:01:01) FORM mini offsetx 0.00 
+\i (00:01:01) FORM mini offsety 0.00 
+\i (00:01:01) FORM mini rotate_pin 0 
+\i (00:01:01) add pin 
+\t (00:01:01) Exiting from Add Pin.
+\t (00:01:01) Using 'EX22Y22D0T.pad'.
+\i (00:01:01) setwindow form.mini 
+\i (00:01:01) FORM mini pad_name EX22Y22D0T 
+\i (00:01:01) setwindow form.mini 
+\i (00:01:01) FORM mini next_pin_number J4 
+\i (00:01:01) setwindow pcb 
+\i (00:01:01) pick -98.43 -98.43 
+\t (00:01:01) last pick:  -98.43 -98.43
+\t (00:01:01) Using 'EX22Y22D0T.pad'.
+\i (00:01:01) done 
+\t (00:01:01) Exiting from Add Pin.
+\i (00:01:01) add pin 
+\t (00:01:02) Using 'EX22Y22D0T.pad'.
+\i (00:01:02) setwindow form.mini 
+\i (00:01:02) FORM mini offsetx 0.00 
+\i (00:01:02) FORM mini offsety 0.00 
+\i (00:01:02) FORM mini rotate_pin 0 
+\i (00:01:02) add pin 
+\t (00:01:02) Exiting from Add Pin.
+\t (00:01:02) Using 'EX22Y22D0T.pad'.
+\i (00:01:02) setwindow form.mini 
+\i (00:01:02) FORM mini pad_name EX22Y22D0T 
+\i (00:01:02) setwindow form.mini 
+\i (00:01:02) FORM mini next_pin_number J5 
+\i (00:01:02) setwindow pcb 
+\i (00:01:02) pick -59.06 -98.43 
+\t (00:01:02) last pick:  -59.06 -98.43
+\t (00:01:02) Using 'EX22Y22D0T.pad'.
+\i (00:01:02) done 
+\t (00:01:02) Exiting from Add Pin.
+\i (00:01:02) add pin 
+\t (00:01:02) Using 'EX22Y22D0T.pad'.
+\i (00:01:02) setwindow form.mini 
+\i (00:01:02) FORM mini offsetx 0.00 
+\i (00:01:02) FORM mini offsety 0.00 
+\i (00:01:02) FORM mini rotate_pin 0 
+\i (00:01:02) add pin 
+\t (00:01:02) Exiting from Add Pin.
+\t (00:01:02) Using 'EX22Y22D0T.pad'.
+\i (00:01:02) setwindow form.mini 
+\i (00:01:02) FORM mini pad_name EX22Y22D0T 
+\i (00:01:02) setwindow form.mini 
+\i (00:01:02) FORM mini next_pin_number J6 
+\i (00:01:02) setwindow pcb 
+\i (00:01:02) pick -19.69 -98.43 
+\t (00:01:02) last pick:  -19.69 -98.43
+\t (00:01:02) Using 'EX22Y22D0T.pad'.
+\i (00:01:02) done 
+\t (00:01:02) Exiting from Add Pin.
+\i (00:01:03) add pin 
+\t (00:01:03) Using 'EX22Y22D0T.pad'.
+\i (00:01:03) setwindow form.mini 
+\i (00:01:03) FORM mini offsetx 0.00 
+\i (00:01:03) FORM mini offsety 0.00 
+\i (00:01:03) FORM mini rotate_pin 0 
+\i (00:01:03) add pin 
+\t (00:01:03) Exiting from Add Pin.
+\t (00:01:03) Using 'EX22Y22D0T.pad'.
+\i (00:01:03) setwindow form.mini 
+\i (00:01:03) FORM mini pad_name EX22Y22D0T 
+\i (00:01:03) setwindow form.mini 
+\i (00:01:03) FORM mini next_pin_number J7 
+\i (00:01:03) setwindow pcb 
+\i (00:01:03) pick 19.69 -98.43 
+\t (00:01:03) last pick:  19.69 -98.43
+\t (00:01:03) Using 'EX22Y22D0T.pad'.
+\i (00:01:03) done 
+\t (00:01:03) Exiting from Add Pin.
+\i (00:01:03) add pin 
+\t (00:01:03) Using 'EX22Y22D0T.pad'.
+\i (00:01:03) setwindow form.mini 
+\i (00:01:03) FORM mini offsetx 0.00 
+\i (00:01:03) FORM mini offsety 0.00 
+\i (00:01:03) FORM mini rotate_pin 0 
+\i (00:01:03) add pin 
+\t (00:01:03) Exiting from Add Pin.
+\t (00:01:03) Using 'EX22Y22D0T.pad'.
+\i (00:01:03) setwindow form.mini 
+\i (00:01:03) FORM mini pad_name EX22Y22D0T 
+\i (00:01:03) setwindow form.mini 
+\i (00:01:03) FORM mini next_pin_number J8 
+\i (00:01:03) setwindow pcb 
+\i (00:01:03) pick 59.06 -98.43 
+\t (00:01:03) last pick:  59.06 -98.43
+\t (00:01:03) Using 'EX22Y22D0T.pad'.
+\i (00:01:03) done 
+\t (00:01:03) Exiting from Add Pin.
+\i (00:01:04) add pin 
+\t (00:01:04) Using 'EX22Y22D0T.pad'.
+\i (00:01:04) setwindow form.mini 
+\i (00:01:04) FORM mini offsetx 0.00 
+\i (00:01:04) FORM mini offsety 0.00 
+\i (00:01:04) FORM mini rotate_pin 0 
+\i (00:01:04) add pin 
+\t (00:01:04) Exiting from Add Pin.
+\t (00:01:04) Using 'EX22Y22D0T.pad'.
+\i (00:01:04) setwindow form.mini 
+\i (00:01:04) FORM mini pad_name EX22Y22D0T 
+\i (00:01:04) setwindow form.mini 
+\i (00:01:04) FORM mini next_pin_number J9 
+\i (00:01:04) setwindow pcb 
+\i (00:01:04) pick 98.43 -98.43 
+\t (00:01:04) last pick:  98.43 -98.43
+\t (00:01:04) Using 'EX22Y22D0T.pad'.
+\i (00:01:04) done 
+\t (00:01:04) Exiting from Add Pin.
+\i (00:01:04) add pin 
+\t (00:01:04) Using 'EX22Y22D0T.pad'.
+\i (00:01:04) setwindow form.mini 
+\i (00:01:04) FORM mini offsetx 0.00 
+\i (00:01:04) FORM mini offsety 0.00 
+\i (00:01:04) FORM mini rotate_pin 0 
+\i (00:01:04) add pin 
+\t (00:01:04) Exiting from Add Pin.
+\t (00:01:04) Using 'EX22Y22D0T.pad'.
+\i (00:01:04) setwindow form.mini 
+\i (00:01:04) FORM mini pad_name EX22Y22D0T 
+\i (00:01:04) setwindow form.mini 
+\i (00:01:04) FORM mini next_pin_number J10 
+\i (00:01:04) setwindow pcb 
+\i (00:01:04) pick 137.8 -98.43 
+\t (00:01:04) last pick:  137.80 -98.43
+\t (00:01:04) Using 'EX22Y22D0T.pad'.
+\i (00:01:04) done 
+\t (00:01:04) Exiting from Add Pin.
+\i (00:01:05) add pin 
+\t (00:01:05) Using 'EX22Y22D0T.pad'.
+\i (00:01:05) setwindow form.mini 
+\i (00:01:05) FORM mini offsetx 0.00 
+\i (00:01:05) FORM mini offsety 0.00 
+\i (00:01:05) FORM mini rotate_pin 0 
+\i (00:01:05) add pin 
+\t (00:01:05) Exiting from Add Pin.
+\t (00:01:05) Using 'EX22Y22D0T.pad'.
+\i (00:01:05) setwindow form.mini 
+\i (00:01:05) FORM mini pad_name EX22Y22D0T 
+\i (00:01:05) setwindow form.mini 
+\i (00:01:05) FORM mini next_pin_number J11 
+\i (00:01:05) setwindow pcb 
+\i (00:01:05) pick 177.17 -98.43 
+\t (00:01:05) last pick:  177.17 -98.43
+\t (00:01:05) Using 'EX22Y22D0T.pad'.
+\i (00:01:05) done 
+\t (00:01:05) Exiting from Add Pin.
+\i (00:01:05) add pin 
+\t (00:01:05) Using 'EX22Y22D0T.pad'.
+\i (00:01:05) setwindow form.mini 
+\i (00:01:05) FORM mini offsetx 0.00 
+\i (00:01:05) FORM mini offsety 0.00 
+\i (00:01:05) FORM mini rotate_pin 0 
+\i (00:01:05) add pin 
+\t (00:01:05) Exiting from Add Pin.
+\t (00:01:06) Using 'EX22Y22D0T.pad'.
+\i (00:01:06) setwindow form.mini 
+\i (00:01:06) FORM mini pad_name EX22Y22D0T 
+\i (00:01:06) setwindow form.mini 
+\i (00:01:06) FORM mini next_pin_number J12 
+\i (00:01:06) setwindow pcb 
+\i (00:01:06) pick 216.54 -98.43 
+\t (00:01:06) last pick:  216.54 -98.43
+\t (00:01:06) Using 'EX22Y22D0T.pad'.
+\i (00:01:06) done 
+\t (00:01:06) Exiting from Add Pin.
+\i (00:01:06) add pin 
+\t (00:01:06) Using 'EX22Y22D0T.pad'.
+\i (00:01:06) setwindow form.mini 
+\i (00:01:06) FORM mini offsetx 0.00 
+\i (00:01:06) FORM mini offsety 0.00 
+\i (00:01:06) FORM mini rotate_pin 0 
+\i (00:01:06) add pin 
+\t (00:01:06) Exiting from Add Pin.
+\t (00:01:06) Using 'EX22Y22D0T.pad'.
+\i (00:01:06) setwindow form.mini 
+\i (00:01:06) FORM mini pad_name EX22Y22D0T 
+\i (00:01:06) setwindow form.mini 
+\i (00:01:06) FORM mini next_pin_number K1 
+\i (00:01:06) setwindow pcb 
+\i (00:01:06) pick -216.54 -137.8 
+\t (00:01:06) last pick:  -216.54 -137.80
+\t (00:01:06) Using 'EX22Y22D0T.pad'.
+\i (00:01:06) done 
+\t (00:01:06) Exiting from Add Pin.
+\i (00:01:06) add pin 
+\t (00:01:06) Using 'EX22Y22D0T.pad'.
+\i (00:01:06) setwindow form.mini 
+\i (00:01:06) FORM mini offsetx 0.00 
+\i (00:01:06) FORM mini offsety 0.00 
+\i (00:01:06) FORM mini rotate_pin 0 
+\i (00:01:06) add pin 
+\t (00:01:06) Exiting from Add Pin.
+\t (00:01:07) Using 'EX22Y22D0T.pad'.
+\i (00:01:07) setwindow form.mini 
+\i (00:01:07) FORM mini pad_name EX22Y22D0T 
+\i (00:01:07) setwindow form.mini 
+\i (00:01:07) FORM mini next_pin_number K2 
+\i (00:01:07) setwindow pcb 
+\i (00:01:07) pick -177.17 -137.8 
+\t (00:01:07) last pick:  -177.17 -137.80
+\t (00:01:07) Using 'EX22Y22D0T.pad'.
+\i (00:01:07) done 
+\t (00:01:07) Exiting from Add Pin.
+\i (00:01:07) add pin 
+\t (00:01:07) Using 'EX22Y22D0T.pad'.
+\i (00:01:07) setwindow form.mini 
+\i (00:01:07) FORM mini offsetx 0.00 
+\i (00:01:07) FORM mini offsety 0.00 
+\i (00:01:07) FORM mini rotate_pin 0 
+\i (00:01:07) add pin 
+\t (00:01:07) Exiting from Add Pin.
+\t (00:01:07) Using 'EX22Y22D0T.pad'.
+\i (00:01:07) setwindow form.mini 
+\i (00:01:07) FORM mini pad_name EX22Y22D0T 
+\i (00:01:07) setwindow form.mini 
+\i (00:01:07) FORM mini next_pin_number K3 
+\i (00:01:07) setwindow pcb 
+\i (00:01:07) pick -137.8 -137.8 
+\t (00:01:07) last pick:  -137.80 -137.80
+\t (00:01:07) Using 'EX22Y22D0T.pad'.
+\i (00:01:07) done 
+\t (00:01:07) Exiting from Add Pin.
+\i (00:01:07) add pin 
+\t (00:01:07) Using 'EX22Y22D0T.pad'.
+\i (00:01:07) setwindow form.mini 
+\i (00:01:07) FORM mini offsetx 0.00 
+\i (00:01:07) FORM mini offsety 0.00 
+\i (00:01:07) FORM mini rotate_pin 0 
+\i (00:01:07) add pin 
+\t (00:01:07) Exiting from Add Pin.
+\t (00:01:08) Using 'EX22Y22D0T.pad'.
+\i (00:01:08) setwindow form.mini 
+\i (00:01:08) FORM mini pad_name EX22Y22D0T 
+\i (00:01:08) setwindow form.mini 
+\i (00:01:08) FORM mini next_pin_number K4 
+\i (00:01:08) setwindow pcb 
+\i (00:01:08) pick -98.43 -137.8 
+\t (00:01:08) last pick:  -98.43 -137.80
+\t (00:01:08) Using 'EX22Y22D0T.pad'.
+\i (00:01:08) done 
+\t (00:01:08) Exiting from Add Pin.
+\i (00:01:08) add pin 
+\t (00:01:08) Using 'EX22Y22D0T.pad'.
+\i (00:01:08) setwindow form.mini 
+\i (00:01:08) FORM mini offsetx 0.00 
+\i (00:01:08) FORM mini offsety 0.00 
+\i (00:01:08) FORM mini rotate_pin 0 
+\i (00:01:08) add pin 
+\t (00:01:08) Exiting from Add Pin.
+\t (00:01:08) Using 'EX22Y22D0T.pad'.
+\i (00:01:08) setwindow form.mini 
+\i (00:01:08) FORM mini pad_name EX22Y22D0T 
+\i (00:01:08) setwindow form.mini 
+\i (00:01:08) FORM mini next_pin_number K5 
+\i (00:01:08) setwindow pcb 
+\i (00:01:08) pick -59.06 -137.8 
+\t (00:01:08) last pick:  -59.06 -137.80
+\t (00:01:08) Using 'EX22Y22D0T.pad'.
+\i (00:01:08) done 
+\t (00:01:08) Exiting from Add Pin.
+\i (00:01:08) add pin 
+\t (00:01:08) Using 'EX22Y22D0T.pad'.
+\i (00:01:08) setwindow form.mini 
+\i (00:01:08) FORM mini offsetx 0.00 
+\i (00:01:08) FORM mini offsety 0.00 
+\i (00:01:08) FORM mini rotate_pin 0 
+\i (00:01:08) add pin 
+\t (00:01:08) Exiting from Add Pin.
+\t (00:01:09) Using 'EX22Y22D0T.pad'.
+\i (00:01:09) setwindow form.mini 
+\i (00:01:09) FORM mini pad_name EX22Y22D0T 
+\i (00:01:09) setwindow form.mini 
+\i (00:01:09) FORM mini next_pin_number K6 
+\i (00:01:09) setwindow pcb 
+\i (00:01:09) pick -19.69 -137.8 
+\t (00:01:09) last pick:  -19.69 -137.80
+\t (00:01:09) Using 'EX22Y22D0T.pad'.
+\i (00:01:09) done 
+\t (00:01:09) Exiting from Add Pin.
+\i (00:01:09) add pin 
+\t (00:01:09) Using 'EX22Y22D0T.pad'.
+\i (00:01:09) setwindow form.mini 
+\i (00:01:09) FORM mini offsetx 0.00 
+\i (00:01:09) FORM mini offsety 0.00 
+\i (00:01:09) FORM mini rotate_pin 0 
+\i (00:01:09) add pin 
+\t (00:01:09) Exiting from Add Pin.
+\t (00:01:09) Using 'EX22Y22D0T.pad'.
+\i (00:01:09) setwindow form.mini 
+\i (00:01:09) FORM mini pad_name EX22Y22D0T 
+\i (00:01:09) setwindow form.mini 
+\i (00:01:09) FORM mini next_pin_number K7 
+\i (00:01:09) setwindow pcb 
+\i (00:01:09) pick 19.69 -137.8 
+\t (00:01:09) last pick:  19.69 -137.80
+\t (00:01:09) Using 'EX22Y22D0T.pad'.
+\i (00:01:09) done 
+\t (00:01:09) Exiting from Add Pin.
+\i (00:01:09) add pin 
+\t (00:01:10) Using 'EX22Y22D0T.pad'.
+\i (00:01:10) setwindow form.mini 
+\i (00:01:10) FORM mini offsetx 0.00 
+\i (00:01:10) FORM mini offsety 0.00 
+\i (00:01:10) FORM mini rotate_pin 0 
+\i (00:01:10) add pin 
+\t (00:01:10) Exiting from Add Pin.
+\t (00:01:10) Using 'EX22Y22D0T.pad'.
+\i (00:01:10) setwindow form.mini 
+\i (00:01:10) FORM mini pad_name EX22Y22D0T 
+\i (00:01:10) setwindow form.mini 
+\i (00:01:10) FORM mini next_pin_number K8 
+\i (00:01:10) setwindow pcb 
+\i (00:01:10) pick 59.06 -137.8 
+\t (00:01:10) last pick:  59.06 -137.80
+\t (00:01:10) Using 'EX22Y22D0T.pad'.
+\i (00:01:10) done 
+\t (00:01:10) Exiting from Add Pin.
+\i (00:01:10) add pin 
+\t (00:01:10) Using 'EX22Y22D0T.pad'.
+\i (00:01:10) setwindow form.mini 
+\i (00:01:10) FORM mini offsetx 0.00 
+\i (00:01:10) FORM mini offsety 0.00 
+\i (00:01:10) FORM mini rotate_pin 0 
+\i (00:01:10) add pin 
+\t (00:01:10) Exiting from Add Pin.
+\t (00:01:10) Using 'EX22Y22D0T.pad'.
+\i (00:01:10) setwindow form.mini 
+\i (00:01:10) FORM mini pad_name EX22Y22D0T 
+\i (00:01:10) setwindow form.mini 
+\i (00:01:10) FORM mini next_pin_number K9 
+\i (00:01:10) setwindow pcb 
+\i (00:01:10) pick 98.43 -137.8 
+\t (00:01:10) last pick:  98.43 -137.80
+\t (00:01:10) Using 'EX22Y22D0T.pad'.
+\i (00:01:10) done 
+\t (00:01:10) Exiting from Add Pin.
+\i (00:01:10) add pin 
+\t (00:01:11) Using 'EX22Y22D0T.pad'.
+\i (00:01:11) setwindow form.mini 
+\i (00:01:11) FORM mini offsetx 0.00 
+\i (00:01:11) FORM mini offsety 0.00 
+\i (00:01:11) FORM mini rotate_pin 0 
+\i (00:01:11) add pin 
+\t (00:01:11) Exiting from Add Pin.
+\t (00:01:11) Using 'EX22Y22D0T.pad'.
+\i (00:01:11) setwindow form.mini 
+\i (00:01:11) FORM mini pad_name EX22Y22D0T 
+\i (00:01:11) setwindow form.mini 
+\i (00:01:11) FORM mini next_pin_number K10 
+\i (00:01:11) setwindow pcb 
+\i (00:01:11) pick 137.8 -137.8 
+\t (00:01:11) last pick:  137.80 -137.80
+\t (00:01:11) Using 'EX22Y22D0T.pad'.
+\i (00:01:11) done 
+\t (00:01:11) Exiting from Add Pin.
+\i (00:01:11) add pin 
+\t (00:01:11) Using 'EX22Y22D0T.pad'.
+\i (00:01:11) setwindow form.mini 
+\i (00:01:11) FORM mini offsetx 0.00 
+\i (00:01:11) FORM mini offsety 0.00 
+\i (00:01:11) FORM mini rotate_pin 0 
+\i (00:01:11) add pin 
+\t (00:01:11) Exiting from Add Pin.
+\t (00:01:11) Using 'EX22Y22D0T.pad'.
+\i (00:01:11) setwindow form.mini 
+\i (00:01:11) FORM mini pad_name EX22Y22D0T 
+\i (00:01:11) setwindow form.mini 
+\i (00:01:11) FORM mini next_pin_number K11 
+\i (00:01:11) setwindow pcb 
+\i (00:01:11) pick 177.17 -137.8 
+\t (00:01:11) last pick:  177.17 -137.80
+\t (00:01:11) Using 'EX22Y22D0T.pad'.
+\i (00:01:11) done 
+\t (00:01:11) Exiting from Add Pin.
+\i (00:01:12) add pin 
+\t (00:01:12) Using 'EX22Y22D0T.pad'.
+\i (00:01:12) setwindow form.mini 
+\i (00:01:12) FORM mini offsetx 0.00 
+\i (00:01:12) FORM mini offsety 0.00 
+\i (00:01:12) FORM mini rotate_pin 0 
+\i (00:01:12) add pin 
+\t (00:01:12) Exiting from Add Pin.
+\t (00:01:12) Using 'EX22Y22D0T.pad'.
+\i (00:01:12) setwindow form.mini 
+\i (00:01:12) FORM mini pad_name EX22Y22D0T 
+\i (00:01:12) setwindow form.mini 
+\i (00:01:12) FORM mini next_pin_number K12 
+\i (00:01:12) setwindow pcb 
+\i (00:01:12) pick 216.54 -137.8 
+\t (00:01:12) last pick:  216.54 -137.80
+\t (00:01:12) Using 'EX22Y22D0T.pad'.
+\i (00:01:12) done 
+\t (00:01:12) Exiting from Add Pin.
+\i (00:01:12) add pin 
+\t (00:01:12) Using 'EX22Y22D0T.pad'.
+\i (00:01:12) setwindow form.mini 
+\i (00:01:12) FORM mini offsetx 0.00 
+\i (00:01:12) FORM mini offsety 0.00 
+\i (00:01:12) FORM mini rotate_pin 0 
+\i (00:01:12) add pin 
+\t (00:01:12) Exiting from Add Pin.
+\t (00:01:12) Using 'EX22Y22D0T.pad'.
+\i (00:01:12) setwindow form.mini 
+\i (00:01:12) FORM mini pad_name EX22Y22D0T 
+\i (00:01:12) setwindow form.mini 
+\i (00:01:12) FORM mini next_pin_number L1 
+\i (00:01:12) setwindow pcb 
+\i (00:01:12) pick -216.54 -177.17 
+\t (00:01:12) last pick:  -216.54 -177.17
+\t (00:01:12) Using 'EX22Y22D0T.pad'.
+\i (00:01:12) done 
+\t (00:01:12) Exiting from Add Pin.
+\i (00:01:13) add pin 
+\t (00:01:13) Using 'EX22Y22D0T.pad'.
+\i (00:01:13) setwindow form.mini 
+\i (00:01:13) FORM mini offsetx 0.00 
+\i (00:01:13) FORM mini offsety 0.00 
+\i (00:01:13) FORM mini rotate_pin 0 
+\i (00:01:13) add pin 
+\t (00:01:13) Exiting from Add Pin.
+\t (00:01:13) Using 'EX22Y22D0T.pad'.
+\i (00:01:13) setwindow form.mini 
+\i (00:01:13) FORM mini pad_name EX22Y22D0T 
+\i (00:01:13) setwindow form.mini 
+\i (00:01:13) FORM mini next_pin_number L2 
+\i (00:01:13) setwindow pcb 
+\i (00:01:13) pick -177.17 -177.17 
+\t (00:01:13) last pick:  -177.17 -177.17
+\t (00:01:13) Using 'EX22Y22D0T.pad'.
+\i (00:01:13) done 
+\t (00:01:13) Exiting from Add Pin.
+\i (00:01:13) add pin 
+\t (00:01:13) Using 'EX22Y22D0T.pad'.
+\i (00:01:13) setwindow form.mini 
+\i (00:01:13) FORM mini offsetx 0.00 
+\i (00:01:13) FORM mini offsety 0.00 
+\i (00:01:13) FORM mini rotate_pin 0 
+\i (00:01:13) add pin 
+\t (00:01:13) Exiting from Add Pin.
+\t (00:01:13) Using 'EX22Y22D0T.pad'.
+\i (00:01:13) setwindow form.mini 
+\i (00:01:13) FORM mini pad_name EX22Y22D0T 
+\i (00:01:13) setwindow form.mini 
+\i (00:01:13) FORM mini next_pin_number L3 
+\i (00:01:13) setwindow pcb 
+\i (00:01:13) pick -137.8 -177.17 
+\t (00:01:13) last pick:  -137.80 -177.17
+\t (00:01:13) Using 'EX22Y22D0T.pad'.
+\i (00:01:13) done 
+\t (00:01:13) Exiting from Add Pin.
+\i (00:01:14) add pin 
+\t (00:01:14) Using 'EX22Y22D0T.pad'.
+\i (00:01:14) setwindow form.mini 
+\i (00:01:14) FORM mini offsetx 0.00 
+\i (00:01:14) FORM mini offsety 0.00 
+\i (00:01:14) FORM mini rotate_pin 0 
+\i (00:01:14) add pin 
+\t (00:01:14) Exiting from Add Pin.
+\t (00:01:14) Using 'EX22Y22D0T.pad'.
+\i (00:01:14) setwindow form.mini 
+\i (00:01:14) FORM mini pad_name EX22Y22D0T 
+\i (00:01:14) setwindow form.mini 
+\i (00:01:14) FORM mini next_pin_number L4 
+\i (00:01:14) setwindow pcb 
+\i (00:01:14) pick -98.43 -177.17 
+\t (00:01:14) last pick:  -98.43 -177.17
+\t (00:01:14) Using 'EX22Y22D0T.pad'.
+\i (00:01:14) done 
+\t (00:01:14) Exiting from Add Pin.
+\i (00:01:14) add pin 
+\t (00:01:14) Using 'EX22Y22D0T.pad'.
+\i (00:01:14) setwindow form.mini 
+\i (00:01:14) FORM mini offsetx 0.00 
+\i (00:01:14) FORM mini offsety 0.00 
+\i (00:01:14) FORM mini rotate_pin 0 
+\i (00:01:14) add pin 
+\t (00:01:14) Exiting from Add Pin.
+\t (00:01:15) Using 'EX22Y22D0T.pad'.
+\i (00:01:15) setwindow form.mini 
+\i (00:01:15) FORM mini pad_name EX22Y22D0T 
+\i (00:01:15) setwindow form.mini 
+\i (00:01:15) FORM mini next_pin_number L5 
+\i (00:01:15) setwindow pcb 
+\i (00:01:15) pick -59.06 -177.17 
+\t (00:01:15) last pick:  -59.06 -177.17
+\t (00:01:15) Using 'EX22Y22D0T.pad'.
+\i (00:01:15) done 
+\t (00:01:15) Exiting from Add Pin.
+\i (00:01:15) add pin 
+\t (00:01:15) Using 'EX22Y22D0T.pad'.
+\i (00:01:15) setwindow form.mini 
+\i (00:01:15) FORM mini offsetx 0.00 
+\i (00:01:15) FORM mini offsety 0.00 
+\i (00:01:15) FORM mini rotate_pin 0 
+\i (00:01:15) add pin 
+\t (00:01:15) Exiting from Add Pin.
+\t (00:01:15) Using 'EX22Y22D0T.pad'.
+\i (00:01:15) setwindow form.mini 
+\i (00:01:15) FORM mini pad_name EX22Y22D0T 
+\i (00:01:15) setwindow form.mini 
+\i (00:01:15) FORM mini next_pin_number L6 
+\i (00:01:15) setwindow pcb 
+\i (00:01:15) pick -19.69 -177.17 
+\t (00:01:15) last pick:  -19.69 -177.17
+\t (00:01:15) Using 'EX22Y22D0T.pad'.
+\i (00:01:15) done 
+\t (00:01:15) Exiting from Add Pin.
+\i (00:01:15) add pin 
+\t (00:01:15) Using 'EX22Y22D0T.pad'.
+\i (00:01:15) setwindow form.mini 
+\i (00:01:15) FORM mini offsetx 0.00 
+\i (00:01:15) FORM mini offsety 0.00 
+\i (00:01:15) FORM mini rotate_pin 0 
+\i (00:01:15) add pin 
+\t (00:01:15) Exiting from Add Pin.
+\t (00:01:16) Using 'EX22Y22D0T.pad'.
+\i (00:01:16) setwindow form.mini 
+\i (00:01:16) FORM mini pad_name EX22Y22D0T 
+\i (00:01:16) setwindow form.mini 
+\i (00:01:16) FORM mini next_pin_number L7 
+\i (00:01:16) setwindow pcb 
+\i (00:01:16) pick 19.69 -177.17 
+\t (00:01:16) last pick:  19.69 -177.17
+\t (00:01:16) Using 'EX22Y22D0T.pad'.
+\i (00:01:16) done 
+\t (00:01:16) Exiting from Add Pin.
+\i (00:01:16) add pin 
+\t (00:01:16) Using 'EX22Y22D0T.pad'.
+\i (00:01:16) setwindow form.mini 
+\i (00:01:16) FORM mini offsetx 0.00 
+\i (00:01:16) FORM mini offsety 0.00 
+\i (00:01:16) FORM mini rotate_pin 0 
+\i (00:01:16) add pin 
+\t (00:01:16) Exiting from Add Pin.
+\t (00:01:16) Using 'EX22Y22D0T.pad'.
+\i (00:01:16) setwindow form.mini 
+\i (00:01:16) FORM mini pad_name EX22Y22D0T 
+\i (00:01:16) setwindow form.mini 
+\i (00:01:16) FORM mini next_pin_number L8 
+\i (00:01:16) setwindow pcb 
+\i (00:01:16) pick 59.06 -177.17 
+\t (00:01:16) last pick:  59.06 -177.17
+\t (00:01:16) Using 'EX22Y22D0T.pad'.
+\i (00:01:16) done 
+\t (00:01:16) Exiting from Add Pin.
+\i (00:01:16) add pin 
+\t (00:01:16) Using 'EX22Y22D0T.pad'.
+\i (00:01:16) setwindow form.mini 
+\i (00:01:16) FORM mini offsetx 0.00 
+\i (00:01:16) FORM mini offsety 0.00 
+\i (00:01:16) FORM mini rotate_pin 0 
+\i (00:01:16) add pin 
+\t (00:01:16) Exiting from Add Pin.
+\t (00:01:17) Using 'EX22Y22D0T.pad'.
+\i (00:01:17) setwindow form.mini 
+\i (00:01:17) FORM mini pad_name EX22Y22D0T 
+\i (00:01:17) setwindow form.mini 
+\i (00:01:17) FORM mini next_pin_number L9 
+\i (00:01:17) setwindow pcb 
+\i (00:01:17) pick 98.43 -177.17 
+\t (00:01:17) last pick:  98.43 -177.17
+\t (00:01:17) Using 'EX22Y22D0T.pad'.
+\i (00:01:17) done 
+\t (00:01:17) Exiting from Add Pin.
+\i (00:01:17) add pin 
+\t (00:01:17) Using 'EX22Y22D0T.pad'.
+\i (00:01:17) setwindow form.mini 
+\i (00:01:17) FORM mini offsetx 0.00 
+\i (00:01:17) FORM mini offsety 0.00 
+\i (00:01:17) FORM mini rotate_pin 0 
+\i (00:01:17) add pin 
+\t (00:01:17) Exiting from Add Pin.
+\t (00:01:17) Using 'EX22Y22D0T.pad'.
+\i (00:01:17) setwindow form.mini 
+\i (00:01:17) FORM mini pad_name EX22Y22D0T 
+\i (00:01:17) setwindow form.mini 
+\i (00:01:17) FORM mini next_pin_number L10 
+\i (00:01:17) setwindow pcb 
+\i (00:01:17) pick 137.8 -177.17 
+\t (00:01:17) last pick:  137.80 -177.17
+\t (00:01:17) Using 'EX22Y22D0T.pad'.
+\i (00:01:17) done 
+\t (00:01:17) Exiting from Add Pin.
+\i (00:01:17) add pin 
+\t (00:01:17) Using 'EX22Y22D0T.pad'.
+\i (00:01:17) setwindow form.mini 
+\i (00:01:17) FORM mini offsetx 0.00 
+\i (00:01:17) FORM mini offsety 0.00 
+\i (00:01:17) FORM mini rotate_pin 0 
+\i (00:01:17) add pin 
+\t (00:01:17) Exiting from Add Pin.
+\t (00:01:18) Using 'EX22Y22D0T.pad'.
+\i (00:01:18) setwindow form.mini 
+\i (00:01:18) FORM mini pad_name EX22Y22D0T 
+\i (00:01:18) setwindow form.mini 
+\i (00:01:18) FORM mini next_pin_number L11 
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) pick 177.17 -177.17 
+\t (00:01:18) last pick:  177.17 -177.17
+\t (00:01:18) Using 'EX22Y22D0T.pad'.
+\i (00:01:18) done 
+\t (00:01:18) Exiting from Add Pin.
+\i (00:01:18) add pin 
+\t (00:01:18) Using 'EX22Y22D0T.pad'.
+\i (00:01:18) setwindow form.mini 
+\i (00:01:18) FORM mini offsetx 0.00 
+\i (00:01:18) FORM mini offsety 0.00 
+\i (00:01:18) FORM mini rotate_pin 0 
+\i (00:01:18) add pin 
+\t (00:01:18) Exiting from Add Pin.
+\t (00:01:18) Using 'EX22Y22D0T.pad'.
+\i (00:01:18) setwindow form.mini 
+\i (00:01:18) FORM mini pad_name EX22Y22D0T 
+\i (00:01:18) setwindow form.mini 
+\i (00:01:18) FORM mini next_pin_number L12 
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) pick 216.54 -177.17 
+\t (00:01:18) last pick:  216.54 -177.17
+\t (00:01:18) Using 'EX22Y22D0T.pad'.
+\i (00:01:18) done 
+\t (00:01:18) Exiting from Add Pin.
+\i (00:01:18) add pin 
+\t (00:01:18) Using 'EX22Y22D0T.pad'.
+\i (00:01:18) setwindow form.mini 
+\i (00:01:18) FORM mini offsetx 0.00 
+\i (00:01:18) FORM mini offsety 0.00 
+\i (00:01:18) FORM mini rotate_pin 0 
+\i (00:01:18) add pin 
+\t (00:01:18) Exiting from Add Pin.
+\t (00:01:19) Using 'EX22Y22D0T.pad'.
+\i (00:01:19) setwindow form.mini 
+\i (00:01:19) FORM mini pad_name EX22Y22D0T 
+\i (00:01:19) setwindow form.mini 
+\i (00:01:19) FORM mini next_pin_number M1 
+\i (00:01:19) setwindow pcb 
+\i (00:01:19) pick -216.54 -216.54 
+\t (00:01:19) last pick:  -216.54 -216.54
+\t (00:01:19) Using 'EX22Y22D0T.pad'.
+\i (00:01:19) done 
+\t (00:01:19) Exiting from Add Pin.
+\i (00:01:19) add pin 
+\t (00:01:19) Using 'EX22Y22D0T.pad'.
+\i (00:01:19) setwindow form.mini 
+\i (00:01:19) FORM mini offsetx 0.00 
+\i (00:01:19) FORM mini offsety 0.00 
+\i (00:01:19) FORM mini rotate_pin 0 
+\i (00:01:19) add pin 
+\t (00:01:19) Exiting from Add Pin.
+\t (00:01:19) Using 'EX22Y22D0T.pad'.
+\i (00:01:19) setwindow form.mini 
+\i (00:01:19) FORM mini pad_name EX22Y22D0T 
+\i (00:01:19) setwindow form.mini 
+\i (00:01:19) FORM mini next_pin_number M2 
+\i (00:01:19) setwindow pcb 
+\i (00:01:19) pick -177.17 -216.54 
+\t (00:01:19) last pick:  -177.17 -216.54
+\t (00:01:19) Using 'EX22Y22D0T.pad'.
+\i (00:01:19) done 
+\t (00:01:19) Exiting from Add Pin.
+\i (00:01:19) add pin 
+\t (00:01:19) Using 'EX22Y22D0T.pad'.
+\i (00:01:19) setwindow form.mini 
+\i (00:01:19) FORM mini offsetx 0.00 
+\i (00:01:19) FORM mini offsety 0.00 
+\i (00:01:19) FORM mini rotate_pin 0 
+\i (00:01:19) add pin 
+\t (00:01:19) Exiting from Add Pin.
+\t (00:01:20) Using 'EX22Y22D0T.pad'.
+\i (00:01:20) setwindow form.mini 
+\i (00:01:20) FORM mini pad_name EX22Y22D0T 
+\i (00:01:20) setwindow form.mini 
+\i (00:01:20) FORM mini next_pin_number M3 
+\i (00:01:20) setwindow pcb 
+\i (00:01:20) pick -137.8 -216.54 
+\t (00:01:20) last pick:  -137.80 -216.54
+\t (00:01:20) Using 'EX22Y22D0T.pad'.
+\i (00:01:20) done 
+\t (00:01:20) Exiting from Add Pin.
+\i (00:01:20) add pin 
+\t (00:01:20) Using 'EX22Y22D0T.pad'.
+\i (00:01:20) setwindow form.mini 
+\i (00:01:20) FORM mini offsetx 0.00 
+\i (00:01:20) FORM mini offsety 0.00 
+\i (00:01:20) FORM mini rotate_pin 0 
+\i (00:01:20) add pin 
+\t (00:01:20) Exiting from Add Pin.
+\t (00:01:20) Using 'EX22Y22D0T.pad'.
+\i (00:01:20) setwindow form.mini 
+\i (00:01:20) FORM mini pad_name EX22Y22D0T 
+\i (00:01:20) setwindow form.mini 
+\i (00:01:20) FORM mini next_pin_number M4 
+\i (00:01:20) setwindow pcb 
+\i (00:01:20) pick -98.43 -216.54 
+\t (00:01:20) last pick:  -98.43 -216.54
+\t (00:01:20) Using 'EX22Y22D0T.pad'.
+\i (00:01:20) done 
+\t (00:01:20) Exiting from Add Pin.
+\i (00:01:20) add pin 
+\t (00:01:20) Using 'EX22Y22D0T.pad'.
+\i (00:01:20) setwindow form.mini 
+\i (00:01:20) FORM mini offsetx 0.00 
+\i (00:01:20) FORM mini offsety 0.00 
+\i (00:01:20) FORM mini rotate_pin 0 
+\i (00:01:20) add pin 
+\t (00:01:20) Exiting from Add Pin.
+\t (00:01:21) Using 'EX22Y22D0T.pad'.
+\i (00:01:21) setwindow form.mini 
+\i (00:01:21) FORM mini pad_name EX22Y22D0T 
+\i (00:01:21) setwindow form.mini 
+\i (00:01:21) FORM mini next_pin_number M5 
+\i (00:01:21) setwindow pcb 
+\i (00:01:21) pick -59.06 -216.54 
+\t (00:01:21) last pick:  -59.06 -216.54
+\t (00:01:21) Using 'EX22Y22D0T.pad'.
+\i (00:01:21) done 
+\t (00:01:21) Exiting from Add Pin.
+\i (00:01:21) add pin 
+\t (00:01:21) Using 'EX22Y22D0T.pad'.
+\i (00:01:21) setwindow form.mini 
+\i (00:01:21) FORM mini offsetx 0.00 
+\i (00:01:21) FORM mini offsety 0.00 
+\i (00:01:21) FORM mini rotate_pin 0 
+\i (00:01:21) add pin 
+\t (00:01:21) Exiting from Add Pin.
+\t (00:01:21) Using 'EX22Y22D0T.pad'.
+\i (00:01:21) setwindow form.mini 
+\i (00:01:21) FORM mini pad_name EX22Y22D0T 
+\i (00:01:21) setwindow form.mini 
+\i (00:01:21) FORM mini next_pin_number M6 
+\i (00:01:21) setwindow pcb 
+\i (00:01:21) pick -19.69 -216.54 
+\t (00:01:21) last pick:  -19.69 -216.54
+\t (00:01:21) Using 'EX22Y22D0T.pad'.
+\i (00:01:21) done 
+\t (00:01:21) Exiting from Add Pin.
+\i (00:01:21) add pin 
+\t (00:01:22) Using 'EX22Y22D0T.pad'.
+\i (00:01:22) setwindow form.mini 
+\i (00:01:22) FORM mini offsetx 0.00 
+\i (00:01:22) FORM mini offsety 0.00 
+\i (00:01:22) FORM mini rotate_pin 0 
+\i (00:01:22) add pin 
+\t (00:01:22) Exiting from Add Pin.
+\t (00:01:22) Using 'EX22Y22D0T.pad'.
+\i (00:01:22) setwindow form.mini 
+\i (00:01:22) FORM mini pad_name EX22Y22D0T 
+\i (00:01:22) setwindow form.mini 
+\i (00:01:22) FORM mini next_pin_number M7 
+\i (00:01:22) setwindow pcb 
+\i (00:01:22) pick 19.69 -216.54 
+\t (00:01:22) last pick:  19.69 -216.54
+\t (00:01:22) Using 'EX22Y22D0T.pad'.
+\i (00:01:22) done 
+\t (00:01:22) Exiting from Add Pin.
+\i (00:01:22) add pin 
+\t (00:01:22) Using 'EX22Y22D0T.pad'.
+\i (00:01:22) setwindow form.mini 
+\i (00:01:22) FORM mini offsetx 0.00 
+\i (00:01:22) FORM mini offsety 0.00 
+\i (00:01:22) FORM mini rotate_pin 0 
+\i (00:01:22) add pin 
+\t (00:01:22) Exiting from Add Pin.
+\t (00:01:22) Using 'EX22Y22D0T.pad'.
+\i (00:01:22) setwindow form.mini 
+\i (00:01:22) FORM mini pad_name EX22Y22D0T 
+\i (00:01:22) setwindow form.mini 
+\i (00:01:22) FORM mini next_pin_number M8 
+\i (00:01:22) setwindow pcb 
+\i (00:01:22) pick 59.06 -216.54 
+\t (00:01:22) last pick:  59.06 -216.54
+\t (00:01:22) Using 'EX22Y22D0T.pad'.
+\i (00:01:22) done 
+\t (00:01:22) Exiting from Add Pin.
+\i (00:01:22) add pin 
+\t (00:01:23) Using 'EX22Y22D0T.pad'.
+\i (00:01:23) setwindow form.mini 
+\i (00:01:23) FORM mini offsetx 0.00 
+\i (00:01:23) FORM mini offsety 0.00 
+\i (00:01:23) FORM mini rotate_pin 0 
+\i (00:01:23) add pin 
+\t (00:01:23) Exiting from Add Pin.
+\t (00:01:23) Using 'EX22Y22D0T.pad'.
+\i (00:01:23) setwindow form.mini 
+\i (00:01:23) FORM mini pad_name EX22Y22D0T 
+\i (00:01:23) setwindow form.mini 
+\i (00:01:23) FORM mini next_pin_number M9 
+\i (00:01:23) setwindow pcb 
+\i (00:01:23) pick 98.43 -216.54 
+\t (00:01:23) last pick:  98.43 -216.54
+\t (00:01:23) Using 'EX22Y22D0T.pad'.
+\i (00:01:23) done 
+\t (00:01:23) Exiting from Add Pin.
+\i (00:01:23) add pin 
+\t (00:01:23) Using 'EX22Y22D0T.pad'.
+\i (00:01:23) setwindow form.mini 
+\i (00:01:23) FORM mini offsetx 0.00 
+\i (00:01:23) FORM mini offsety 0.00 
+\i (00:01:23) FORM mini rotate_pin 0 
+\i (00:01:23) add pin 
+\t (00:01:23) Exiting from Add Pin.
+\t (00:01:23) Using 'EX22Y22D0T.pad'.
+\i (00:01:23) setwindow form.mini 
+\i (00:01:23) FORM mini pad_name EX22Y22D0T 
+\i (00:01:23) setwindow form.mini 
+\i (00:01:23) FORM mini next_pin_number M10 
+\i (00:01:23) setwindow pcb 
+\i (00:01:23) pick 137.8 -216.54 
+\t (00:01:23) last pick:  137.80 -216.54
+\t (00:01:23) Using 'EX22Y22D0T.pad'.
+\i (00:01:23) done 
+\t (00:01:23) Exiting from Add Pin.
+\i (00:01:24) add pin 
+\t (00:01:24) Using 'EX22Y22D0T.pad'.
+\i (00:01:24) setwindow form.mini 
+\i (00:01:24) FORM mini offsetx 0.00 
+\i (00:01:24) FORM mini offsety 0.00 
+\i (00:01:24) FORM mini rotate_pin 0 
+\i (00:01:24) add pin 
+\t (00:01:24) Exiting from Add Pin.
+\t (00:01:24) Using 'EX22Y22D0T.pad'.
+\i (00:01:24) setwindow form.mini 
+\i (00:01:24) FORM mini pad_name EX22Y22D0T 
+\i (00:01:24) setwindow form.mini 
+\i (00:01:24) FORM mini next_pin_number M11 
+\i (00:01:24) setwindow pcb 
+\i (00:01:24) pick 177.17 -216.54 
+\t (00:01:24) last pick:  177.17 -216.54
+\t (00:01:24) Using 'EX22Y22D0T.pad'.
+\i (00:01:24) done 
+\t (00:01:24) Exiting from Add Pin.
+\i (00:01:24) add pin 
+\t (00:01:24) Using 'EX22Y22D0T.pad'.
+\i (00:01:24) setwindow form.mini 
+\i (00:01:24) FORM mini offsetx 0.00 
+\i (00:01:24) FORM mini offsety 0.00 
+\i (00:01:24) FORM mini rotate_pin 0 
+\i (00:01:24) add pin 
+\t (00:01:24) Exiting from Add Pin.
+\t (00:01:24) Using 'EX22Y22D0T.pad'.
+\i (00:01:24) setwindow form.mini 
+\i (00:01:24) FORM mini pad_name EX22Y22D0T 
+\i (00:01:24) setwindow form.mini 
+\i (00:01:24) FORM mini next_pin_number M12 
+\i (00:01:24) setwindow pcb 
+\i (00:01:24) pick 216.54 -216.54 
+\t (00:01:24) last pick:  216.54 -216.54
+\t (00:01:24) Using 'EX22Y22D0T.pad'.
+\i (00:01:24) done 
+\t (00:01:24) Exiting from Add Pin.
+\i (00:01:24) setwindow pcb 
+\i (00:01:24) add fshape 
+\i (00:01:25) setwindow form.mini 
+\i (00:01:25) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:25) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:01:25) FORM mini dyns_grid None 
+\t (00:01:25) Grids are drawn 0.64, 0.64 apart for enhanced viewability.
+\i (00:01:25) FORM mini dyns_lock_mode Line 
+\i (00:01:25) setwindow pcb 
+\i (00:01:25) pick -266 -266 
+\t (00:01:25) last pick:  -266.00 -266.00
+\i (00:01:25) pick -266 266 
+\t (00:01:25) last pick:  -266.00 266.00
+\i (00:01:25) pick 266 266 
+\t (00:01:25) last pick:  266.00 266.00
+\i (00:01:25) pick 266 -266 
+\t (00:01:25) last pick:  266.00 -266.00
+\i (00:01:25) done 
+\i (00:01:25) property edit 
+\t (00:01:25) Adjust find filter then select an element or group of elements.
+\i (00:01:25) setwindow Form.Find 
+\i (00:01:25) FORM find all_off 
+\i (00:01:25) FORM find shapes YES 
+\i (00:01:25) setwindow pcb 
+\i (00:01:25) pick grid -266 -266 
+\t (00:01:25) last pick:  -300.00 -300.00
+\i (00:01:25) setwindow Form.editprop1 
+\i (00:01:25) FORM editprop1 properties PACKAGE_HEIGHT_MAX 
+\i (00:01:25) setwindow Form.editprop2 
+\i (00:01:25) FORM editprop2 package_height_max ele_prop_value 67 
+\i (00:01:25) FORM editprop2 apply 
+\i (00:01:25) setwindow Form.editprop1 
+\i (00:01:25) FORM editprop1 done 
+\i (00:01:25) setwindow Form.Find 
+\i (00:01:25) FORM find all_on 
+\i (00:01:25) property edit 
+\t (00:01:25) Adjust find filter then select an element or group of elements.
+\i (00:01:25) setwindow Form.Find 
+\i (00:01:25) FORM find all_off 
+\i (00:01:25) FORM find shapes YES 
+\i (00:01:25) setwindow pcb 
+\i (00:01:25) pick grid -266 -266 
+\t (00:01:25) last pick:  -300.00 -300.00
+\i (00:01:25) setwindow Form.editprop1 
+\i (00:01:25) FORM editprop1 properties PACKAGE_HEIGHT_MIN 
+\i (00:01:25) setwindow Form.editprop2 
+\i (00:01:25) FORM editprop2 package_height_min ele_prop_value 11 
+\i (00:01:25) FORM editprop2 apply 
+\i (00:01:25) setwindow Form.editprop1 
+\i (00:01:25) FORM editprop1 done 
+\i (00:01:25) setwindow Form.Find 
+\i (00:01:25) FORM find all_on 
+\i (00:01:25) setwindow pcb 
+\i (00:01:25) add fshape 
+\i (00:01:26) setwindow form.mini 
+\i (00:01:26) FORM mini class MANUFACTURING 
+\i (00:01:26) FORM mini subclass NO_PROBE_TOP 
+\i (00:01:26) FORM mini dyns_grid None 
+\i (00:01:26) FORM mini dyns_lock_mode Line 
+\i (00:01:26) setwindow pcb 
+\i (00:01:26) pick -271 -271 
+\t (00:01:26) last pick:  -271.00 -271.00
+\i (00:01:26) pick -271 271 
+\t (00:01:26) last pick:  -271.00 271.00
+\i (00:01:26) pick 271 271 
+\t (00:01:26) last pick:  271.00 271.00
+\i (00:01:26) pick 271 -271 
+\t (00:01:26) last pick:  271.00 -271.00
+\i (00:01:26) done 
+\i (00:01:26) setwindow pcb 
+\i (00:01:26) add text 
+\t (00:01:26) Pick text location.
+\i (00:01:26) setwindow form.mini 
+\i (00:01:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:26) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:26) FORM mini text_block 3 
+\i (00:01:26) FORM mini text_justification Right 
+\i (00:01:26) FORM mini angle 0 
+\i (00:01:26) FORM mini mirror NO 
+\i (00:01:26) setwindow pcb 
+\i (00:01:26) pick -281 191.5 
+\t (00:01:26) last pick:  -281.00 191.50
+\t (00:01:26) Enter text string.
+\i (00:01:26) text A 
+\t (00:01:26) Enter text string.
+\i (00:01:26) setwindow pcb 
+\i (00:01:26) add text 
+\t (00:01:26) Pick text location.
+\i (00:01:26) setwindow form.mini 
+\i (00:01:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:26) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:26) FORM mini text_block 3 
+\i (00:01:26) FORM mini text_justification Right 
+\i (00:01:26) FORM mini angle 0 
+\i (00:01:26) FORM mini mirror NO 
+\i (00:01:26) setwindow pcb 
+\i (00:01:26) pick -281 191.5 
+\t (00:01:26) last pick:  -281.00 191.50
+\t (00:01:26) Enter text string.
+\i (00:01:26) text A 
+\t (00:01:26) Enter text string.
+\i (00:01:26) setwindow pcb 
+\i (00:01:26) add text 
+\t (00:01:26) Pick text location.
+\i (00:01:26) setwindow form.mini 
+\i (00:01:26) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:26) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (00:01:26) FORM mini text_block 3 
+\i (00:01:26) FORM mini text_justification Left 
+\i (00:01:26) FORM mini angle 0 
+\i (00:01:26) FORM mini mirror YES 
+\i (00:01:26) setwindow pcb 
+\i (00:01:26) pick -281 191.5 
+\t (00:01:26) last pick:  -281.00 191.50
+\t (00:01:26) Enter text string.
+\i (00:01:26) text A 
+\t (00:01:26) Enter text string.
+\i (00:01:26) add line 
+\i (00:01:27) setwindow form.mini 
+\i (00:01:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:27) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:27) setwindow form.mini 
+\i (00:01:27) FORM mini line_width 6 
+\i (00:01:27) FORM mini lock_direction Off 
+\i (00:01:27) setwindow pcb 
+\i (00:01:27) pick -256 59.1 
+\t (00:01:27) last pick:  -256.00 59.10
+\i (00:01:27) pick -266 59.1 
+\t (00:01:27) last pick:  -266.00 59.10
+\i (00:01:27) done 
+\i (00:01:27) add line 
+\i (00:01:27) setwindow form.mini 
+\i (00:01:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:27) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:27) setwindow form.mini 
+\i (00:01:27) FORM mini line_width 6 
+\i (00:01:27) FORM mini lock_direction Off 
+\i (00:01:27) setwindow pcb 
+\i (00:01:27) pick 256 59.1 
+\t (00:01:27) last pick:  256.00 59.10
+\i (00:01:27) pick 266 59.1 
+\t (00:01:27) last pick:  266.00 59.10
+\i (00:01:27) done 
+\i (00:01:27) add line 
+\i (00:01:27) setwindow form.mini 
+\i (00:01:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:27) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:27) setwindow form.mini 
+\i (00:01:27) FORM mini line_width 6 
+\i (00:01:27) FORM mini lock_direction Off 
+\i (00:01:27) setwindow pcb 
+\i (00:01:27) pick -256 -137.8 
+\t (00:01:27) last pick:  -256.00 -137.80
+\i (00:01:27) pick -266 -137.8 
+\t (00:01:27) last pick:  -266.00 -137.80
+\i (00:01:27) done 
+\i (00:01:27) add line 
+\i (00:01:27) setwindow form.mini 
+\i (00:01:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:27) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:27) setwindow form.mini 
+\i (00:01:27) FORM mini line_width 6 
+\i (00:01:27) FORM mini lock_direction Off 
+\i (00:01:27) setwindow pcb 
+\i (00:01:27) pick 256 -137.8 
+\t (00:01:27) last pick:  256.00 -137.80
+\i (00:01:27) pick 266 -137.8 
+\t (00:01:27) last pick:  266.00 -137.80
+\i (00:01:27) done 
+\i (00:01:28) setwindow pcb 
+\i (00:01:28) add text 
+\t (00:01:28) Pick text location.
+\i (00:01:28) setwindow form.mini 
+\i (00:01:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:28) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:28) FORM mini text_block 3 
+\i (00:01:28) FORM mini text_justification Right 
+\i (00:01:28) FORM mini angle 0 
+\i (00:01:28) FORM mini mirror NO 
+\i (00:01:28) setwindow pcb 
+\i (00:01:28) pick -281 -241.5 
+\t (00:01:28) last pick:  -281.00 -241.50
+\t (00:01:28) Enter text string.
+\i (00:01:28) text M 
+\t (00:01:28) Enter text string.
+\i (00:01:28) setwindow pcb 
+\i (00:01:28) add text 
+\t (00:01:28) Pick text location.
+\i (00:01:28) setwindow form.mini 
+\i (00:01:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:28) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:28) FORM mini text_block 3 
+\i (00:01:28) FORM mini text_justification Right 
+\i (00:01:28) FORM mini angle 0 
+\i (00:01:28) FORM mini mirror NO 
+\i (00:01:28) setwindow pcb 
+\i (00:01:28) pick -281 -241.5 
+\t (00:01:28) last pick:  -281.00 -241.50
+\t (00:01:28) Enter text string.
+\i (00:01:28) text M 
+\t (00:01:28) Enter text string.
+\i (00:01:28) setwindow pcb 
+\i (00:01:28) add text 
+\t (00:01:28) Pick text location.
+\i (00:01:28) setwindow form.mini 
+\i (00:01:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:28) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (00:01:28) FORM mini text_block 3 
+\i (00:01:28) FORM mini text_justification Left 
+\i (00:01:28) FORM mini angle 0 
+\i (00:01:28) FORM mini mirror YES 
+\i (00:01:28) setwindow pcb 
+\i (00:01:28) pick -281 -241.5 
+\t (00:01:28) last pick:  -281.00 -241.50
+\t (00:01:28) Enter text string.
+\i (00:01:28) text M 
+\t (00:01:28) Enter text string.
+\i (00:01:28) setwindow pcb 
+\i (00:01:28) add text 
+\t (00:01:28) Pick text location.
+\i (00:01:28) setwindow form.mini 
+\i (00:01:28) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:28) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:28) FORM mini text_block 3 
+\i (00:01:28) FORM mini text_justification Left 
+\i (00:01:28) FORM mini angle 90 
+\i (00:01:28) FORM mini mirror NO 
+\i (00:01:28) setwindow pcb 
+\i (00:01:28) pick -191.5 281 
+\t (00:01:28) last pick:  -191.50 281.00
+\t (00:01:28) Enter text string.
+\i (00:01:28) text 1 
+\t (00:01:28) Enter text string.
+\i (00:01:28) setwindow pcb 
+\i (00:01:28) add text 
+\t (00:01:29) Pick text location.
+\i (00:01:29) setwindow form.mini 
+\i (00:01:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:29) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:29) FORM mini text_block 3 
+\i (00:01:29) FORM mini text_justification Left 
+\i (00:01:29) FORM mini angle 90 
+\i (00:01:29) FORM mini mirror NO 
+\i (00:01:29) setwindow pcb 
+\i (00:01:29) pick -191.5 281 
+\t (00:01:29) last pick:  -191.50 281.00
+\t (00:01:29) Enter text string.
+\i (00:01:29) text 1 
+\t (00:01:29) Enter text string.
+\i (00:01:29) setwindow pcb 
+\i (00:01:29) add text 
+\t (00:01:29) Pick text location.
+\i (00:01:29) setwindow form.mini 
+\i (00:01:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:29) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (00:01:29) FORM mini text_block 3 
+\i (00:01:29) FORM mini text_justification Left 
+\i (00:01:29) FORM mini angle 270 
+\i (00:01:29) FORM mini mirror YES 
+\i (00:01:29) setwindow pcb 
+\i (00:01:29) pick -241.5 281 
+\t (00:01:29) last pick:  -241.50 281.00
+\t (00:01:29) Enter text string.
+\i (00:01:29) text 1 
+\t (00:01:29) Enter text string.
+\i (00:01:29) add line 
+\i (00:01:29) setwindow form.mini 
+\i (00:01:29) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:29) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:29) setwindow form.mini 
+\i (00:01:29) FORM mini line_width 6 
+\i (00:01:29) FORM mini lock_direction Off 
+\i (00:01:29) setwindow pcb 
+\i (00:01:29) pick -59.1 256 
+\t (00:01:29) last pick:  -59.10 256.00
+\i (00:01:29) pick -59.1 266 
+\t (00:01:29) last pick:  -59.10 266.00
+\i (00:01:29) done 
+\i (00:01:29) add line 
+\i (00:01:30) setwindow form.mini 
+\i (00:01:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:30) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:30) setwindow form.mini 
+\i (00:01:30) FORM mini line_width 6 
+\i (00:01:30) FORM mini lock_direction Off 
+\i (00:01:30) setwindow pcb 
+\i (00:01:30) pick -59.1 -256 
+\t (00:01:30) last pick:  -59.10 -256.00
+\i (00:01:30) pick -59.1 -266 
+\t (00:01:30) last pick:  -59.10 -266.00
+\i (00:01:30) done 
+\i (00:01:30) add line 
+\i (00:01:30) setwindow form.mini 
+\i (00:01:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:30) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:30) setwindow form.mini 
+\i (00:01:30) FORM mini line_width 6 
+\i (00:01:30) FORM mini lock_direction Off 
+\i (00:01:30) setwindow pcb 
+\i (00:01:30) pick 137.8 256 
+\t (00:01:30) last pick:  137.80 256.00
+\i (00:01:30) pick 137.8 266 
+\t (00:01:30) last pick:  137.80 266.00
+\i (00:01:30) done 
+\i (00:01:30) add line 
+\i (00:01:30) setwindow form.mini 
+\i (00:01:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:30) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:30) setwindow form.mini 
+\i (00:01:30) FORM mini line_width 6 
+\i (00:01:30) FORM mini lock_direction Off 
+\i (00:01:30) setwindow pcb 
+\i (00:01:30) pick 137.8 -256 
+\t (00:01:30) last pick:  137.80 -256.00
+\i (00:01:30) pick 137.8 -266 
+\t (00:01:30) last pick:  137.80 -266.00
+\i (00:01:30) done 
+\i (00:01:30) setwindow pcb 
+\i (00:01:30) add text 
+\t (00:01:30) Pick text location.
+\i (00:01:30) setwindow form.mini 
+\i (00:01:30) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:30) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:30) FORM mini text_block 3 
+\i (00:01:30) FORM mini text_justification Left 
+\i (00:01:30) FORM mini angle 90 
+\i (00:01:30) FORM mini mirror NO 
+\i (00:01:30) setwindow pcb 
+\i (00:01:30) pick 241.5 281 
+\t (00:01:30) last pick:  241.50 281.00
+\t (00:01:30) Enter text string.
+\i (00:01:30) text 12 
+\t (00:01:30) Enter text string.
+\i (00:01:30) setwindow pcb 
+\i (00:01:30) add text 
+\t (00:01:31) Pick text location.
+\i (00:01:31) setwindow form.mini 
+\i (00:01:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:31) FORM mini text_block 3 
+\i (00:01:31) FORM mini text_justification Left 
+\i (00:01:31) FORM mini angle 90 
+\i (00:01:31) FORM mini mirror NO 
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) pick 241.5 281 
+\t (00:01:31) last pick:  241.50 281.00
+\t (00:01:31) Enter text string.
+\i (00:01:31) text 12 
+\t (00:01:31) Enter text string.
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) add text 
+\t (00:01:31) Pick text location.
+\i (00:01:31) setwindow form.mini 
+\i (00:01:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:31) FORM mini subclass SILKSCREEN_BOTTOM 
+\i (00:01:31) FORM mini text_block 3 
+\i (00:01:31) FORM mini text_justification Left 
+\i (00:01:31) FORM mini angle 270 
+\i (00:01:31) FORM mini mirror YES 
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) pick 191.5 281 
+\t (00:01:31) last pick:  191.50 281.00
+\t (00:01:31) Enter text string.
+\i (00:01:31) text 12 
+\t (00:01:31) Enter text string.
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) label refdes 
+\t (00:01:31) Pick text location.
+\i (00:01:31) setwindow form.mini 
+\i (00:01:31) FORM mini class REF DES 
+\i (00:01:31) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:31) FORM mini text_block 3 
+\i (00:01:31) FORM mini text_justification Center 
+\i (00:01:31) FORM mini angle 0 
+\i (00:01:31) FORM mini mirror NO 
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) pick 0 -25 
+\t (00:01:31) last pick:  0.00 -25.00
+\t (00:01:31) Enter text string.
+\i (00:01:31) text REF 
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) label refdes 
+\t (00:01:31) Pick text location.
+\i (00:01:31) setwindow form.mini 
+\i (00:01:31) FORM mini class REF DES 
+\i (00:01:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:31) FORM mini text_block 3 
+\i (00:01:31) FORM mini text_justification Center 
+\i (00:01:31) FORM mini angle 0 
+\i (00:01:31) FORM mini mirror NO 
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) pick 0 -25 
+\t (00:01:31) last pick:  0.00 -25.00
+\t (00:01:31) Enter text string.
+\i (00:01:31) text REF 
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) label device 
+\t (00:01:31) Pick text location.
+\i (00:01:31) setwindow form.mini 
+\i (00:01:31) FORM mini class DEVICE TYPE 
+\i (00:01:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:31) FORM mini text_block 3 
+\i (00:01:31) FORM mini text_justification Center 
+\i (00:01:31) FORM mini angle 0 
+\i (00:01:31) FORM mini mirror NO 
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) pick 0 -25 
+\t (00:01:31) last pick:  0.00 -25.00
+\t (00:01:31) Enter text string.
+\i (00:01:31) text 98ASA00222D 
+\t (00:01:31) Enter text string.
+\i (00:01:31) setwindow pcb 
+\i (00:01:31) add line 
+\i (00:01:32) setwindow form.mini 
+\i (00:01:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:32) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:32) setwindow form.mini 
+\i (00:01:32) FORM mini line_width 0 
+\i (00:01:32) FORM mini lock_direction Off 
+\i (00:01:32) setwindow pcb 
+\i (00:01:32) pick -236.3 256 
+\t (00:01:32) last pick:  -236.30 256.00
+\i (00:01:32) pick -256 236.3 
+\t (00:01:32) last pick:  -256.00 236.30
+\i (00:01:32) done 
+\i (00:01:32) add line 
+\i (00:01:32) setwindow form.mini 
+\i (00:01:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:32) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:32) setwindow form.mini 
+\i (00:01:32) FORM mini line_width 6 
+\i (00:01:32) FORM mini lock_direction Off 
+\i (00:01:32) setwindow pcb 
+\i (00:01:32) pick -261 -261 
+\t (00:01:32) last pick:  -261.00 -261.00
+\i (00:01:32) pick 261 -261 
+\t (00:01:32) last pick:  261.00 -261.00
+\i (00:01:32) done 
+\i (00:01:32) add line 
+\i (00:01:32) setwindow form.mini 
+\i (00:01:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:32) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:32) setwindow form.mini 
+\i (00:01:32) FORM mini line_width 6 
+\i (00:01:32) FORM mini lock_direction Off 
+\i (00:01:32) setwindow pcb 
+\i (00:01:32) pick 261 -261 
+\t (00:01:32) last pick:  261.00 -261.00
+\i (00:01:32) pick 261 261 
+\t (00:01:32) last pick:  261.00 261.00
+\i (00:01:32) done 
+\i (00:01:32) add line 
+\i (00:01:32) setwindow form.mini 
+\i (00:01:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:32) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:32) setwindow form.mini 
+\i (00:01:32) FORM mini line_width 6 
+\i (00:01:32) FORM mini lock_direction Off 
+\i (00:01:32) setwindow pcb 
+\i (00:01:32) pick 261 261 
+\t (00:01:32) last pick:  261.00 261.00
+\i (00:01:32) pick -261 261 
+\t (00:01:32) last pick:  -261.00 261.00
+\i (00:01:32) done 
+\i (00:01:32) add line 
+\i (00:01:33) setwindow form.mini 
+\i (00:01:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:33) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:33) setwindow form.mini 
+\i (00:01:33) FORM mini line_width 6 
+\i (00:01:33) FORM mini lock_direction Off 
+\i (00:01:33) setwindow pcb 
+\i (00:01:33) pick -261 261 
+\t (00:01:33) last pick:  -261.00 261.00
+\i (00:01:33) pick -261 -261 
+\t (00:01:33) last pick:  -261.00 -261.00
+\i (00:01:33) done 
+\i (00:01:33) add line 
+\i (00:01:33) setwindow form.mini 
+\i (00:01:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:33) setwindow form.mini 
+\i (00:01:33) FORM mini line_width 0 
+\i (00:01:33) FORM mini lock_direction Off 
+\i (00:01:33) setwindow pcb 
+\i (00:01:33) pick -256 -256 
+\t (00:01:33) last pick:  -256.00 -256.00
+\i (00:01:33) pick 256 -256 
+\t (00:01:33) last pick:  256.00 -256.00
+\i (00:01:33) done 
+\i (00:01:33) add line 
+\i (00:01:33) setwindow form.mini 
+\i (00:01:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:33) setwindow form.mini 
+\i (00:01:33) FORM mini line_width 0 
+\i (00:01:33) FORM mini lock_direction Off 
+\i (00:01:33) setwindow pcb 
+\i (00:01:33) pick 256 -256 
+\t (00:01:33) last pick:  256.00 -256.00
+\i (00:01:33) pick 256 256 
+\t (00:01:33) last pick:  256.00 256.00
+\i (00:01:33) done 
+\i (00:01:33) add line 
+\i (00:01:33) setwindow form.mini 
+\i (00:01:33) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:33) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:33) setwindow form.mini 
+\i (00:01:33) FORM mini line_width 0 
+\i (00:01:33) FORM mini lock_direction Off 
+\i (00:01:33) setwindow pcb 
+\i (00:01:33) pick 256 256 
+\t (00:01:33) last pick:  256.00 256.00
+\i (00:01:33) pick -256 256 
+\t (00:01:33) last pick:  -256.00 256.00
+\i (00:01:33) done 
+\i (00:01:33) add line 
+\i (00:01:34) setwindow form.mini 
+\i (00:01:34) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:34) FORM mini subclass ASSEMBLY_TOP 
+\i (00:01:34) setwindow form.mini 
+\i (00:01:34) FORM mini line_width 0 
+\i (00:01:34) FORM mini lock_direction Off 
+\i (00:01:34) setwindow pcb 
+\i (00:01:34) pick -256 256 
+\t (00:01:34) last pick:  -256.00 256.00
+\i (00:01:34) pick -256 -256 
+\t (00:01:34) last pick:  -256.00 -256.00
+\i (00:01:34) done 
+\i (00:01:34) create symbol 
+\i (00:01:34) fillin 98ASA00222D 
+\t (00:01:34) Creating package symbol 'D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-03-18_00-42-30/98asa00222d.psm'.
+\t (00:01:34) Starting Create symbol...
+\i (00:01:41) setwindow pcb 
+\i (00:01:41) trapsize 503 
+\i (00:01:41) dbdoctor 
+\i (00:01:41) setwindow Form.dbdoctor_allegro 
+\i (00:01:41) FORM dbdoctor_allegro drc YES 
+\i (00:01:41) FORM dbdoctor_allegro shapes YES 
+\i (00:01:41) FORM dbdoctor_allegro execute 
+\t (00:01:41) Dbdoctor in progress - wait...
+\t (00:01:41) Checking db records
+\t (00:01:41)     checking for orphans...
+\t (00:01:41)     Checked  71 percent
+\t (00:01:41)     Checked 100 percent
+\t (00:01:41) Regenerating DRC
+\t (00:01:41)   Original DRC errors: 0
+\t (00:01:41) Performing DRC...
+\t (00:01:41) No DRC errors detected.
+\t (00:01:41)   Updated DRC errors:  0
+\t (00:01:41) Done dbdoctor.
+\t (00:01:41) Dbdoctor completed.
+\i (00:01:41) setwindow pcb 
+\i (00:01:41) save_as 
+\i (00:01:41) fillin 98ASA00222D 
+   (00:01:41) Loading signal.cxt 
+\t (00:01:41) Symbol '98asa00222d.psm' created.
+\i (00:01:41) setwindow pcb 
+\i (00:01:41) exit 
+\t (00:01:42)     Journal end - Wed Mar 18 00:46:14 2020

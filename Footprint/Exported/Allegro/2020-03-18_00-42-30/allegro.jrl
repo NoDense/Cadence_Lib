@@ -1,0 +1,81 @@
+\t (00:00:03) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:03)     Journal start - Wed Mar 18 00:47:14 2020
+\t (00:00:03)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=23852 CPUs=8
+\t (00:00:03) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe D:\Development\Ultra Librarian\Library\Exported\Allegro\2020-03-18_00-42-30\98ASA00222D.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-03-18_00-42-30/98ASA00222D.dra
+\i (00:00:05) trapsize 41
+\i (00:00:05) trapsize 40
+\i (00:00:05) trapsize 42
+\i (00:00:06) trapsize 43
+\i (00:00:06) trapsize 43
+\i (00:00:07) generaledit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 18.48 -3.02
+\i (00:00:07) trapsize 85
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 18.49 -3.03
+\i (00:00:07) trapsize 170
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 18.49 -3.02
+\i (00:00:07) trapsize 341
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 17.80 -4.39
+\i (00:00:07) trapsize 170
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 19.16 -1.32
+\i (00:00:08) trapsize 341
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 19.15 -2.68
+\i (00:00:08) trapsize 681
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -77.69 203.12
+\i (00:00:10) trapsize 341
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -77.69 203.12
+\i (00:00:10) trapsize 170
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -2.05 213.34
+\i (00:00:12) trapsize 341
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 57.92 211.98
+\i (00:00:13) trapsize 681
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 211.24 191.54
+\i (00:00:13) trapsize 341
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 171.72 211.98
+\i (00:00:15) trapsize 170
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 171.72 211.98
+\i (00:00:15) trapsize 341
+\i (00:00:17) 3d_viewer 
+\i (00:00:17) setwindow pcb3D
+\i (00:00:17) trapsize 341
+\i (00:00:17) setwindow pcb
+\i (00:00:17) generaledit 
+\i (00:00:22) prepopup 376.82 200.40
+\i (00:00:23) prepopup 335.94 232.43
+\i (00:00:23) pick grid 297.77 248.10
+\t (00:00:23) last pick:  300.00 200.00
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 162.85 237.88
+\i (00:00:26) trapsize 681
+\i (00:00:27) exit 
+\t (00:00:27)     Journal end - Wed Mar 18 00:47:39 2020

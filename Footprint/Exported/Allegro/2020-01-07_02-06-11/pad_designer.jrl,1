@@ -1,0 +1,35 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Fri Jan 24 22:25:58 2020
+\t (00:00:00)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=27640 CPUs=8
+\t (00:00:00) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:01) setwindow form.padedit
+\i (00:00:01) FORM padedit layers  
+\i (00:00:03) FORM padedit parameters  
+\i (00:00:04) FORM padedit layers  
+\i (00:00:14) FORM padedit width 0.8 
+\i (00:00:14) FORM padedit crossbox YES 
+\i (00:00:16) pse_save_as 
+\i (00:00:38) fillin "menu_cancel"
+\i (00:00:40) FORM padedit grid row begin_layer 
+\i (00:00:41) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:00:43) setwindow form.padcopy
+\i (00:00:43) FORM padcopy pse_copy_done  
+\i (00:00:46) setwindow form.padedit
+\i (00:00:46) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:00:48) setwindow form.padcopy
+\i (00:00:48) FORM padcopy pse_copy_soldermask YES 
+\i (00:00:49) FORM padcopy pse_copy_pastemask YES 
+\i (00:00:49) FORM padcopy pse_copy_done  
+\i (00:00:52) setwindow form.padedit
+\i (00:00:52) FORM padedit grid row soldermask_bottom 
+\i (00:00:54) FORM padedit geometry Null 
+\i (00:00:55) FORM padedit grid row pastemask_bottom 
+\i (00:00:57) FORM padedit geometry Null 
+\i (00:02:38) pse_save_as 
+\i (00:02:40) fillin no 
+\i (00:02:42) pse_save_as 
+\i (00:02:49) fillin yes 
+\i (00:05:35) fillin "D:\ProgramData\CDS_LIB\Footprint\padpath\s_r120_80_m120_80_p120_80.pad"
+\i (00:05:37) pse_exit
+\t (00:05:37)     Journal end - Fri Jan 24 22:31:36 2020

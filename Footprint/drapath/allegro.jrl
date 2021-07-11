@@ -1,0 +1,36 @@
+\t (00:00:01) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:01)     Journal start - Mon Jul 05 01:06:51 2021
+\t (00:00:01)         Host=DESKTOP-2H3QU4Q User=ming1 Pid=2292 CPUs=8
+\t (00:00:01) CmdLine= D:\Program\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe D:\ProgramData\CDS_LIB\Footprint\drapath\QFN50P600X600X80-41N.dra
+\t (00:00:01) 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: D:/ProgramData/CDS_LIB/Footprint/drapath/QFN50P600X600X80-41N.dra
+\i (00:00:01) trapsize 762
+\i (00:00:01) trapsize 748
+\i (00:00:01) trapsize 764
+\i (00:00:02) trapsize 778
+\i (00:00:02) trapsize 778
+\i (00:00:02) generaledit 
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 3.4059 -0.2832
+\i (00:00:03) trapsize 389
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 3.7951 -0.0887
+\i (00:00:04) trapsize 778
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 3.6083 -0.3376
+\i (00:00:05) trapsize 389
+\i (00:00:06) prepopup 4.1142 0.0438
+\i (00:00:06) pick grid 3.9663 0.1061
+\t (00:00:06) last pick:  4.0000 0.0000
+\i (00:00:09) setwindow form.find
+\i (00:00:09) FORM find all_off  
+\i (00:00:09) FORM find pins YES 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) exit 
+\e (00:00:16) Do you want to save the changes you made to QFN50P600X600X80-41N.dra?
+\i (00:00:17) fillin no 
+\t (00:00:18)     Journal end - Mon Jul 05 01:07:08 2021

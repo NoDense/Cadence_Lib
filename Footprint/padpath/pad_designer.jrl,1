@@ -1,0 +1,33 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Sun Jul 04 23:59:37 2021
+\t (00:00:00)         Host=DESKTOP-2H3QU4Q User=ming1 Pid=12456 CPUs=8
+\t (00:00:00) CmdLine= D:\Program\Cadence\Cadence_SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:01) setwindow form.padedit
+\i (00:00:01) FORM padedit units Millimeter 
+\i (00:00:02) fillin yes 
+\w (00:00:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:04) FORM padedit hole_type Oval Slot 
+\i (00:00:10) FORM padedit hole_size_x 2.5 
+\i (00:00:13) FORM padedit hole_size_y 3.7 
+\i (00:00:15) FORM padedit plating Non-Plated 
+\i (00:00:17) FORM padedit layers  
+\i (00:00:18) FORM padedit grid row begin_layer 
+\i (00:00:22) FORM padedit geometry Oblong 
+\i (00:00:28) FORM padedit width 2 
+\i (00:00:32) FORM padedit height 3 
+\i (00:00:36) FORM padedit grid rpopup begin_layer 'Copy to all' 
+\i (00:00:36) setwindow form.padcopy
+\i (00:00:36) FORM padcopy pse_copy_soldermask YES 
+\i (00:00:37) FORM padcopy pse_copy_pastemask YES 
+\i (00:00:37) FORM padcopy pse_copy_done  
+\i (00:00:38) setwindow form.padedit
+\i (00:00:38) FORM padedit crossbox YES 
+\i (00:00:40) pse_save_as 
+\i (00:00:42) setwindow text
+\i (00:00:42) close 
+\i (00:00:43) fillin yes 
+\i (00:00:45) fillin "unnamed.pad"
+\i (00:00:46) setwindow form.padedit
+\i (00:00:46) pse_exit
+\t (00:00:46)     Journal end - Mon Jul 05 00:00:23 2021

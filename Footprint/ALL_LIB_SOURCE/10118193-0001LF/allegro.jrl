@@ -1,0 +1,94 @@
+\t (00:00:09) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:09)     Journal start - Mon Dec 09 20:54:02 2019
+\t (00:00:09)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=17472 CPUs=8
+\t (00:00:09) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe D:\ProgramData\CDS_LIB\Footprint\ALL_LIB_SOURCE\10118193-0001LF\FCI_10118193-0001LF.dra
+\t (00:00:09) 
+\t (00:00:11) Opening existing design...
+\d (00:00:11) Design opened: D:/ProgramData/CDS_LIB/Footprint/ALL_LIB_SOURCE/10118193-0001LF/FCI_10118193-0001LF.dra
+\i (00:00:11) trapsize 3697
+\i (00:00:11) trapsize 3611
+\i (00:00:11) trapsize 3712
+\i (00:00:12) trapsize 3165
+\i (00:00:12) trapsize 5349
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 36.3786 7.1884
+\i (00:00:12) trapsize 5349
+\i (00:00:12) generaledit 
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 36.2716 7.1884
+\i (00:00:12) trapsize 5349
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -7.3781 -1.9053
+\i (00:00:13) trapsize 2675
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -7.3780 -1.9052
+\i (00:00:13) trapsize 1337
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -3.4998 -0.8354
+\i (00:00:13) trapsize 669
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -3.4731 -0.8220
+\i (00:00:13) trapsize 334
+\i (00:00:21) prepopup -3.2457 -0.4675
+\i (00:00:23) pop dyn_option_select '@:@Show element' 
+\i (00:00:23) show element 
+\i (00:00:23) generaledit 
+\i (00:00:56) setwindow text
+\i (00:00:56) close 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) prepopup -3.3059 -0.4007
+\i (00:01:03) pick grid -4.1284 -0.7283
+\t (00:01:03) last pick:  -5.0800 0.0000
+\i (00:01:07) setwindow form.find
+\i (00:01:07) FORM find all_off  
+\i (00:01:09) FORM find pins YES 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) pick grid -3.4062 -0.1332
+\t (00:01:10) last pick:  -2.5400 0.0000
+\i (00:01:10) prepopup -3.4062 -0.1332
+\i (00:01:23) pop dyn_option_select 'Selection set@:@Select@:@Pin T_L50_90_180_M180_90, S5' 
+\i (00:01:24) prepopup -3.4263 -0.3672
+\i (00:01:34) pop dyn_option_select '@:@Show element' 
+\i (00:01:34) show element 
+\i (00:01:35) generaledit 
+\i (00:02:05) setwindow text
+\i (00:02:05) close 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 0.6927 -0.8487
+\i (00:02:05) trapsize 669
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 0.7461 -1.0225
+\i (00:02:05) trapsize 1337
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 0.7461 -1.0225
+\i (00:02:05) trapsize 2675
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in -1.1194 0.5288
+\i (00:02:06) trapsize 1337
+\i (00:02:07) zoom in 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom in -2.8579 1.0638
+\i (00:02:07) trapsize 669
+\i (00:02:07) zoom in 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom in -3.0986 1.4516
+\i (00:02:07) trapsize 334
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out -3.0250 1.4784
+\i (00:02:07) trapsize 669
+\i (00:02:09) exit 
+\e (00:02:09) Do you want to save the changes you made to FCI_10118193-0001LF.dra?
+\i (00:02:10) fillin no 
+\t (00:02:11)     Journal end - Mon Dec 09 20:56:04 2019

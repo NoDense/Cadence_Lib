@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LQFP144_20X20-M.dra                           )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Sun Apr 26 05:43:38 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-04-26_05-42-16
+    Name      = lqfp144_20x20-m.psm
+    User      = drunk_solder
+    Machine   = LAPTOP-LHSD8MAL
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

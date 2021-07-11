@@ -1,0 +1,19 @@
+\t (00:00:02) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:02)     Journal start - Sat Nov 07 13:44:41 2020
+\t (00:00:02)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=18228 CPUs=8
+\t (00:00:02) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: D:/ProgramData/CDS_LIB/Symbol/shared_epad_145_100.dra
+   (00:00:04) Loading cmds.cxt 
+\i (00:00:04) trapsize 248
+\i (00:00:04) trapsize 242
+\i (00:00:04) trapsize 249
+\i (00:00:05) trapsize 255
+\i (00:00:05) trapsize 255
+\i (00:00:05) generaledit 
+\i (00:00:09) opencd E:/OpenSource/Hardware/Quanta_Project_Olympus_US1-EPYC/Project_Olympus_US1_EPYC_Collateral/UDFN50P300X200X65-9N.dra 
+\t (00:00:09) Opening existing design...
+\i (00:00:09) trapsize 279
+\t (00:00:09)     Journal end - Sat Nov 07 13:44:49 2020

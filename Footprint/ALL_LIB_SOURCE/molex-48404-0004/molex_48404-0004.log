@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MOLEX_48404-0004.dra                          )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Mon Dec 09 22:05:04 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/ProgramData/CDS_LIB/Footprint/ALL_LIB_SOURCE/48404-0004
+    Name      = molex_48404-0004.psm
+    User      = drunk_solder
+    Machine   = LAPTOP-LHSD8MAL
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

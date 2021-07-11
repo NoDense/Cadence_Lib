@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : OSCCC320X250X60N.dra                          )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Wed Dec 11 01:30:27 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/ProgramData/CDS_LIB/Footprint/ALL_LIB_SOURCE/NX3225SA-16.000M-STD-CRS-2
+    Name      = osccc320x250x60n.psm
+    User      = drunk_solder
+    Machine   = LAPTOP-LHSD8MAL
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

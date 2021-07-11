@@ -1,0 +1,91 @@
+\t (00:00:05) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:05)     Journal start - Thu Jan 09 01:03:25 2020
+\t (00:00:05)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=11948 CPUs=8
+\t (00:00:05) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-01-07_02-06-11/LQFP208_28X28-L.dra
+\i (00:00:07) trapsize 50
+\i (00:00:07) trapsize 49
+\i (00:00:07) trapsize 50
+\i (00:00:08) trapsize 43
+\i (00:00:08) trapsize 43
+\i (00:00:09) trapsize 62435
+\i (00:00:09) generaledit 
+\t (00:00:11) Grids are drawn 800.00, 800.00 apart for enhanced viewability.
+\i (00:00:11) trapsize 43
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -1.19 -0.55
+\i (00:00:13) trapsize 85
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -1.18 -0.73
+\i (00:00:13) trapsize 170
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -1.19 -0.73
+\i (00:00:13) trapsize 341
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -1.18 -0.72
+\i (00:00:13) trapsize 681
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -1.18 -0.72
+\i (00:00:13) trapsize 1363
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 278.62 -0.72
+\i (00:00:13) trapsize 2726
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 205.03 -38.88
+\i (00:00:13) trapsize 1363
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -738.08 -38.88
+\i (00:00:13) trapsize 681
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in -738.08 -38.88
+\i (00:00:13) trapsize 341
+\i (00:00:14) roam start
+\i (00:00:14) roam x -48
+\i (00:00:14) roam y -32
+\i (00:00:14) roam x -80
+\i (00:00:14) roam y -48
+\i (00:00:14) roam x -144
+\i (00:00:14) roam y -144
+\i (00:00:14) roam x -80
+\i (00:00:14) roam y -112
+\i (00:00:14) roam x -16
+\i (00:00:14) roam y -48
+\i (00:00:14) roam x -16
+\i (00:00:14) roam y -32
+\i (00:00:14) roam x -16
+\i (00:00:14) roam y -64
+\i (00:00:14) roam y -48
+\i (00:00:15) roam x 640
+\i (00:00:15) roam y -432
+\i (00:00:15) roam x 80
+\i (00:00:15) roam end
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out -289.69 503.18
+\i (00:00:15) trapsize 681
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out -293.78 501.83
+\i (00:00:15) trapsize 1363
+\i (00:00:25) opencd 'E:/Êý¾ÝÊÖ²á/NXP/MCU/K66/FRDM-K66F-DF/LAYOUT/LAY-28682/LAY-FRDM-K66F_REV B.brd' 
+\t (00:00:25) Opening existing design...
+\w (00:00:25) WARNING(SPMHDB-212): This design has functionality disabled due to the current product plus options selected. The following features are disabled: Maximum Crosstalk, Maximum Peak Crosstalk, Via Z, Pin Delay. DRC set "out of date". [help]
+\i (00:00:26) fillin confirm
+\i (00:00:27) trapsize 15691
+\i (00:00:27) trapsize 15325
+\i (00:00:27) trapsize 15691
+\t (00:00:28) Grids are drawn 1024.00, 1024.00 apart for enhanced viewability.
+\i (00:00:28) trapsize 25639
+\t (00:00:28)     Journal end - Thu Jan 09 01:03:48 2020

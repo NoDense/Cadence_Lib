@@ -1,0 +1,99 @@
+\t (00:00:03) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:03)     Journal start - Sun Apr 26 05:44:56 2020
+\t (00:00:03)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=13016 CPUs=8
+\t (00:00:03) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe D:\Development\Ultra Librarian\Library\Exported\Allegro\2020-04-26_05-42-16\LQFP144_20X20.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: D:/Development/Ultra Librarian/Library/Exported/Allegro/2020-04-26_05-42-16/LQFP144_20X20.dra
+\i (00:00:05) trapsize 7817
+\i (00:00:05) trapsize 7634
+\i (00:00:05) trapsize 7848
+\i (00:00:06) trapsize 8041
+\i (00:00:06) trapsize 8041
+\i (00:00:07) generaledit 
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 386.337 409.281
+\i (00:00:07) trapsize 4020
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 386.338 409.282
+\i (00:00:07) trapsize 2010
+\i (00:00:08) roam start
+\i (00:00:08) roam x -32
+\i (00:00:08) roam y -48
+\i (00:00:08) roam x -48
+\i (00:00:08) roam y -144
+\i (00:00:08) roam x -16
+\i (00:00:08) roam y -96
+\i (00:00:09) roam end
+\i (00:00:09) roam start
+\i (00:00:09) roam x -16
+\i (00:00:09) roam x -80
+\i (00:00:09) roam x -96
+\i (00:00:09) roam x -176
+\i (00:00:09) roam x -176
+\i (00:00:09) roam x -208
+\i (00:00:10) roam x -48
+\i (00:00:10) roam x -96
+\i (00:00:10) roam x -48
+\i (00:00:10) roam x -64
+\i (00:00:10) roam x -64
+\i (00:00:10) roam x -32
+\i (00:00:10) roam end
+\i (00:00:11) roam start
+\i (00:00:11) roam x -128
+\i (00:00:11) roam x -224
+\i (00:00:11) roam y 96
+\i (00:00:11) roam x -64
+\i (00:00:11) roam y 112
+\i (00:00:11) roam x -96
+\i (00:00:11) roam y 208
+\i (00:00:11) roam x -16
+\i (00:00:11) roam y 64
+\i (00:00:11) roam y 32
+\i (00:00:11) roam x -16
+\i (00:00:11) roam y 64
+\i (00:00:11) roam x -16
+\i (00:00:11) roam y 64
+\i (00:00:11) roam end
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -415.660 174.083
+\i (00:00:11) trapsize 4020
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -425.309 200.618
+\i (00:00:12) trapsize 8041
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out -92.015 203.834
+\i (00:00:12) trapsize 16082
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 211.931 -433.004
+\i (00:00:12) trapsize 8041
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in -321.261 -433.004
+\i (00:00:12) trapsize 4020
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in -321.260 -433.004
+\i (00:00:12) trapsize 2010
+\i (00:00:14) roam start
+\i (00:00:14) roam x 192
+\i (00:00:14) roam y -16
+\i (00:00:14) roam x 160
+\i (00:00:14) roam y -16
+\i (00:00:14) roam x 128
+\i (00:00:14) roam x 64
+\i (00:00:14) roam y -16
+\i (00:00:14) roam x 80
+\i (00:00:14) roam x 96
+\i (00:00:14) roam end
+\i (00:00:15) exit 
+\e (00:00:15) Do you want to save the changes you made to LQFP144_20X20.dra?
+\i (00:00:17) fillin no 
+\t (00:00:17)     Journal end - Sun Apr 26 05:45:10 2020

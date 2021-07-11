@@ -1,0 +1,264 @@
+\t (00:00:02) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:02)     Journal start - Mon Dec 09 22:05:19 2019
+\t (00:00:02)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=17992 CPUs=8
+\t (00:00:02) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe D:\ProgramData\CDS_LIB\Footprint\ALL_LIB_SOURCE\molex-48404-0004\MOLEX_48404-0004.dra
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: D:/ProgramData/CDS_LIB/Footprint/ALL_LIB_SOURCE/molex-48404-0004/MOLEX_48404-0004.dra
+\i (00:00:04) trapsize 13929
+\i (00:00:04) trapsize 12723
+\i (00:00:04) trapsize 14079
+\i (00:00:04) trapsize 13247
+\i (00:00:05) trapsize 10563
+\i (00:00:05) trapsize 10563
+\i (00:00:05) generaledit 
+\i (00:00:06) trapsize 7681
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -4.5911 1.5690
+\i (00:00:07) trapsize 3840
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -4.4375 1.7226
+\i (00:00:07) trapsize 1920
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -1.0579 0.9929
+\i (00:00:08) trapsize 960
+\i (00:00:12) prmed 
+\i (00:00:14) setwindow form.prmedit
+\i (00:00:14) FORM prmedit display_plated_holes YES 
+\i (00:00:17) FORM prmedit done  
+\i (00:00:17) setwindow pcb
+\i (00:00:17) generaledit 
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -0.0786 1.5114
+\i (00:00:18) trapsize 1920
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 6.3732 3.5851
+\i (00:00:19) trapsize 960
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 6.3732 3.5852
+\i (00:00:19) trapsize 480
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 5.4323 2.7884
+\i (00:00:20) trapsize 960
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out 5.3938 2.7884
+\i (00:00:20) trapsize 1920
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 3.5504 -3.6252
+\i (00:00:21) trapsize 960
+\i (00:00:22) zoom in 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom in 4.8754 -2.3963
+\i (00:00:22) trapsize 480
+\i (00:00:30) prepopup 5.3938 -2.6843
+\i (00:00:31) pick grid 6.0755 -0.5720
+\t (00:00:31) last pick:  5.0800 0.0000
+\i (00:00:31) pick grid 5.6723 -2.5883
+\t (00:00:31) last pick:  5.0800 -2.5400
+\i (00:00:32) prepopup 5.6723 -2.5883
+\i (00:00:33) pop dyn_option_select '@:@Show element' 
+\i (00:00:33) show element 
+\i (00:00:33) generaledit 
+\i (00:09:13) setwindow text
+\i (00:09:13) close 
+\i (00:09:13) setwindow pcb
+\i (00:09:13) zoom out 1 
+\i (00:09:13) setwindow pcb
+\i (00:09:13) zoom out 6.0947 -0.7737
+\i (00:09:13) trapsize 960
+\i (00:09:16) pick grid 6.1907 0.8970
+\t (00:09:16) last pick:  5.0800 0.0000
+\i (00:09:16) zoom in 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom in 5.2306 2.9516
+\i (00:09:16) trapsize 480
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 5.5283 2.6636
+\i (00:09:17) trapsize 960
+\i (00:09:30) zoom in 1 
+\i (00:09:30) setwindow pcb
+\i (00:09:30) zoom in 5.4323 -2.6361
+\i (00:09:30) trapsize 480
+\i (00:09:30) zoom in 1 
+\i (00:09:30) setwindow pcb
+\i (00:09:30) zoom in 5.4323 -2.6361
+\i (00:09:30) trapsize 240
+\i (00:09:31) prepopup 6.4788 -1.5896
+\i (00:09:32) pick grid 6.0948 -1.4888
+\t (00:09:32) last pick:  5.0800 -2.5400
+\i (00:09:32) prepopup 6.0900 -1.4840
+\i (00:09:32) pick grid 5.8596 -1.3496
+\t (00:09:32) last pick:  5.0800 -2.5400
+\i (00:09:36) prmed 
+\i (00:09:38) setwindow form.prmedit
+\i (00:09:38) FORM prmedit display_non_plated_holes YES 
+\i (00:09:39) FORM prmedit done  
+\i (00:09:40) setwindow pcb
+\i (00:09:40) generaledit 
+\i (00:09:41) zoom out 1 
+\i (00:09:41) setwindow pcb
+\i (00:09:41) zoom out 3.8530 -2.1800
+\i (00:09:41) trapsize 480
+\i (00:09:41) zoom out 1 
+\i (00:09:41) setwindow pcb
+\i (00:09:41) zoom out 3.9010 -2.2665
+\i (00:09:41) trapsize 960
+\i (00:09:41) zoom out 1 
+\i (00:09:41) setwindow pcb
+\i (00:09:41) zoom out 3.9009 -2.2665
+\i (00:09:41) trapsize 1920
+\i (00:09:41) zoom in 1 
+\i (00:09:41) setwindow pcb
+\i (00:09:41) zoom in 4.8994 2.6109
+\i (00:09:41) trapsize 960
+\i (00:09:43) zoom out 1 
+\i (00:09:43) setwindow pcb
+\i (00:09:43) zoom out 5.3219 2.7837
+\i (00:09:43) trapsize 1920
+\i (00:09:43) zoom out 1 
+\i (00:09:43) setwindow pcb
+\i (00:09:43) zoom out 5.3603 2.2077
+\i (00:09:43) trapsize 3840
+\i (00:09:43) zoom in 1 
+\i (00:09:43) setwindow pcb
+\i (00:09:43) zoom in -5.8537 -2.1578
+\i (00:09:43) trapsize 1920
+\i (00:09:43) zoom in 1 
+\i (00:09:43) setwindow pcb
+\i (00:09:43) zoom in -5.9689 -2.0426
+\i (00:09:43) trapsize 960
+\i (00:09:43) zoom in 1 
+\i (00:09:43) setwindow pcb
+\i (00:09:43) zoom in -5.9881 -2.0041
+\i (00:09:43) trapsize 480
+\i (00:09:43) zoom in 1 
+\i (00:09:44) setwindow pcb
+\i (00:09:44) zoom in -5.8920 -1.7737
+\i (00:09:44) trapsize 240
+\i (00:09:50) prmed 
+\i (00:09:52) setwindow form.prmedit
+\i (00:09:52) FORM prmedit display_non_plated_holes NO 
+\i (00:09:53) FORM prmedit display_padless_holes NO 
+\i (00:09:55) FORM prmedit done  
+\i (00:09:55) setwindow pcb
+\i (00:09:55) generaledit 
+\i (00:09:56) zoom out 1 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) zoom out -4.5911 -2.8586
+\i (00:09:56) trapsize 480
+\i (00:09:56) zoom out 1 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) zoom out -4.6294 -2.8490
+\i (00:09:56) trapsize 960
+\i (00:09:56) zoom out 1 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) zoom out -4.6293 -2.8490
+\i (00:09:56) trapsize 1920
+\i (00:09:56) zoom in 1 
+\i (00:09:56) setwindow pcb
+\i (00:09:56) zoom in 4.3956 -0.6601
+\i (00:09:56) trapsize 960
+\i (00:09:58) zoom in 1 
+\i (00:09:58) setwindow pcb
+\i (00:09:58) zoom in 5.7974 2.7195
+\i (00:09:58) trapsize 480
+\i (00:09:58) zoom in 1 
+\i (00:09:58) setwindow pcb
+\i (00:09:58) zoom in 5.7974 2.7195
+\i (00:09:58) trapsize 240
+\i (00:10:07) setwindow form.find
+\i (00:10:07) FORM find all_off  
+\i (00:10:08) FORM find shapes YES 
+\i (00:10:08) setwindow pcb
+\i (00:10:08) pick grid 5.9078 2.9931
+\t (00:10:08) last pick:  5.0800 2.5400
+\i (00:10:12) setwindow form.find
+\i (00:10:12) FORM find all_off  
+\i (00:10:13) FORM find clines YES 
+\i (00:10:14) FORM find clines NO 
+\i (00:10:14) FORM find lines YES 
+\i (00:10:15) setwindow pcb
+\i (00:10:15) pick grid 5.9462 2.8299
+\t (00:10:15) last pick:  5.0800 2.5400
+\i (00:10:30) zoom out 1 
+\i (00:10:30) setwindow pcb
+\i (00:10:30) zoom out 5.4278 2.5899
+\i (00:10:30) trapsize 480
+\i (00:10:30) zoom out 1 
+\i (00:10:30) setwindow pcb
+\i (00:10:30) zoom out 5.1781 2.3979
+\i (00:10:30) trapsize 960
+\i (00:10:30) zoom out 1 
+\i (00:10:30) setwindow pcb
+\i (00:10:30) zoom out 5.1398 2.3594
+\i (00:10:30) trapsize 1920
+\i (00:10:31) zoom in 1 
+\i (00:10:31) setwindow pcb
+\i (00:10:31) zoom in 2.6819 -0.7129
+\i (00:10:31) trapsize 960
+\i (00:10:31) zoom in 1 
+\i (00:10:31) setwindow pcb
+\i (00:10:31) zoom in 2.6820 -0.7128
+\i (00:10:31) trapsize 480
+\i (00:10:32) zoom in 1 
+\i (00:10:32) setwindow pcb
+\i (00:10:32) zoom in 4.3814 -2.8154
+\i (00:10:32) trapsize 240
+\i (00:10:32) zoom in 1 
+\i (00:10:32) setwindow pcb
+\i (00:10:32) zoom in 4.3814 -2.8154
+\i (00:10:32) trapsize 120
+\i (00:10:33) zoom out 1 
+\i (00:10:33) setwindow pcb
+\i (00:10:33) zoom out 4.3022 -2.5202
+\i (00:10:33) trapsize 240
+\i (00:10:33) zoom out 1 
+\i (00:10:33) setwindow pcb
+\i (00:10:33) zoom out 4.3022 -2.5345
+\i (00:10:33) trapsize 480
+\i (00:10:33) zoom out 1 
+\i (00:10:33) setwindow pcb
+\i (00:10:33) zoom out 4.3022 -2.5730
+\i (00:10:33) trapsize 960
+\i (00:10:34) zoom in 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom in 5.1280 -2.5153
+\i (00:10:34) trapsize 480
+\i (00:10:34) zoom in 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom in 5.1280 -2.5153
+\i (00:10:34) trapsize 240
+\i (00:10:35) zoom in 1 
+\i (00:10:35) setwindow pcb
+\i (00:10:35) zoom in 5.1520 -2.5104
+\i (00:10:35) trapsize 120
+\i (00:10:36) zoom out 1 
+\i (00:10:36) setwindow pcb
+\i (00:10:36) zoom out 4.7224 -1.7879
+\i (00:10:36) trapsize 240
+\i (00:10:36) zoom out 1 
+\i (00:10:37) setwindow pcb
+\i (00:10:37) zoom out 4.7416 -2.6808
+\i (00:10:37) trapsize 480
+\i (00:10:37) zoom out 1 
+\i (00:10:37) setwindow pcb
+\i (00:10:37) zoom out 4.9911 -3.5448
+\i (00:10:37) trapsize 960
+\i (00:10:37) zoom out 1 
+\i (00:10:37) setwindow pcb
+\i (00:10:37) zoom out 1.4965 -1.4519
+\i (00:10:37) trapsize 1920
+\i (00:10:39) exit 
+\e (00:10:39) Do you want to save the changes you made to MOLEX_48404-0004.dra?
+\i (00:10:40) fillin no 
+\t (00:10:40)     Journal end - Mon Dec 09 22:15:58 2019

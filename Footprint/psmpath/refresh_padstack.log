@@ -1,0 +1,48 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : SOIC50P490X110-10N.dra                        )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Mon May 11 20:34:57 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon May 11 20:34:57 2020				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'SOIC50P490X110-10N.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/local/pcb/symbols 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/pcb/pcb_lib/symbols 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/ProgramData/CDS_LIB/Footprint/psmpath/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/local/pcb/padstacks 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/pcb/pcb_lib/symbols 
+           D:/Development/Cadence/Cadence_SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/ProgramData/CDS_LIB/Footprint/padpath/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'S_R165_30_M170_40_P165_30'  pad stack refresh starting.
+
+     'S_R165_30_M170_40_P165_30'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

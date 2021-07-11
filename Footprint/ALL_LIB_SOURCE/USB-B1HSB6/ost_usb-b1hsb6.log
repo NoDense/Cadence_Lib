@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : OST_USB-B1HSB6.dra                            )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Mon Dec 09 20:57:25 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/ProgramData/CDS_LIB/Footprint/ALL_LIB_SOURCE/USB-B1HSB6
+    Name      = ost_usb-b1hsb6.psm
+    User      = drunk_solder
+    Machine   = LAPTOP-LHSD8MAL
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

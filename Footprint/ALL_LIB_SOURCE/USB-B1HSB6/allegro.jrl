@@ -1,0 +1,314 @@
+\t (00:00:01) allegro 16.6-2015 S108 (v16-6-112HV) Windows 32
+\t (00:00:01)     Journal start - Mon Dec 09 20:56:09 2019
+\t (00:00:01)         Host=LAPTOP-LHSD8MAL User=drunk_solder Pid=15036 CPUs=8
+\t (00:00:01) CmdLine= D:\Development\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe D:\ProgramData\CDS_LIB\Footprint\ALL_LIB_SOURCE\USB-B1HSB6\OST_USB-B1HSB6.dra
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/ProgramData/CDS_LIB/Footprint/ALL_LIB_SOURCE/USB-B1HSB6/OST_USB-B1HSB6.dra
+\i (00:00:03) trapsize 10688
+\i (00:00:04) trapsize 10439
+\i (00:00:04) trapsize 10731
+\i (00:00:04) trapsize 9150
+\i (00:00:04) trapsize 12436
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 95.9847 0.4395
+\i (00:00:04) trapsize 12436
+\i (00:00:05) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 10.9216 -5.0324
+\i (00:00:05) trapsize 6218
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -22.5315 -3.7888
+\i (00:00:05) trapsize 3109
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 3.8331 -2.8561
+\i (00:00:06) trapsize 1555
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 3.8331 -2.8561
+\i (00:00:06) trapsize 777
+\i (00:00:13) pick grid 6.1804 -2.1099
+\t (00:00:13) last pick:  5.0800 -2.5400
+\i (00:00:13) prepopup 6.1804 -2.1099
+\i (00:00:17) pop dyn_option_select '@:@Show element' 
+\i (00:00:17) show element 
+\i (00:00:17) generaledit 
+\i (00:00:35) setwindow text
+\i (00:00:35) close 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) pick grid 12.4607 -0.5554
+\t (00:00:36) last pick:  12.7000 0.0000
+\i (00:00:36) prepopup 11.5591 -0.3067
+\i (00:00:36) pick grid 9.8335 0.2529
+\t (00:00:36) last pick:  10.1600 0.0000
+\i (00:00:36) prepopup 9.8335 0.2529
+\i (00:00:37) pick grid 8.0458 1.6365
+\t (00:00:37) last pick:  7.6200 2.5400
+\i (00:00:41) prmed 
+\i (00:00:47) setwindow form.prmedit
+\i (00:00:47) FORM prmedit display_plated_holes YES 
+\i (00:00:47) FORM prmedit display_non_plated_holes YES 
+\i (00:00:48) FORM prmedit done  
+\i (00:00:48) setwindow pcb
+\i (00:00:48) generaledit 
+\i (00:00:49) pick grid 9.6004 -2.4519
+\t (00:00:49) last pick:  10.1600 -2.5400
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 9.5226 -2.4675
+\i (00:00:49) trapsize 1555
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 9.4294 -2.7783
+\i (00:00:49) trapsize 3109
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in 8.2479 -1.4104
+\i (00:00:50) trapsize 1555
+\i (00:00:50) zoom in 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom in 8.2480 -1.4103
+\i (00:00:50) trapsize 777
+\i (00:00:50) prepopup 10.1134 -0.2133
+\i (00:00:51) pick grid 9.4294 0.0820
+\t (00:00:51) last pick:  10.1600 0.0000
+\i (00:00:53) zoom in 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom in 8.0148 -1.6901
+\i (00:00:53) trapsize 389
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 7.0821 -1.7522
+\i (00:00:54) trapsize 777
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 7.0821 -1.7523
+\i (00:00:54) trapsize 1555
+\i (00:00:55) prepopup 11.3103 -1.4725
+\i (00:00:55) prepopup 10.9684 0.0199
+\i (00:00:56) prepopup 10.5331 1.2635
+\i (00:00:56) prepopup 10.5020 2.0096
+\i (00:00:56) pick grid 10.2533 2.5382
+\t (00:00:56) last pick:  10.1600 2.5400
+\i (00:00:57) prepopup 10.2533 2.5382
+\i (00:00:57) prepopup 9.9113 3.3776
+\i (00:00:57) pick grid 9.7247 3.9372
+\t (00:00:57) last pick:  10.1600 5.0800
+\i (00:00:57) prepopup 9.7247 3.9372
+\i (00:00:58) pick grid 9.0718 5.0876
+\t (00:00:58) last pick:  10.1600 5.0800
+\i (00:01:00) prmed 
+\i (00:01:02) setwindow form.prmedit
+\i (00:01:02) FORM prmedit display_non_plated_holes NO 
+\i (00:01:03) FORM prmedit done  
+\i (00:01:03) setwindow pcb
+\i (00:01:03) generaledit 
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 7.0510 -1.5657
+\i (00:01:03) trapsize 777
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in 7.0510 -1.5502
+\i (00:01:04) trapsize 389
+\i (00:01:06) prmed 
+\i (00:01:07) setwindow form.prmedit
+\i (00:01:07) FORM prmedit display_plated_holes NO 
+\i (00:01:09) FORM prmedit done  
+\i (00:01:09) setwindow pcb
+\i (00:01:09) generaledit 
+\i (00:01:11) prmed 
+\i (00:01:12) setwindow form.prmedit
+\i (00:01:12) FORM prmedit display_plated_holes YES 
+\i (00:01:13) FORM prmedit done  
+\i (00:01:13) setwindow pcb
+\i (00:01:13) generaledit 
+\i (00:01:14) prepopup 9.1496 -0.5630
+\i (00:01:14) pick grid 8.8309 -0.2599
+\t (00:01:14) last pick:  7.6200 0.0000
+\i (00:01:15) prepopup 8.6444 -0.3065
+\i (00:01:16) pick grid 8.2791 -0.0656
+\t (00:01:16) last pick:  7.6200 0.0000
+\i (00:01:16) save 
+\i (00:01:17) fillin yes 
+\t (00:01:18) Symbol 'ost_usb-b1hsb6.psm' created.
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 6.4059 -1.6900
+\i (00:01:18) trapsize 777
+\i (00:01:18) generaledit 
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 5.0068 -1.4414
+\i (00:01:18) trapsize 1555
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 5.0069 -1.4413
+\i (00:01:18) trapsize 3109
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 0.6542 -0.5708
+\i (00:01:19) trapsize 1555
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 0.6542 -0.4775
+\i (00:01:19) trapsize 777
+\i (00:01:21) zoom out 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom out -3.4030 -1.8299
+\i (00:01:21) trapsize 1555
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in -5.6415 -1.8611
+\i (00:01:21) trapsize 777
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out -4.5999 -1.7212
+\i (00:01:32) trapsize 1555
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out -4.6000 -1.7211
+\i (00:01:32) trapsize 3109
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in -8.0821 -3.8353
+\i (00:01:32) trapsize 1555
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in -8.0821 -3.8353
+\i (00:01:32) trapsize 777
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in -8.0821 -3.8353
+\i (00:01:32) trapsize 389
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out -6.4421 -2.8093
+\i (00:01:33) trapsize 777
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out 0.6776 -2.4362
+\i (00:01:35) trapsize 1555
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out 0.5844 -3.1512
+\i (00:01:35) trapsize 3109
+\i (00:01:39) zoom in 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom in -1.5766 -3.5865
+\i (00:01:39) trapsize 1555
+\i (00:01:39) zoom in 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom in -1.6077 -3.4621
+\i (00:01:39) trapsize 777
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out -1.6388 -3.3377
+\i (00:01:39) trapsize 1555
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out -1.6388 -3.4309
+\i (00:01:39) trapsize 3109
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out -1.5766 -3.6797
+\i (00:01:39) trapsize 6218
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out 49.5981 -3.6796
+\i (00:01:39) trapsize 12436
+\i (00:01:40) zoom in 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in -22.1584 -11.7479
+\i (00:01:40) trapsize 6218
+\i (00:01:40) zoom in 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in -37.5792 -11.7478
+\i (00:01:40) trapsize 3109
+\i (00:01:41) prepopup 13.7198 3.4243
+\i (00:01:41) prepopup 11.9787 5.3519
+\i (00:01:41) pick grid 10.4864 8.0878
+\t (00:01:41) last pick:  10.1600 7.6200
+\i (00:01:42) pick grid 5.5119 9.3936
+\t (00:01:42) last pick:  5.0800 10.1600
+\i (00:01:42) prepopup 5.6985 9.4558
+\i (00:01:42) pick grid 1.7811 10.2641
+\t (00:01:42) last pick:  2.5400 10.1600
+\i (00:01:42) pick grid dbl 1.7811 10.2641
+\t (00:01:42) last pick:  2.5400 10.1600
+\i (00:01:42) prepopup 1.7811 10.3263
+\i (00:01:42) pick grid -1.8254 10.6372
+\t (00:01:42) last pick:  -2.5400 10.1600
+\i (00:01:42) pick grid dbl -1.8254 10.6372
+\t (00:01:42) last pick:  -2.5400 10.1600
+\i (00:01:43) prepopup -1.8254 10.6372
+\i (00:01:43) pick grid -8.2300 9.8289
+\t (00:01:43) last pick:  -7.6200 10.1600
+\i (00:45:22) prepopup 23.6065 -16.8466
+\i (00:45:22) prepopup 19.9378 -8.7009
+\i (00:45:23) prepopup 13.5954 -2.1098
+\i (00:45:23) pick grid 12.2274 0.1909
+\t (00:45:23) last pick:  12.7000 0.0000
+\i (00:49:04) zoom out 1 
+\i (00:49:04) setwindow pcb
+\i (00:49:04) zoom out -1.7632 -13.9863
+\i (00:49:04) trapsize 6218
+\i (00:49:04) zoom out 1 
+\i (00:49:04) setwindow pcb
+\i (00:49:04) zoom out 35.9182 -16.2247
+\i (00:49:04) trapsize 12436
+\i (00:49:05) zoom in 1 
+\i (00:49:05) setwindow pcb
+\i (00:49:05) zoom in -20.1687 -0.8041
+\i (00:49:05) trapsize 6218
+\i (00:49:05) zoom in 1 
+\i (00:49:05) setwindow pcb
+\i (00:49:05) zoom in -36.7087 1.5588
+\i (00:49:05) trapsize 3109
+\i (00:49:05) zoom in 1 
+\i (00:49:06) setwindow pcb
+\i (00:49:06) zoom in -6.5511 3.3620
+\i (00:49:06) trapsize 1555
+\i (00:49:06) zoom in 1 
+\i (00:49:06) setwindow pcb
+\i (00:49:06) zoom in -6.5511 3.3620
+\i (00:49:06) trapsize 777
+\i (00:49:09) zoom out 1 
+\i (00:49:09) setwindow pcb
+\i (00:49:09) zoom out -3.8929 3.9994
+\i (00:49:09) trapsize 1555
+\i (00:49:09) zoom out 1 
+\i (00:49:09) setwindow pcb
+\i (00:49:09) zoom out -4.1105 3.5330
+\i (00:49:09) trapsize 3109
+\i (00:49:10) zoom in 1 
+\i (00:49:10) setwindow pcb
+\i (00:49:10) zoom in 0.3044 -2.9960
+\i (00:49:10) trapsize 1555
+\i (00:49:10) zoom in 1 
+\i (00:49:10) setwindow pcb
+\i (00:49:10) zoom in 0.3977 -2.6851
+\i (00:49:10) trapsize 777
+\i (00:49:17) pick grid -1.1723 1.0613
+\t (00:49:17) last pick:  0.0000 0.0000
+\i (00:49:17) prepopup -1.1723 1.0613
+\i (00:49:19) pop dyn_option_select '@:@Show element' 
+\i (00:49:19) show element 
+\i (00:49:19) generaledit 
+\i (00:58:03) setwindow text
+\i (00:58:03) close 
+\i (00:58:03) setwindow pcb
+\i (00:58:03) zoom out 1 
+\i (00:58:03) setwindow pcb
+\i (00:58:03) zoom out 2.2010 -0.9130
+\i (00:58:03) trapsize 1555
+\i (00:58:03) zoom out 1 
+\i (00:58:03) setwindow pcb
+\i (00:58:03) zoom out 1.9212 -1.4725
+\i (00:58:03) trapsize 3109
+\i (00:58:04) exit 
+\t (00:58:05)     Journal end - Mon Dec 09 21:54:13 2019
